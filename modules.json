@@ -1,1 +1,2092 @@
-[]
+[
+  {
+    "moduleId": "tiann_KernelSU",
+    "moduleName": "KernelSU",
+    "authors": [
+      {
+        "name": "tiann",
+        "link": "https://github.com/tiann"
+      }
+    ],
+    "summary": "A Kernel based root solution for Android",
+    "metamodule": false,
+    "stargazerCount": 16944,
+    "updatedAt": "2026-06-24T02:59:47Z",
+    "createdAt": "2022-12-09T14:03:54Z",
+    "latestRelease": {
+      "name": "v3.2.5",
+      "version": "v3.2.5",
+      "time": "2026-06-23T14:17:14Z",
+      "downloadUrl": "https://github.com/tiann/KernelSU/releases/download/v3.2.5/KernelSU_v3.2.5_32525-release.apk",
+      "versionCode": 10
+    }
+  },
+  {
+    "moduleId": "Dr-TSNG_ZygiskNext",
+    "moduleName": "ZygiskNext",
+    "authors": [
+      {
+        "name": "Dr-TSNG",
+        "link": "https://github.com/Dr-TSNG"
+      }
+    ],
+    "summary": "Standalone implementation of Zygisk",
+    "metamodule": false,
+    "stargazerCount": 9790,
+    "updatedAt": "2026-06-23T23:08:25Z",
+    "createdAt": "2023-01-28T07:45:16Z",
+    "latestRelease": {
+      "name": "1.4.2",
+      "version": "v1.4.2",
+      "time": "2026-06-22T13:19:32Z",
+      "downloadUrl": "https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.2/Zygisk-Next-1.4.2-789-119aaa0-release.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "KernelSU-Next_KernelSU-Next",
+    "moduleName": "KernelSU-Next",
+    "authors": [
+      {
+        "name": "KernelSU-Next",
+        "link": "https://github.com/KernelSU-Next"
+      }
+    ],
+    "summary": "An advanced Kernel based root solution for Android",
+    "metamodule": false,
+    "stargazerCount": 3804,
+    "updatedAt": "2026-06-23T23:49:07Z",
+    "createdAt": "2025-01-11T08:30:02Z",
+    "latestRelease": {
+      "name": "v3.2.0",
+      "version": "v3.2.0",
+      "time": "2026-04-14T21:15:04Z",
+      "downloadUrl": "https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v3.2.0/KernelSU_Next_v3.2.0-spoofed_33129-release.apk",
+      "versionCode": 10
+    }
+  },
+  {
+    "moduleId": "PerformanC_ReZygisk",
+    "moduleName": "ReZygisk",
+    "authors": [
+      {
+        "name": "PerformanC",
+        "link": "https://github.com/PerformanC"
+      }
+    ],
+    "summary": "Transparent implementation of Zygisk.",
+    "metamodule": false,
+    "stargazerCount": 3659,
+    "updatedAt": "2026-06-24T02:55:47Z",
+    "createdAt": "2024-06-15T14:56:39Z",
+    "latestRelease": {
+      "name": "v1.0.0",
+      "version": "v1.0.0",
+      "time": "2026-05-10T23:08:58Z",
+      "downloadUrl": "https://github.com/PerformanC/ReZygisk/releases/download/v1.0.0/ReZygisk-v1.0.0-debug.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "KOWX712_Tricky-Addon-Update-Target-List",
+    "moduleName": "Tricky-Addon-Update-Target-List",
+    "authors": [
+      {
+        "name": "KOWX712",
+        "link": "https://github.com/KOWX712"
+      }
+    ],
+    "summary": "A KSU WebUI to configure Tricky Store target.txt",
+    "metamodule": false,
+    "stargazerCount": 3215,
+    "updatedAt": "2026-06-24T01:56:44Z",
+    "createdAt": "2024-10-15T19:59:35Z",
+    "latestRelease": {
+      "name": "v4.4",
+      "version": "v4.4",
+      "time": "2026-06-21T08:19:21Z",
+      "downloadUrl": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/download/v4.4/TrickyAddonModule-v4.4.zip",
+      "versionCode": 4
+    }
+  },
+  {
+    "moduleId": "snake-4_Zygisk-Assistant",
+    "moduleName": "Zygisk-Assistant",
+    "authors": [
+      {
+        "name": "snake-4",
+        "link": "https://github.com/snake-4"
+      }
+    ],
+    "summary": "A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.",
+    "metamodule": false,
+    "stargazerCount": 2512,
+    "updatedAt": "2026-06-24T03:12:46Z",
+    "createdAt": "2024-03-03T18:20:02Z",
+    "latestRelease": {
+      "name": "v2.1.4",
+      "version": "v2.1.4",
+      "time": "2025-02-23T00:18:35Z",
+      "downloadUrl": "https://github.com/snake-4/Zygisk-Assistant/releases/download/v2.1.4/Zygisk-Assistant-v2.1.4-1013f8a-debug.zip",
+      "versionCode": 8
+    }
+  },
+  {
+    "moduleId": "NVISOsecurity_AlwaysTrustUserCerts",
+    "moduleName": "AlwaysTrustUserCerts",
+    "authors": [
+      {
+        "name": "NVISOsecurity",
+        "link": "https://github.com/NVISOsecurity"
+      }
+    ],
+    "summary": "A Magisk/KernelSU module that automatically adds user certificates to the system root CA store",
+    "metamodule": false,
+    "stargazerCount": 2494,
+    "updatedAt": "2026-06-23T03:59:25Z",
+    "createdAt": "2017-12-15T15:22:28Z",
+    "latestRelease": {
+      "name": "v1.3",
+      "version": "v1.3",
+      "time": "2025-05-21T07:51:30Z",
+      "downloadUrl": "https://github.com/NVISOsecurity/AlwaysTrustUserCerts/releases/download/v1.3/AlwaysTrustUserCerts_v1.3.zip",
+      "versionCode": 3
+    }
+  },
+  {
+    "moduleId": "sidex15_susfs4ksu-module",
+    "moduleName": "susfs4ksu-module",
+    "authors": [
+      {
+        "name": "sidex15",
+        "link": "https://github.com/sidex15"
+      }
+    ],
+    "summary": "An addon root hiding service for KernelSU",
+    "metamodule": false,
+    "stargazerCount": 2392,
+    "updatedAt": "2026-06-23T14:08:41Z",
+    "createdAt": "2024-10-19T03:13:26Z",
+    "latestRelease": {
+      "name": "v1.5.2+ Revision 27",
+      "version": "v1.5.2+_R27",
+      "time": "2026-03-27T14:23:40Z",
+      "downloadUrl": "https://github.com/sidex15/susfs4ksu-module/releases/download/v1.5.2%2B_R27/ksu_module_susfs_1.5.2%2B.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "MeowDump_Integrity-Box",
+    "moduleName": "Integrity-Box",
+    "authors": [
+      {
+        "name": "MeowDump",
+        "link": "https://github.com/MeowDump"
+      }
+    ],
+    "summary": "A toolkit for managing Play Integrity & System Environment",
+    "metamodule": false,
+    "stargazerCount": 2339,
+    "updatedAt": "2026-06-24T01:05:02Z",
+    "createdAt": "2025-02-27T01:50:55Z",
+    "latestRelease": {
+      "name": "V37",
+      "version": "v37",
+      "time": "2026-06-20T20:21:59Z",
+      "downloadUrl": "https://github.com/MeowDump/Integrity-Box/releases/download/v37/v37-Integrity-Box-21-06-2026.zip",
+      "versionCode": 2026
+    }
+  },
+  {
+    "moduleId": "MMRLApp_MMRL",
+    "moduleName": "MMRL",
+    "authors": [
+      {
+        "name": "MMRLApp",
+        "link": "https://github.com/MMRLApp"
+      }
+    ],
+    "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
+    "metamodule": false,
+    "stargazerCount": 2059,
+    "updatedAt": "2026-06-23T05:42:40Z",
+    "createdAt": "2022-04-25T15:25:29Z",
+    "latestRelease": {
+      "name": "v34296",
+      "version": "v34296",
+      "time": "2026-03-08T22:24:34Z",
+      "downloadUrl": "https://github.com/MMRLApp/MMRL/releases/download/v34296/MMRL-v34296-release-official.apk",
+      "versionCode": 34296
+    }
+  },
+  {
+    "moduleId": "ys1231_MoveCertificate",
+    "moduleName": "MoveCertificate",
+    "authors": [
+      {
+        "name": "ys1231",
+        "link": "https://github.com/ys1231"
+      }
+    ],
+    "summary": "支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/kernelsu/APatch",
+    "metamodule": false,
+    "stargazerCount": 1884,
+    "updatedAt": "2026-06-23T06:05:55Z",
+    "createdAt": "2022-10-09T18:07:36Z",
+    "latestRelease": {
+      "name": "v1.5.8",
+      "version": "v1.5.8",
+      "time": "2026-06-15T14:22:45Z",
+      "downloadUrl": "https://github.com/ys1231/MoveCertificate/releases/download/v1.5.8/MoveCertificate-v1.5.8.zip",
+      "versionCode": 8
+    }
+  },
+  {
+    "moduleId": "CHIZI-0618_box4magisk",
+    "moduleName": "box4magisk",
+    "authors": [
+      {
+        "name": "CHIZI-0618",
+        "link": "https://github.com/CHIZI-0618"
+      }
+    ],
+    "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
+    "metamodule": false,
+    "stargazerCount": 1854,
+    "updatedAt": "2026-06-21T19:06:26Z",
+    "createdAt": "2022-11-01T04:28:02Z",
+    "latestRelease": {
+      "name": "v5.1",
+      "version": "v5.1",
+      "time": "2024-09-16T05:42:02Z",
+      "downloadUrl": "https://github.com/CHIZI-0618/box4magisk/releases/download/v5.1/box4_v5.1.zip",
+      "versionCode": 1
+    }
+  },
+  {
+    "moduleId": "WildKernels_GKI_KernelSU_SUSFS",
+    "moduleName": "GKI_KernelSU_SUSFS",
+    "authors": [
+      {
+        "name": "WildKernels",
+        "link": "https://github.com/WildKernels"
+      }
+    ],
+    "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
+    "metamodule": false,
+    "stargazerCount": 1419,
+    "updatedAt": "2026-06-23T16:29:32Z",
+    "createdAt": "2024-12-26T21:24:20Z",
+    "latestRelease": {
+      "name": "Wild Kernels for GKI2 Devices 5.10+ Release 4",
+      "version": "r4",
+      "time": "2026-06-05T22:35:43Z",
+      "downloadUrl": "https://github.com/WildKernels/GKI_KernelSU_SUSFS/releases/download/r4/5.10.101-android12-2022-04-AnyKernel3.zip",
+      "versionCode": 3
+    }
+  },
+  {
+    "moduleId": "bindhosts_bindhosts",
+    "moduleName": "bindhosts",
+    "authors": [
+      {
+        "name": "bindhosts",
+        "link": "https://github.com/bindhosts"
+      }
+    ],
+    "summary": "Systemless hosts for APatch / KernelSU / Magisk",
+    "metamodule": false,
+    "stargazerCount": 1311,
+    "updatedAt": "2026-06-23T18:46:10Z",
+    "createdAt": "2024-02-02T15:49:45Z",
+    "latestRelease": {
+      "name": "Release v2.1.3",
+      "version": "v2.1.3",
+      "time": "2026-05-04T06:25:53Z",
+      "downloadUrl": "https://github.com/bindhosts/bindhosts/releases/download/v2.1.3/bindhosts.zip",
+      "versionCode": 3
+    }
+  },
+  {
+    "moduleId": "ravindu644_Droidspaces-OSS",
+    "moduleName": "Droidspaces-OSS",
+    "authors": [
+      {
+        "name": "ravindu644",
+        "link": "https://github.com/ravindu644"
+      }
+    ],
+    "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
+    "metamodule": false,
+    "stargazerCount": 1309,
+    "updatedAt": "2026-06-24T01:49:12Z",
+    "createdAt": "2026-02-18T13:42:14Z",
+    "latestRelease": {
+      "name": "Droidspaces v6.3.0",
+      "version": "v6.3.0",
+      "time": "2026-06-10T10:09:13Z",
+      "downloadUrl": "https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.3.0/Droidspaces-universal-v6.3.0-2026-06-10.apk",
+      "versionCode": 10
+    }
+  },
+  {
+    "moduleId": "Numbersf_Action-Build",
+    "moduleName": "Action-Build",
+    "authors": [
+      {
+        "name": "Numbersf",
+        "link": "https://github.com/Numbersf"
+      }
+    ],
+    "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
+    "metamodule": false,
+    "stargazerCount": 1243,
+    "updatedAt": "2026-06-23T19:58:43Z",
+    "createdAt": "2025-04-04T02:54:54Z",
+    "latestRelease": {
+      "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
+      "version": "40069",
+      "time": "2025-11-09T05:41:46Z",
+      "downloadUrl": "https://github.com/Numbersf/Action-Build/releases/download/40069/AnyKernel3_SukiSUUltra_40069_OnePlus10Pro_Android15.0.0.5.10.209._LSM_VFS.zip",
+      "versionCode": 209
+    }
+  },
+  {
+    "moduleId": "twoone-3_AdGuardHomeForRoot",
+    "moduleName": "AdGuardHomeForRoot",
+    "authors": [
+      {
+        "name": "twoone-3",
+        "link": "https://github.com/twoone-3"
+      }
+    ],
+    "summary": "A module to easily execute AdGuardHome on Android",
+    "metamodule": false,
+    "stargazerCount": 1239,
+    "updatedAt": "2026-06-23T15:09:14Z",
+    "createdAt": "2023-11-22T14:48:00Z",
+    "latestRelease": {
+      "name": "20260526",
+      "version": "20260526",
+      "time": "2026-05-26T13:59:44Z",
+      "downloadUrl": "https://github.com/twoone-3/AdGuardHomeForRoot/releases/download/20260526/AdGuardHomeForRoot_arm64.zip",
+      "versionCode": 64
+    }
+  },
+  {
+    "moduleId": "backslashxx_mountify",
+    "moduleName": "mountify",
+    "authors": [
+      {
+        "name": "backslashxx",
+        "link": "https://github.com/backslashxx"
+      }
+    ],
+    "summary": "Globally mounted modules via OverlayFS.",
+    "metamodule": false,
+    "stargazerCount": 1140,
+    "updatedAt": "2026-06-23T15:22:56Z",
+    "createdAt": "2025-01-10T12:35:03Z",
+    "latestRelease": {
+      "name": "202",
+      "version": "202",
+      "time": "2026-06-23T03:45:32Z",
+      "downloadUrl": "https://github.com/backslashxx/mountify/releases/download/202/mountify.zip",
+      "versionCode": 202
+    }
+  },
+  {
+    "moduleId": "MRepoApp_MRepo",
+    "moduleName": "MRepo",
+    "authors": [
+      {
+        "name": "MRepoApp",
+        "link": "https://github.com/MRepoApp"
+      }
+    ],
+    "summary": "A modules manager for Magisk, KernelSU and APatch",
+    "metamodule": false,
+    "stargazerCount": 1121,
+    "updatedAt": "2026-06-23T19:46:58Z",
+    "createdAt": "2022-10-14T10:39:04Z",
+    "latestRelease": {
+      "name": "v2.5.0",
+      "version": "v2.5.0",
+      "time": "2024-07-02T10:21:08Z",
+      "downloadUrl": "https://github.com/MRepoApp/MRepo/releases/download/v2.5.0/MRepo-2.5.0.a27eaf7-921-release.apk",
+      "versionCode": 921
+    }
+  },
+  {
+    "moduleId": "symbuzzer_systemless-hosts-KernelSU-module",
+    "moduleName": "systemless-hosts-KernelSU-module",
+    "authors": [
+      {
+        "name": "symbuzzer",
+        "link": "https://github.com/symbuzzer"
+      }
+    ],
+    "summary": "Required module to use applications such as AdAway on KernelSU and APatch",
+    "metamodule": false,
+    "stargazerCount": 623,
+    "updatedAt": "2026-06-23T00:06:34Z",
+    "createdAt": "2023-06-30T10:31:40Z",
+    "latestRelease": {
+      "name": "v1.2.2",
+      "version": "v1.2.2",
+      "time": "2025-09-26T05:41:04Z",
+      "downloadUrl": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/releases/download/v1.2.2/systemless-hosts-KernelSU-module.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "WildKernels_OnePlus_KernelSU_SUSFS",
+    "moduleName": "OnePlus_KernelSU_SUSFS",
+    "authors": [
+      {
+        "name": "WildKernels",
+        "link": "https://github.com/WildKernels"
+      }
+    ],
+    "summary": "OnePlus Kernels with KernelSU & SUSFS",
+    "metamodule": false,
+    "stargazerCount": 594,
+    "updatedAt": "2026-06-23T11:30:27Z",
+    "createdAt": "2024-12-07T23:27:22Z",
+    "latestRelease": {
+      "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
+      "version": "v2.2.0-r1",
+      "time": "2026-06-22T03:07:53Z",
+      "downloadUrl": "https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/releases/download/v2.2.0-r1/AK3_OP-ACE-2-PRO_OOS15_android13-5.15.149_KSUN_33201_SuSFS_v2.2.0.zip",
+      "versionCode": 1
+    }
+  },
+  {
+    "moduleId": "MMRLApp_WebUI-X-Portable",
+    "moduleName": "WebUI-X-Portable",
+    "authors": [
+      {
+        "name": "MMRLApp",
+        "link": "https://github.com/MMRLApp"
+      }
+    ],
+    "summary": "WebUI X from MMRL but portable!",
+    "metamodule": false,
+    "stargazerCount": 589,
+    "updatedAt": "2026-06-23T09:47:06Z",
+    "createdAt": "2025-04-20T22:16:38Z",
+    "latestRelease": {
+      "name": "v438",
+      "version": "v438",
+      "time": "2026-05-10T18:56:47Z",
+      "downloadUrl": "https://github.com/MMRLApp/WebUI-X-Portable/releases/download/v438/WebUI-X-v438-release-official.apk",
+      "versionCode": 438
+    }
+  },
+  {
+    "moduleId": "reveny_Android-VBMeta-Fixer",
+    "moduleName": "Android-VBMeta-Fixer",
+    "authors": [
+      {
+        "name": "reveny",
+        "link": "https://github.com/reveny"
+      }
+    ],
+    "summary": "A Magisk/KernelSU/Apatch module to fix VBMeta detections on Android",
+    "metamodule": false,
+    "stargazerCount": 511,
+    "updatedAt": "2026-06-22T14:36:23Z",
+    "createdAt": "2024-10-29T14:33:58Z",
+    "latestRelease": {
+      "name": "Release v1.2.0",
+      "version": "v1.2.0",
+      "time": "2025-05-10T07:20:15Z",
+      "downloadUrl": "https://github.com/reveny/Android-VBMeta-Fixer/releases/download/v1.2.0/vbmeta-fixer-v1.2.0.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "anasfanani_magisk-tailscaled",
+    "moduleName": "magisk-tailscaled",
+    "authors": [
+      {
+        "name": "anasfanani",
+        "link": "https://github.com/anasfanani"
+      }
+    ],
+    "summary": "Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way to use WireGuard and 2FA.",
+    "metamodule": false,
+    "stargazerCount": 474,
+    "updatedAt": "2026-06-23T22:37:00Z",
+    "createdAt": "2023-12-13T20:02:49Z",
+    "latestRelease": {
+      "name": "Magisk Tailscaled v2.0.0.1",
+      "version": "v2.0.0.1",
+      "time": "2025-11-04T10:31:04Z",
+      "downloadUrl": "https://github.com/anasfanani/magisk-tailscaled/releases/download/v2.0.0.1/Magisk-Tailscaled-v2.0.0.1-full.zip",
+      "versionCode": 1
+    }
+  },
+  {
+    "moduleId": "cxOrz_AnyWhere",
+    "moduleName": "AnyWhere",
+    "authors": [
+      {
+        "name": "cxOrz",
+        "link": "https://github.com/cxOrz"
+      }
+    ],
+    "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
+    "metamodule": false,
+    "stargazerCount": 460,
+    "updatedAt": "2026-06-24T02:02:46Z",
+    "createdAt": "2026-01-15T16:59:56Z",
+    "latestRelease": {
+      "name": "v2.1.8",
+      "version": "v2.1.8",
+      "time": "2026-03-15T14:24:14Z",
+      "downloadUrl": "https://github.com/cxOrz/AnyWhere/releases/download/v2.1.8/AnyWhere_2.1.8_arm64-v8a_release.apk",
+      "versionCode": 8
+    }
+  },
+  {
+    "moduleId": "symbuzzer_livebootmodule",
+    "moduleName": "livebootmodule",
+    "authors": [
+      {
+        "name": "symbuzzer",
+        "link": "https://github.com/symbuzzer"
+      }
+    ],
+    "summary": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
+    "metamodule": false,
+    "stargazerCount": 423,
+    "updatedAt": "2026-06-21T14:27:49Z",
+    "createdAt": "2023-05-08T16:17:59Z",
+    "latestRelease": {
+      "name": "v5.0.0",
+      "version": "v5.0.0",
+      "time": "2025-07-13T15:36:19Z",
+      "downloadUrl": "https://github.com/symbuzzer/livebootmodule/releases/download/v5.0.0/livebootmodule.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "KernelSU-Next_KPatch-Next-Module",
+    "moduleName": "KPatch-Next-Module",
+    "authors": [
+      {
+        "name": "KernelSU-Next",
+        "link": "https://github.com/KernelSU-Next"
+      }
+    ],
+    "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
+    "metamodule": false,
+    "stargazerCount": 422,
+    "updatedAt": "2026-06-23T05:43:11Z",
+    "createdAt": "2025-12-30T05:59:35Z",
+    "latestRelease": {
+      "name": "Release v0.0.1",
+      "version": "v0.0.1",
+      "time": "2026-01-20T09:48:22Z",
+      "downloadUrl": "https://github.com/KernelSU-Next/KPatch-Next-Module/releases/download/v0.0.1/KPatch-Next-Module.zip",
+      "versionCode": 1
+    }
+  },
+  {
+    "moduleId": "okhsunrog_vpnhide",
+    "moduleName": "vpnhide",
+    "authors": [
+      {
+        "name": "okhsunrog",
+        "link": "https://github.com/okhsunrog"
+      }
+    ],
+    "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
+    "metamodule": false,
+    "stargazerCount": 415,
+    "updatedAt": "2026-06-23T23:19:02Z",
+    "createdAt": "2026-04-09T21:43:44Z",
+    "latestRelease": {
+      "name": "v0.7.1",
+      "version": "v0.7.1",
+      "time": "2026-04-21T13:51:02Z",
+      "downloadUrl": "https://github.com/okhsunrog/vpnhide/releases/download/v0.7.1/vpnhide-kmod-android12-5.10.zip",
+      "versionCode": 10
+    }
+  },
+  {
+    "moduleId": "KernelSU-Modules-Repo_meta-overlayfs",
+    "moduleName": "meta-overlayfs",
+    "authors": [
+      {
+        "name": "KernelSU-Modules-Repo",
+        "link": "https://github.com/KernelSU-Modules-Repo"
+      }
+    ],
+    "summary": "OverlayFS MetaModule",
+    "metamodule": false,
+    "stargazerCount": 407,
+    "updatedAt": "2026-06-22T18:00:36Z",
+    "createdAt": "2025-11-21T04:35:16Z",
+    "latestRelease": {
+      "name": "v1.3.1",
+      "version": "v1.3.1",
+      "time": "2025-12-02T12:57:14Z",
+      "downloadUrl": "https://github.com/KernelSU-Modules-Repo/meta-overlayfs/releases/download/v1.3.1/meta-overlayfs-13100-1.3.1.zip",
+      "versionCode": 1
+    }
+  },
+  {
+    "moduleId": "changhuapeng_FrameworkPatcherGO",
+    "moduleName": "FrameworkPatcherGO",
+    "authors": [
+      {
+        "name": "changhuapeng",
+        "link": "https://github.com/changhuapeng"
+      }
+    ],
+    "summary": "A Magisk/KernelSU/APatch module to modify framework.jar directly on the phone, to build a valid system-level certificate chain.",
+    "metamodule": false,
+    "stargazerCount": 372,
+    "updatedAt": "2026-06-22T04:33:29Z",
+    "createdAt": "2024-05-30T06:21:07Z",
+    "latestRelease": {
+      "name": "v1.2.2",
+      "version": "v1.2.2",
+      "time": "2024-07-05T15:43:20Z",
+      "downloadUrl": "https://github.com/changhuapeng/FrameworkPatcherGO/releases/download/v1.2.2/FrameworkPatcherGO-v1.2.2.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "Kyliekyler_MAGNETAR",
+    "moduleName": "MAGNETAR",
+    "authors": [
+      {
+        "name": "Kyliekyler",
+        "link": "https://github.com/Kyliekyler"
+      }
+    ],
+    "summary": "Device Performance Optimizer — Aims To Provide An Optimal Experience At Every Usage Scenario",
+    "metamodule": false,
+    "stargazerCount": 307,
+    "updatedAt": "2026-06-19T11:32:52Z",
+    "createdAt": "2019-08-18T12:50:20Z",
+    "latestRelease": {
+      "name": "MAGNETAR+ 19.6.0 (YANKEE)",
+      "version": "v19.6.0",
+      "time": "2025-08-30T02:48:34Z",
+      "downloadUrl": "https://github.com/Kyliekyler/MAGNETAR/releases/download/v19.6.0/MAGNETAR.19.6.0.YANKEE.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "mikropsoft_StevenBlock",
+    "moduleName": "StevenBlock",
+    "authors": [
+      {
+        "name": "mikropsoft",
+        "link": "https://github.com/mikropsoft"
+      }
+    ],
+    "summary": "🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒",
+    "metamodule": false,
+    "stargazerCount": 289,
+    "updatedAt": "2026-06-07T02:30:26Z",
+    "createdAt": "2024-03-20T17:27:37Z",
+    "latestRelease": {
+      "name": "V4.0 🎉",
+      "version": "V4.0",
+      "time": "2026-03-02T15:23:50Z",
+      "downloadUrl": "https://github.com/mikropsoft/StevenBlock/releases/download/V4.0/StevenBlock.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "qdykernel_Build_Oneplus_Realme_Action",
+    "moduleName": "Build_Oneplus_Realme_Action",
+    "authors": [
+      {
+        "name": "qdykernel",
+        "link": "https://github.com/qdykernel"
+      }
+    ],
+    "summary": "Build the (Re)SukiSU kernel for OnePlus/Realme",
+    "metamodule": false,
+    "stargazerCount": 277,
+    "updatedAt": "2026-06-20T12:18:38Z",
+    "createdAt": "2025-05-24T13:43:26Z",
+    "latestRelease": {
+      "name": "SM8750 oneplus_ace5_pro Kernel Build - 2026-06-13 17:48:35",
+      "version": "SM8750-oneplus_ace5_pro-build-260613174835",
+      "time": "2026-06-13T09:48:38Z",
+      "downloadUrl": "https://github.com/qdykernel/Build_Oneplus_Realme_Action/releases/download/SM8750-oneplus_ace5_pro-build-260613174835/AK3_34967_oneplus_ace5_pro_ReSukiSU.zip",
+      "versionCode": 5
+    }
+  },
+  {
+    "moduleId": "rrr333nnn333_BRENE",
+    "moduleName": "BRENE",
+    "authors": [
+      {
+        "name": "rrr333nnn333",
+        "link": "https://github.com/rrr333nnn333"
+      }
+    ],
+    "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
+    "metamodule": false,
+    "stargazerCount": 273,
+    "updatedAt": "2026-06-23T12:59:17Z",
+    "createdAt": "2025-12-20T02:37:31Z",
+    "latestRelease": {
+      "name": "BRENE v0.0.52",
+      "version": "v0.0.52",
+      "time": "2026-06-21T05:35:09Z",
+      "downloadUrl": "https://github.com/rrr333nnn333/BRENE/releases/download/v0.0.52/BRENE.zip",
+      "versionCode": 52
+    }
+  },
+  {
+    "moduleId": "peternmuller_revanced-morphe-builder",
+    "moduleName": "revanced-morphe-builder",
+    "authors": [
+      {
+        "name": "peternmuller",
+        "link": "https://github.com/peternmuller"
+      }
+    ],
+    "summary": "An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.",
+    "metamodule": false,
+    "stargazerCount": 232,
+    "updatedAt": "2026-06-23T18:08:38Z",
+    "createdAt": "2024-07-16T23:47:19Z",
+    "latestRelease": {
+      "name": "Release",
+      "version": "148",
+      "time": "2026-06-23T14:49:31Z",
+      "downloadUrl": "https://github.com/peternmuller/revanced-morphe-builder/releases/download/148/youtube-morphe-module-v20.51.39-all.zip",
+      "versionCode": 39
+    }
+  },
+  {
+    "moduleId": "chisewaguri_systemapp_nuker",
+    "moduleName": "systemapp_nuker",
+    "authors": [
+      {
+        "name": "chisewaguri",
+        "link": "https://github.com/chisewaguri"
+      }
+    ],
+    "summary": "A KernelSU module to debloat system apps with WebUI Interface",
+    "metamodule": false,
+    "stargazerCount": 231,
+    "updatedAt": "2026-06-23T22:56:56Z",
+    "createdAt": "2025-03-07T08:51:25Z",
+    "latestRelease": {
+      "name": "v1.2.1",
+      "version": "v1.2.1",
+      "time": "2026-05-09T04:55:51Z",
+      "downloadUrl": "https://github.com/chisewaguri/systemapp_nuker/releases/download/v1.2.1/SAN_v1.2.1.zip",
+      "versionCode": 1
+    }
+  },
+  {
+    "moduleId": "ukriu_HyperUnlocked",
+    "moduleName": "HyperUnlocked",
+    "authors": [
+      {
+        "name": "ukriu",
+        "link": "https://github.com/ukriu"
+      }
+    ],
+    "summary": "A Magisk/KernelSU/APatch module to unlock high-end features on all Xiaomi devices.",
+    "metamodule": false,
+    "stargazerCount": 194,
+    "updatedAt": "2026-06-21T14:54:20Z",
+    "createdAt": "2025-02-17T06:51:18Z",
+    "latestRelease": {
+      "name": "Release v2.2.2",
+      "version": "v2.2.2",
+      "time": "2026-06-19T18:18:16Z",
+      "downloadUrl": "https://github.com/ukriu/HyperUnlocked/releases/download/v2.2.2/HyperUnlocked.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "tehcneko_XiaomiEsimLPA",
+    "moduleName": "XiaomiEsimLPA",
+    "authors": [
+      {
+        "name": "tehcneko",
+        "link": "https://github.com/tehcneko"
+      }
+    ],
+    "summary": "A Magisk/KernelSU module trying to add native eSIM management support for Xiaomi devices with MIUI and Xiaomi HyperOS.",
+    "metamodule": false,
+    "stargazerCount": 184,
+    "updatedAt": "2026-06-21T17:06:30Z",
+    "createdAt": "2024-08-07T01:46:04Z",
+    "latestRelease": {
+      "name": "v4",
+      "version": "v4",
+      "time": "2026-01-12T07:26:45Z",
+      "downloadUrl": "https://github.com/tehcneko/XiaomiEsimLPA/releases/download/v4/XiaomiEsimLPA.zip",
+      "versionCode": 4
+    }
+  },
+  {
+    "moduleId": "WildKernels_Sultan_KernelSU_SUSFS",
+    "moduleName": "Sultan_KernelSU_SUSFS",
+    "authors": [
+      {
+        "name": "WildKernels",
+        "link": "https://github.com/WildKernels"
+      }
+    ],
+    "summary": "Sultan Kernels built with KernelSU & SUSFS",
+    "metamodule": false,
+    "stargazerCount": 180,
+    "updatedAt": "2026-06-23T02:43:37Z",
+    "createdAt": "2025-01-19T03:05:13Z",
+    "latestRelease": {
+      "name": "Sultan Kernels With KernelSU Next & SUSFS v2.1.0",
+      "version": "v2.0.0-r12",
+      "time": "2026-05-08T10:28:29Z",
+      "downloadUrl": "https://github.com/WildKernels/Sultan_KernelSU_SUSFS/releases/download/v2.0.0-r12/gs201-a16-stock-anykernel3-v2.0.0-r12.zip",
+      "versionCode": 12
+    }
+  },
+  {
+    "moduleId": "RipperHybrid_AshLooper",
+    "moduleName": "AshLooper",
+    "authors": [
+      {
+        "name": "RipperHybrid",
+        "link": "https://github.com/RipperHybrid"
+      }
+    ],
+    "summary": "A module designed to prevent boot loops caused by problematic modules installed via KernelSU or Magisk on Android devices.",
+    "metamodule": false,
+    "stargazerCount": 164,
+    "updatedAt": "2026-06-24T02:33:34Z",
+    "createdAt": "2024-02-06T16:43:12Z",
+    "latestRelease": {
+      "name": "AshLooper Version 9.8 Release",
+      "version": "v9.8",
+      "time": "2026-05-22T08:41:58Z",
+      "downloadUrl": "https://github.com/RipperHybrid/AshLooper/releases/download/v9.8/AshReXcue_Bootloop_Protector_9.8_198.zip",
+      "versionCode": 198
+    }
+  },
+  {
+    "moduleId": "nullcpy_rvb",
+    "moduleName": "rvb",
+    "authors": [
+      {
+        "name": "nullcpy",
+        "link": "https://github.com/nullcpy"
+      }
+    ],
+    "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
+    "metamodule": false,
+    "stargazerCount": 147,
+    "updatedAt": "2026-06-23T23:02:20Z",
+    "createdAt": "2025-05-28T06:53:46Z",
+    "latestRelease": {
+      "name": "Build No. 387",
+      "version": "387",
+      "time": "2026-06-23T16:09:41Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/387/reddit-morphe-exp-module-v2026.25.0-arm-v7a.zip",
+      "versionCode": 7
+    }
+  },
+  {
+    "moduleId": "KernelSU-Next_KPatch-Next",
+    "moduleName": "KPatch-Next",
+    "authors": [
+      {
+        "name": "KernelSU-Next",
+        "link": "https://github.com/KernelSU-Next"
+      }
+    ],
+    "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
+    "metamodule": false,
+    "stargazerCount": 128,
+    "updatedAt": "2026-06-18T23:45:06Z",
+    "createdAt": "2025-12-29T23:02:41Z",
+    "latestRelease": {
+      "name": "0.13.5-2",
+      "version": "0.13.5-2",
+      "time": "2026-01-20T16:00:31Z",
+      "downloadUrl": "https://github.com/KernelSU-Next/KPatch-Next/releases/download/0.13.5-2/kpuser.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "fatalcoder524_TCP_Optimiser_Module",
+    "moduleName": "TCP_Optimiser_Module",
+    "authors": [
+      {
+        "name": "fatalcoder524",
+        "link": "https://github.com/fatalcoder524"
+      }
+    ],
+    "summary": "A Magisk/KernelSU module to change tcp congestion algorithm based on current active internet type and some network enhancements.",
+    "metamodule": false,
+    "stargazerCount": 122,
+    "updatedAt": "2026-06-19T15:39:16Z",
+    "createdAt": "2025-05-09T17:07:07Z",
+    "latestRelease": {
+      "name": "2.4",
+      "version": "v2.4",
+      "time": "2026-06-13T11:05:46Z",
+      "downloadUrl": "https://github.com/fatalcoder524/TCP_Optimiser_Module/releases/download/v2.4/TCP_Optimiser-2.4-16.zip",
+      "versionCode": 16
+    }
+  },
+  {
+    "moduleId": "MemDeco-WG_RootModuleMaker",
+    "moduleName": "RootModuleMaker",
+    "authors": [
+      {
+        "name": "MemDeco-WG",
+        "link": "https://github.com/MemDeco-WG"
+      }
+    ],
+    "summary": "RMM Python+rust 混合 项目。Magisk/Apatch/Kernelsu模块开发，构建，测试，发布全流程 。CLI 程序",
+    "metamodule": false,
+    "stargazerCount": 117,
+    "updatedAt": "2026-06-03T12:22:34Z",
+    "createdAt": "2024-08-18T09:26:36Z",
+    "latestRelease": {
+      "name": "v3",
+      "version": "v3",
+      "time": "2025-11-09T10:20:25Z",
+      "downloadUrl": "https://github.com/MemDeco-WG/RootModuleMaker/releases/download/v3/RootModuleMaker-main.zip",
+      "versionCode": 3
+    }
+  },
+  {
+    "moduleId": "symbuzzer_Volte-Wifi-Calling-Enabler",
+    "moduleName": "Volte-Wifi-Calling-Enabler",
+    "authors": [
+      {
+        "name": "symbuzzer",
+        "link": "https://github.com/symbuzzer"
+      }
+    ],
+    "summary": "Volte and Wifi Calling Enabler Magisk and KernelSU Module",
+    "metamodule": false,
+    "stargazerCount": 116,
+    "updatedAt": "2026-06-22T13:39:29Z",
+    "createdAt": "2022-11-06T11:12:26Z",
+    "latestRelease": {
+      "name": "v1.1.2",
+      "version": "v1.1.2",
+      "time": "2024-04-16T14:42:52Z",
+      "downloadUrl": "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler/releases/download/v1.1.2/Volte-Wifi-Calling-Enabler.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "RuriOSS_asl",
+    "moduleName": "asl",
+    "authors": [
+      {
+        "name": "RuriOSS",
+        "link": "https://github.com/RuriOSS"
+      }
+    ],
+    "summary": "Android Subsystem for GNU/Linux (magisk/ksu/Apatch module)",
+    "metamodule": false,
+    "stargazerCount": 116,
+    "updatedAt": "2026-06-21T08:44:05Z",
+    "createdAt": "2024-12-01T06:40:10Z",
+    "latestRelease": {
+      "name": "asl v1.0 release",
+      "version": "v1.0",
+      "time": "2024-12-10T04:46:04Z",
+      "downloadUrl": "https://github.com/RuriOSS/asl/releases/download/v1.0/asl-alpine-edge.zip",
+      "versionCode": 9
+    }
+  },
+  {
+    "moduleId": "Enginex0_zeromount",
+    "moduleName": "zeromount",
+    "authors": [
+      {
+        "name": "Enginex0",
+        "link": "https://github.com/Enginex0"
+      }
+    ],
+    "summary": "Mountless module loading for rooted Android. Kernel-level VFS path redirection — zero mount table pollution. SUSFS integration, WebUI, bootloop guard, and strategy fallback.",
+    "metamodule": false,
+    "stargazerCount": 102,
+    "updatedAt": "2026-06-22T13:42:15Z",
+    "createdAt": "2026-01-28T18:39:42Z",
+    "latestRelease": {
+      "name": "v2.0.216-dev",
+      "version": "v2.0.216-dev",
+      "time": "2026-04-15T02:44:54Z",
+      "downloadUrl": "https://github.com/Enginex0/zeromount/releases/download/v2.0.216-dev/zeromount-v2.0.216-dev-debug.zip",
+      "versionCode": 216
+    }
+  },
+  {
+    "moduleId": "Magisk-Modules-Alt-Repo_compatible-magisk-mirroring",
+    "moduleName": "compatible-magisk-mirroring",
+    "authors": [
+      {
+        "name": "Magisk-Modules-Alt-Repo",
+        "link": "https://github.com/Magisk-Modules-Alt-Repo"
+      }
+    ],
+    "summary": "A Magisk module providing the compatible Magisk-mirroring for installing pure Magisk modules on incompatible Magisk's and KernelSU (incl. APatch)",
+    "metamodule": false,
+    "stargazerCount": 100,
+    "updatedAt": "2026-05-12T12:07:15Z",
+    "createdAt": "2024-03-30T22:50:36Z",
+    "latestRelease": {
+      "name": "v1.1.3",
+      "version": "v1.1.3",
+      "time": "2024-04-15T06:47:45Z",
+      "downloadUrl": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/releases/download/v1.1.3/magisk-module-compatible-magisk-mirroring-v1.1.3.zip",
+      "versionCode": 3
+    }
+  },
+  {
+    "moduleId": "ShivamXD6_Simple-Flag-Secure",
+    "moduleName": "Simple-Flag-Secure",
+    "authors": [
+      {
+        "name": "ShivamXD6",
+        "link": "https://github.com/ShivamXD6"
+      }
+    ],
+    "summary": "⚡Simple Flag Secure Magisk Module ⚡ to Disable Secure Flag and allow taking screenshots/screen recording in apps supports KSU/APatch",
+    "metamodule": false,
+    "stargazerCount": 99,
+    "updatedAt": "2026-06-22T21:23:00Z",
+    "createdAt": "2024-06-09T14:58:51Z",
+    "latestRelease": {
+      "name": "🆕 v5 - Changelogs",
+      "version": "v5",
+      "time": "2025-10-23T16:28:18Z",
+      "downloadUrl": "https://github.com/ShivamXD6/Simple-Flag-Secure/releases/download/v5/SimpleFlagSecure.zip",
+      "versionCode": 5
+    }
+  },
+  {
+    "moduleId": "adivenxnataly_KsuWebUI",
+    "moduleName": "KsuWebUI",
+    "authors": [
+      {
+        "name": "adivenxnataly",
+        "link": "https://github.com/adivenxnataly"
+      }
+    ],
+    "summary": "A standalone app implementation of KernelSU WebUI.",
+    "metamodule": false,
+    "stargazerCount": 99,
+    "updatedAt": "2026-06-19T13:23:10Z",
+    "createdAt": "2025-05-12T06:22:47Z",
+    "latestRelease": {
+      "name": "1.0-11",
+      "version": "1.0-11",
+      "time": "2025-06-20T06:16:12Z",
+      "downloadUrl": "https://github.com/adivenxnataly/KsuWebUI/releases/download/1.0-11/KsuWebUI-release-mappings.zip",
+      "versionCode": 11
+    }
+  },
+  {
+    "moduleId": "MMRLApp_MMRL-CLI",
+    "moduleName": "MMRL-CLI",
+    "authors": [
+      {
+        "name": "MMRLApp",
+        "link": "https://github.com/MMRLApp"
+      }
+    ],
+    "summary": "MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules",
+    "metamodule": false,
+    "stargazerCount": 86,
+    "updatedAt": "2026-06-12T15:03:01Z",
+    "createdAt": "2023-10-16T07:38:00Z",
+    "latestRelease": {
+      "name": "v0.3.11",
+      "version": "v0.3.11",
+      "time": "2024-08-18T14:46:27Z",
+      "downloadUrl": "https://github.com/MMRLApp/MMRL-CLI/releases/download/v0.3.11/mmrl-0.3.11-module-aarch64.zip",
+      "versionCode": 64
+    }
+  },
+  {
+    "moduleId": "nullptr-t-oss_EmberHeart_OnePlus11",
+    "moduleName": "EmberHeart_OnePlus11",
+    "authors": [
+      {
+        "name": "nullptr-t-oss",
+        "link": "https://github.com/nullptr-t-oss"
+      }
+    ],
+    "summary": "OnePlus 11 EmberHeart kernel with Nethunter, KernelSU-Next and SuSFS",
+    "metamodule": false,
+    "stargazerCount": 83,
+    "updatedAt": "2026-06-21T16:04:11Z",
+    "createdAt": "2025-10-01T04:15:12Z",
+    "latestRelease": {
+      "name": "OnePlus 11 EmberHeart Kernel With KernelSU Next, Nethunter & SUSFS v2.0.0-OOS16",
+      "version": "v2.0.0-r5",
+      "time": "2026-01-10T12:38:08Z",
+      "downloadUrl": "https://github.com/nullptr-t-oss/EmberHeart_OnePlus11/releases/download/v2.0.0-r5/kernel_modules_OP11.zip",
+      "versionCode": 11
+    }
+  },
+  {
+    "moduleId": "RabehX_YT-ReVanced-Module",
+    "moduleName": "YT-ReVanced-Module",
+    "authors": [
+      {
+        "name": "RabehX",
+        "link": "https://github.com/RabehX"
+      }
+    ],
+    "summary": "This Magisk and KernelSU module is for YouTube ReVanced.",
+    "metamodule": false,
+    "stargazerCount": 74,
+    "updatedAt": "2026-05-05T22:25:34Z",
+    "createdAt": "2022-11-04T16:08:46Z",
+    "latestRelease": {
+      "name": "v18.46.40",
+      "version": "v18.46.40",
+      "time": "2023-11-25T11:02:48Z",
+      "downloadUrl": "https://github.com/RabehX/YT-ReVanced-Module/releases/download/v18.46.40/YT-ReVanced-Module.zip",
+      "versionCode": 40
+    }
+  },
+  {
+    "moduleId": "Magisk-Modules-Alt-Repo_StevenBlock",
+    "moduleName": "StevenBlock",
+    "authors": [
+      {
+        "name": "Magisk-Modules-Alt-Repo",
+        "link": "https://github.com/Magisk-Modules-Alt-Repo"
+      }
+    ],
+    "summary": "🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒",
+    "metamodule": false,
+    "stargazerCount": 73,
+    "updatedAt": "2026-06-21T12:07:38Z",
+    "createdAt": "2024-06-04T06:56:49Z",
+    "latestRelease": {
+      "name": "V4.0 🎉",
+      "version": "V4.0",
+      "time": "2026-03-02T15:23:51Z",
+      "downloadUrl": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/releases/download/V4.0/StevenBlock.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "Aurora-Nasa-1_ARMIAS",
+    "moduleName": "ARMIAS",
+    "authors": [
+      {
+        "name": "Aurora-Nasa-1",
+        "link": "https://github.com/Aurora-Nasa-1"
+      }
+    ],
+    "summary": "Auto modules and patch installer framework",
+    "metamodule": false,
+    "stargazerCount": 72,
+    "updatedAt": "2026-06-03T12:22:41Z",
+    "createdAt": "2024-10-13T02:36:51Z",
+    "latestRelease": {
+      "name": "v3.2",
+      "version": "v3.2",
+      "time": "2025-06-24T12:06:26Z",
+      "downloadUrl": "https://github.com/Aurora-Nasa-1/ARMIAS/releases/download/v3.2/ARMIAS_v3.2_en.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "FurLC_ZRAM-Module",
+    "moduleName": "ZRAM-Module",
+    "authors": [
+      {
+        "name": "FurLC",
+        "link": "https://github.com/FurLC"
+      }
+    ],
+    "summary": "A Magisk/KernelSU module that provides ZRAM compression algorithm support for Android devices",
+    "metamodule": false,
+    "stargazerCount": 66,
+    "updatedAt": "2026-06-17T11:40:57Z",
+    "createdAt": "2025-05-24T11:21:03Z",
+    "latestRelease": {
+      "name": "v1.3.0",
+      "version": "v1.3.0",
+      "time": "2025-05-31T12:23:22Z",
+      "downloadUrl": "https://github.com/FurLC/ZRAM-Module/releases/download/v1.3.0/ZRAM-Module-v1.3.0.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "Mrakorez_py2droid",
+    "moduleName": "py2droid",
+    "authors": [
+      {
+        "name": "Mrakorez",
+        "link": "https://github.com/Mrakorez"
+      }
+    ],
+    "summary": "Magisk/KernelSU/APatch module to install Python 3 on Android.",
+    "metamodule": false,
+    "stargazerCount": 66,
+    "updatedAt": "2026-06-23T21:32:55Z",
+    "createdAt": "2025-06-15T14:50:20Z",
+    "latestRelease": {
+      "name": "v0.3.5",
+      "version": "v0.3.5",
+      "time": "2026-06-10T19:02:49Z",
+      "downloadUrl": "https://github.com/Mrakorez/py2droid/releases/download/v0.3.5/py2droid-v0.3.5.zip",
+      "versionCode": 5
+    }
+  },
+  {
+    "moduleId": "Cai-Ming-Yu_CMY-CacheCleaner",
+    "moduleName": "CMY-CacheCleaner",
+    "authors": [
+      {
+        "name": "Cai-Ming-Yu",
+        "link": "https://github.com/Cai-Ming-Yu"
+      }
+    ],
+    "summary": "アプリの起動時にキャッシュをクリアするよ！After the app starts, clear the cache first! (A very simple and easy-to-use Xposed module (Magisk(KernelSU/APatch) is also supported))",
+    "metamodule": false,
+    "stargazerCount": 64,
+    "updatedAt": "2026-06-03T12:22:02Z",
+    "createdAt": "2023-10-21T16:12:13Z",
+    "latestRelease": {
+      "name": "Version 1.3.2 (2024.09.21)",
+      "version": "v1.3.2",
+      "time": "2024-09-21T08:28:06Z",
+      "downloadUrl": "https://github.com/Cai-Ming-Yu/CMY-CacheCleaner/releases/download/v1.3.2/CacheCleaner-V1.3.2-Magisk.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "supermarsx_magisk-samsung-dex-standalone-mode",
+    "moduleName": "magisk-samsung-dex-standalone-mode",
+    "authors": [
+      {
+        "name": "supermarsx",
+        "link": "https://github.com/supermarsx"
+      }
+    ],
+    "summary": "A Magisk module to systemlessly enable Samsung DeX standalone mode",
+    "metamodule": false,
+    "stargazerCount": 59,
+    "updatedAt": "2026-06-23T23:39:13Z",
+    "createdAt": "2024-05-25T22:53:30Z",
+    "latestRelease": {
+      "name": "2026.3",
+      "version": "2026.3",
+      "time": "2026-04-15T22:22:17Z",
+      "downloadUrl": "https://github.com/supermarsx/magisk-samsung-dex-standalone-mode/releases/download/2026.3/magisk-samsung-dex-standalone-mode.zip",
+      "versionCode": 3
+    }
+  },
+  {
+    "moduleId": "daglaroglou_LimitlessPhotos",
+    "moduleName": "LimitlessPhotos",
+    "authors": [
+      {
+        "name": "daglaroglou",
+        "link": "https://github.com/daglaroglou"
+      }
+    ],
+    "summary": "🤖 Magisk/KernelSU module to unlock unlimited, original quality backup plan on Google Photos.",
+    "metamodule": false,
+    "stargazerCount": 49,
+    "updatedAt": "2026-05-26T06:15:35Z",
+    "createdAt": "2025-05-17T00:38:10Z",
+    "latestRelease": {
+      "name": "v1.1.1",
+      "version": "1.1.1",
+      "time": "2025-06-27T07:31:10Z",
+      "downloadUrl": "https://github.com/daglaroglou/LimitlessPhotos/releases/download/1.1.1/LimitlessPhotos.zip",
+      "versionCode": 1
+    }
+  },
+  {
+    "moduleId": "mcxiaochenn_Action_OKI_KernelSU_SUSFS",
+    "moduleName": "Action_OKI_KernelSU_SUSFS",
+    "authors": [
+      {
+        "name": "mcxiaochenn",
+        "link": "https://github.com/mcxiaochenn"
+      }
+    ],
+    "summary": "使用Github Action自动编译一加多种KernelSU分支内核并手动发布稳定构建",
+    "metamodule": false,
+    "stargazerCount": 49,
+    "updatedAt": "2026-05-04T11:32:38Z",
+    "createdAt": "2025-02-14T15:01:30Z",
+    "latestRelease": {
+      "name": "OKI Kernels With Ace3Pro & M-KernelSU v12115 & SUSFS v1.5.7",
+      "version": "v12115.157.ace3pro",
+      "time": "2025-05-17T14:33:35Z",
+      "downloadUrl": "https://github.com/mcxiaochenn/Action_OKI_KernelSU_SUSFS/releases/download/v12115.157.ace3pro/AnyKernel3-oneplus_ace3_pro_v-6.1-MKSU-12115-SUSFS-1.5.7.zip",
+      "versionCode": 7
+    }
+  },
+  {
+    "moduleId": "ahmed-alnassif_GKI-Duchamp",
+    "moduleName": "GKI-Duchamp",
+    "authors": [
+      {
+        "name": "ahmed-alnassif",
+        "link": "https://github.com/ahmed-alnassif"
+      }
+    ],
+    "summary": "GKID feature-rich GKI kernel (6.1-android14) for Poco X6 Pro (duchamp) & other compatible Android devices - KernelSU/KernelSU Next/SukiSU Ultra/Wild KSU variants, SUSFS hiding, Baseband Guard (BBG), 3",
+    "metamodule": false,
+    "stargazerCount": 41,
+    "updatedAt": "2026-06-19T03:29:11Z",
+    "createdAt": "2026-02-23T20:20:57Z",
+    "latestRelease": {
+      "name": "GKID v26.06.23-r396",
+      "version": "v26.06.23-r396",
+      "time": "2026-06-22T21:16:15Z",
+      "downloadUrl": "https://github.com/ahmed-alnassif/GKI-Duchamp/releases/download/v26.06.23-r396/GKID-v26.06.23-r396-6.1.174-Compat%2BKernelSU%2BSuSFS%2BMultiple-Managers.zip",
+      "versionCode": 5
+    }
+  },
+  {
+    "moduleId": "Dev97633_Fastcharge-next",
+    "moduleName": "Fastcharge-next",
+    "authors": [
+      {
+        "name": "Dev97633",
+        "link": "https://github.com/Dev97633"
+      }
+    ],
+    "summary": "⚡ Magisk Module to boost charging speed with smart tweaks.",
+    "metamodule": false,
+    "stargazerCount": 33,
+    "updatedAt": "2026-06-21T12:20:10Z",
+    "createdAt": "2025-08-16T09:57:50Z",
+    "latestRelease": {
+      "name": "Fastcharge-Next – Version 2.0.2",
+      "version": "v2.0.2",
+      "time": "2026-04-12T11:17:26Z",
+      "downloadUrl": "https://github.com/Dev97633/Fastcharge-next/releases/download/v2.0.2/fastcharge-next-v2.0.2.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "Enginex0_Scalpel",
+    "moduleName": "Scalpel",
+    "authors": [
+      {
+        "name": "Enginex0",
+        "link": "https://github.com/Enginex0"
+      }
+    ],
+    "summary": "Precision debloat & systemize for rooted Android — Magisk, KernelSU, APatch",
+    "metamodule": false,
+    "stargazerCount": 31,
+    "updatedAt": "2026-06-23T12:59:21Z",
+    "createdAt": "2026-02-24T10:48:25Z",
+    "latestRelease": {
+      "name": "v0.1.27",
+      "version": "v0.1.27",
+      "time": "2026-03-23T03:27:19Z",
+      "downloadUrl": "https://github.com/Enginex0/Scalpel/releases/download/v0.1.27/scalpel-v0.1.27-debug.zip",
+      "versionCode": 27
+    }
+  },
+  {
+    "moduleId": "WildKernels_Samsung_KernelSU_SUSFS",
+    "moduleName": "Samsung_KernelSU_SUSFS",
+    "authors": [
+      {
+        "name": "WildKernels",
+        "link": "https://github.com/WildKernels"
+      }
+    ],
+    "summary": "Samsung Kernels with KernelSU & SUSFS",
+    "metamodule": false,
+    "stargazerCount": 29,
+    "updatedAt": "2026-06-22T05:00:32Z",
+    "createdAt": "2025-08-09T06:08:05Z",
+    "latestRelease": {
+      "name": "Samsung GKI Kernels With KSUN v3.2.0 & SUSFS v2.1.0",
+      "version": "2.1.0-r3",
+      "time": "2026-05-22T14:26:22Z",
+      "downloadUrl": "https://github.com/WildKernels/Samsung_KernelSU_SUSFS/releases/download/2.1.0-r3/KSUN33150-SM-A055F-Oneui7-6.6-android15-AnyKernel3.zip",
+      "versionCode": 3
+    }
+  },
+  {
+    "moduleId": "FerGus786_OnePlus_13_KernelSU_SUSFS",
+    "moduleName": "OnePlus_13_KernelSU_SUSFS",
+    "authors": [
+      {
+        "name": "FerGus786",
+        "link": "https://github.com/FerGus786"
+      }
+    ],
+    "summary": "OnePlus 13 Kernel with KernelSU Next & SUSFS (personal fork)",
+    "metamodule": false,
+    "stargazerCount": 24,
+    "updatedAt": "2026-06-02T09:24:27Z",
+    "createdAt": "2025-04-10T16:21:09Z",
+    "latestRelease": {
+      "name": "OnePlus 13 Kernel With KernelSU Next & SUSFS",
+      "version": "v1.5.5-r2",
+      "time": "2025-05-22T14:57:09Z",
+      "downloadUrl": "https://github.com/FerGus786/OnePlus_13_KernelSU_SUSFS/releases/download/v1.5.5-r2/OP13_android15_6.6_Next_SUSFS_AnyKernel3.zip",
+      "versionCode": 3
+    }
+  },
+  {
+    "moduleId": "MiguVT_NP2_Kernel",
+    "moduleName": "NP2_Kernel",
+    "authors": [
+      {
+        "name": "MiguVT",
+        "link": "https://github.com/MiguVT"
+      }
+    ],
+    "summary": "Custom kernel for Nothing Phone 2 (Pong) with root and hiding built in. (Built with workflow)",
+    "metamodule": false,
+    "stargazerCount": 21,
+    "updatedAt": "2026-06-14T10:06:41Z",
+    "createdAt": "2026-01-31T14:12:41Z",
+    "latestRelease": {
+      "name": "v3.0.4 - The multi-kernel workflow",
+      "version": "v3.0.4",
+      "time": "2026-05-21T20:51:39Z",
+      "downloadUrl": "https://github.com/MiguVT/NP2_Kernel/releases/download/v3.0.4/kernel-LineageOS-NP2-ReSukiSU.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "pavelc4_auriya",
+    "moduleName": "auriya",
+    "authors": [
+      {
+        "name": "pavelc4",
+        "link": "https://github.com/pavelc4"
+      }
+    ],
+    "summary": "side project ",
+    "metamodule": false,
+    "stargazerCount": 21,
+    "updatedAt": "2026-06-15T15:11:43Z",
+    "createdAt": "2025-10-22T13:32:19Z",
+    "latestRelease": {
+      "name": "v1.0.4",
+      "version": "v1.0.4",
+      "time": "2026-03-22T14:16:35Z",
+      "downloadUrl": "https://github.com/pavelc4/auriya/releases/download/v1.0.4/auriya-1.0.4-415-7215c11-release.zip",
+      "versionCode": 11
+    }
+  },
+  {
+    "moduleId": "burakgon_KernelSU-WiFi-Country-Code",
+    "moduleName": "KernelSU-WiFi-Country-Code",
+    "authors": [
+      {
+        "name": "burakgon",
+        "link": "https://github.com/burakgon"
+      }
+    ],
+    "summary": "KernelSU / Magisk module to force WiFi country code on Android. Unlock restricted 5GHz, 6GHz (WiFi 6E/7), and DFS channels. WebUI with 140 country codes from Linux wireless-regdb.",
+    "metamodule": false,
+    "stargazerCount": 19,
+    "updatedAt": "2026-06-23T01:14:10Z",
+    "createdAt": "2026-04-10T13:16:36Z",
+    "latestRelease": {
+      "name": "v3.0 — Full Regulatory Database",
+      "version": "v3.0",
+      "time": "2026-04-10T13:38:05Z",
+      "downloadUrl": "https://github.com/burakgon/KernelSU-WiFi-Country-Code/releases/download/v3.0/WiFi-Force-Country-Code-v3.0.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "Ai686Leo_aria2-for-module",
+    "moduleName": "aria2-for-module",
+    "authors": [
+      {
+        "name": "Ai686Leo",
+        "link": "https://github.com/Ai686Leo"
+      }
+    ],
+    "summary": "用root模块管理器（Magisk/KernelSU/APatch）运行aria2和ariang。             Running aria2 and ariang with root module manager (Magisk/KernelSU/APatch).",
+    "metamodule": false,
+    "stargazerCount": 18,
+    "updatedAt": "2026-06-22T17:58:45Z",
+    "createdAt": "2025-01-14T12:47:58Z",
+    "latestRelease": {
+      "name": "v1.37.0 1.3.11 3.3",
+      "version": "v1.37.0-1.3.11-3.3",
+      "time": "2025-12-21T10:04:39Z",
+      "downloadUrl": "https://github.com/Ai686Leo/aria2-for-module/releases/download/v1.37.0-1.3.11-3.3/aria2-for-module.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "ravindu644_adb-root-enabler",
+    "moduleName": "adb-root-enabler",
+    "authors": [
+      {
+        "name": "ravindu644",
+        "link": "https://github.com/ravindu644"
+      }
+    ],
+    "summary": "Magisk / KernelSU / Apatch module to enable adb root on production Android builds.",
+    "metamodule": false,
+    "stargazerCount": 18,
+    "updatedAt": "2026-06-02T03:13:20Z",
+    "createdAt": "2025-12-01T16:38:12Z",
+    "latestRelease": {
+      "name": "ADB root enabler v1",
+      "version": "v1",
+      "time": "2025-12-01T16:39:42Z",
+      "downloadUrl": "https://github.com/ravindu644/adb-root-enabler/releases/download/v1/adb-root-enabler.zip",
+      "versionCode": 1
+    }
+  },
+  {
+    "moduleId": "dat-hoangnguyentuandat_GlibClaw",
+    "moduleName": "GlibClaw",
+    "authors": [
+      {
+        "name": "dat-hoangnguyentuandat",
+        "link": "https://github.com/dat-hoangnguyentuandat"
+      }
+    ],
+    "summary": "A Magisk/KernelSU module that installs OpenClaw on Android (aarch64) with bundled glibc-node runtime",
+    "metamodule": false,
+    "stargazerCount": 15,
+    "updatedAt": "2026-06-12T20:02:05Z",
+    "createdAt": "2026-04-10T09:49:22Z",
+    "latestRelease": {
+      "name": "v1.0.2",
+      "version": "v1.0.2",
+      "time": "2026-05-04T09:59:36Z",
+      "downloadUrl": "https://github.com/dat-hoangnguyentuandat/GlibClaw/releases/download/v1.0.2/GlibClaw-v1.0.2.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "onyx-oss_konoha-kernel-gki",
+    "moduleName": "konoha-kernel-gki",
+    "authors": [
+      {
+        "name": "onyx-oss",
+        "link": "https://github.com/onyx-oss"
+      }
+    ],
+    "summary": "GKI Kernel for Poco F7 / Redmi Turbo 4 Pro (Onyx), Poco F7 Pro, and Poco F7 Ultra",
+    "metamodule": false,
+    "stargazerCount": 15,
+    "updatedAt": "2026-06-22T02:10:16Z",
+    "createdAt": "2026-04-06T10:57:25Z",
+    "latestRelease": {
+      "name": "Build 9c3df40258131fb418ddae360e2ce852d72fa66c",
+      "version": "build-172-9c3df40258131fb418ddae360e2ce852d72fa66c",
+      "time": "2026-06-23T06:59:20Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-172-9c3df40258131fb418ddae360e2ce852d72fa66c/Kono-Ha-1.1-root-KernelSU-balance-20260622-230347.zip",
+      "versionCode": 230347
+    }
+  },
+  {
+    "moduleId": "mango0oo_G-News-Control",
+    "moduleName": "G-News-Control",
+    "authors": [
+      {
+        "name": "mango0oo",
+        "link": "https://github.com/mango0oo"
+      }
+    ],
+    "summary": "Magisk / KernelSU module for control the Google News on the home screen.",
+    "metamodule": false,
+    "stargazerCount": 14,
+    "updatedAt": "2026-04-22T03:42:21Z",
+    "createdAt": "2025-09-19T22:35:26Z",
+    "latestRelease": {
+      "name": "V2_20.09.2025",
+      "version": "V2_20.09.2025",
+      "time": "2025-09-19T22:39:50Z",
+      "downloadUrl": "https://github.com/mango0oo/G-News-Control/releases/download/V2_20.09.2025/G-News.Control.V2.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "ling9ling7_RedMagic-FanExtreme",
+    "moduleName": "RedMagic-FanExtreme",
+    "authors": [
+      {
+        "name": "ling9ling7",
+        "link": "https://github.com/ling9ling7"
+      }
+    ],
+    "summary": "红魔手机 KernelSU 模块 | WebUI · 风扇极速 · 充电分离 · 云控屏蔽 · 温控移除 · 振动增强 · 触控优化 · 充电加速 · 在线更新",
+    "metamodule": false,
+    "stargazerCount": 14,
+    "updatedAt": "2026-06-22T04:13:03Z",
+    "createdAt": "2026-06-03T07:43:01Z",
+    "latestRelease": {
+      "name": "更好的红魔 v2.2.0 更新",
+      "version": "v2.2.0",
+      "time": "2026-06-13T12:32:14Z",
+      "downloadUrl": "https://github.com/ling9ling7/RedMagic-FanExtreme/releases/download/v2.2.0/FanExtreme-v2.2.0.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "clcwpwqi_xiaomi10-kernelsu-susfs-kernel-build",
+    "moduleName": "xiaomi10-kernelsu-susfs-kernel-build",
+    "authors": [
+      {
+        "name": "clcwpwqi",
+        "link": "https://github.com/clcwpwqi"
+      }
+    ],
+    "summary": "构建小米10/Pro KernelSU Next SUSFS 内核",
+    "metamodule": false,
+    "stargazerCount": 13,
+    "updatedAt": "2026-05-16T12:19:35Z",
+    "createdAt": "2025-02-21T23:35:57Z",
+    "latestRelease": {
+      "name": "v4.0.1",
+      "version": "v4.0.1",
+      "time": "2025-03-02T13:44:25Z",
+      "downloadUrl": "https://github.com/clcwpwqi/xiaomi10-kernelsu-susfs-kernel-build/releases/download/v4.0.1/cmi-KernelSU-Next-SUSFS-AnyKernel3.zip",
+      "versionCode": 3
+    }
+  },
+  {
+    "moduleId": "CHERWING_CHERWIN_FRPC",
+    "moduleName": "CHERWIN_FRPC",
+    "authors": [
+      {
+        "name": "CHERWING",
+        "link": "https://github.com/CHERWING"
+      }
+    ],
+    "summary": "⚡ High-Performance FRP Reverse Proxy Client (KernelSU / Magisk Edition). Built-in WebUI for status monitoring, hot reload, and docs. | 高性能内网穿透客户端模块，内置独立可视化 Web 面板。",
+    "metamodule": false,
+    "stargazerCount": 13,
+    "updatedAt": "2026-06-21T13:51:40Z",
+    "createdAt": "2026-06-13T04:50:00Z",
+    "latestRelease": {
+      "name": "CHERWIN FRPC v1.2.2",
+      "version": "v1.2.2",
+      "time": "2026-06-18T04:06:10Z",
+      "downloadUrl": "https://github.com/CHERWING/CHERWIN_FRPC/releases/download/v1.2.2/CHERWIN_FRPC_magisk_module.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "djkcyl_oneplus_ace3p_susfs_ksu",
+    "moduleName": "oneplus_ace3p_susfs_ksu",
+    "authors": [
+      {
+        "name": "djkcyl",
+        "link": "https://github.com/djkcyl"
+      }
+    ],
+    "summary": "适用于 Oneplus ACE 3 Pro 的 susfs 内核，含 KernelSU-NEXT 和 MKSU",
+    "metamodule": false,
+    "stargazerCount": 12,
+    "updatedAt": "2026-03-07T07:12:06Z",
+    "createdAt": "2025-02-05T05:07:51Z",
+    "latestRelease": {
+      "name": "Build MKSU SUSFS 12072",
+      "version": "20250208",
+      "time": "2025-02-13T03:46:05Z",
+      "downloadUrl": "https://github.com/djkcyl/oneplus_ace3p_susfs_ksu/releases/download/20250208/Anykernel3-MKSU-SUSFS-12072-OnePlus_ACE_3_Pro.zip",
+      "versionCode": 3
+    }
+  },
+  {
+    "moduleId": "awkoo_kernel_mi845_lineage_old",
+    "moduleName": "kernel_mi845_lineage_old",
+    "authors": [
+      {
+        "name": "awkoo",
+        "link": "https://github.com/awkoo"
+      }
+    ],
+    "summary": "[此仓库已废弃]小米845cpu设备的LineageOS内核，已集成 Re:Kernel + rsuntk'KernelSU&SUSFS + Freezerv2&binder",
+    "metamodule": false,
+    "stargazerCount": 12,
+    "updatedAt": "2026-04-05T03:17:47Z",
+    "createdAt": "2025-06-08T15:50:25Z",
+    "latestRelease": {
+      "name": "Kernel build UTC202511280514",
+      "version": "release",
+      "time": "2025-11-28T05:14:08Z",
+      "downloadUrl": "https://github.com/awkoo/kernel_mi845_lineage_old/releases/download/release/Anykernel3-beryllium.zip",
+      "versionCode": 3
+    }
+  },
+  {
+    "moduleId": "ev3rlin_ReVanced-Extended",
+    "moduleName": "ReVanced-Extended",
+    "authors": [
+      {
+        "name": "ev3rlin",
+        "link": "https://github.com/ev3rlin"
+      }
+    ],
+    "summary": "ReVanced Extended (anddea) YouTube and YouTube Music builder. Suitable for both root and non-root users",
+    "metamodule": false,
+    "stargazerCount": 11,
+    "updatedAt": "2026-06-18T09:17:10Z",
+    "createdAt": "2025-12-11T02:41:30Z",
+    "latestRelease": {
+      "name": "ReVanced Extended - 2026-06-16 (v1)",
+      "version": "31",
+      "time": "2026-06-16T17:49:05Z",
+      "downloadUrl": "https://github.com/ev3rlin/ReVanced-Extended/releases/download/31/youtube-music-revanced-extended-module-v8.30.54-arm-v7a.zip",
+      "versionCode": 7
+    }
+  },
+  {
+    "moduleId": "himanshujjp_IntegrityHelper",
+    "moduleName": "IntegrityHelper",
+    "authors": [
+      {
+        "name": "himanshujjp",
+        "link": "https://github.com/himanshujjp"
+      }
+    ],
+    "summary": "Integrity Helper - Universal web UI for managing integrity-related Magisk modules. Supports Magisk, APatch & KernelSU with automatic detection and batch installation",
+    "metamodule": false,
+    "stargazerCount": 9,
+    "updatedAt": "2026-01-05T07:45:48Z",
+    "createdAt": "2025-09-21T09:26:29Z",
+    "latestRelease": {
+      "name": "Integrity Helper v1.0",
+      "version": "v1.0",
+      "time": "2025-09-22T04:26:38Z",
+      "downloadUrl": "https://github.com/himanshujjp/IntegrityHelper/releases/download/v1.0/IntegrityHelper-v1.0.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "hxreborn_revanced-magisk-module",
+    "moduleName": "revanced-magisk-module",
+    "authors": [
+      {
+        "name": "hxreborn",
+        "link": "https://github.com/hxreborn"
+      }
+    ],
+    "summary": "ReVanced builder.",
+    "metamodule": false,
+    "stargazerCount": 9,
+    "updatedAt": "2026-06-22T10:44:17Z",
+    "createdAt": "2024-08-31T09:54:04Z",
+    "latestRelease": {
+      "name": "YouTube ReVanced Zygisk",
+      "version": "31",
+      "time": "2026-06-13T10:05:02Z",
+      "downloadUrl": "https://github.com/hxreborn/revanced-magisk-module/releases/download/31/youtube-revanced-zygisk-module-v20.51.39-arm64-v8a.zip",
+      "versionCode": 8
+    }
+  },
+  {
+    "moduleId": "arvinjangid_LSPosed-Detector",
+    "moduleName": "LSPosed-Detector",
+    "authors": [
+      {
+        "name": "arvinjangid",
+        "link": "https://github.com/arvinjangid"
+      }
+    ],
+    "summary": "KernelSU module to detect LSPosed/RElsposed injection traces with live WebUI",
+    "metamodule": false,
+    "stargazerCount": 9,
+    "updatedAt": "2026-06-17T08:35:47Z",
+    "createdAt": "2026-03-18T18:27:10Z",
+    "latestRelease": {
+      "name": "LSPosed Detector v1.0.0",
+      "version": "LSPosed-Detector-v1.0.0",
+      "time": "2026-03-18T18:55:48Z",
+      "downloadUrl": "https://github.com/arvinjangid/LSPosed-Detector/releases/download/LSPosed-Detector-v1.0.0/lspd-detector-v1.0.0.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "gorkemgun_TrustAnyCert",
+    "moduleName": "TrustAnyCert",
+    "authors": [
+      {
+        "name": "gorkemgun",
+        "link": "https://github.com/gorkemgun"
+      }
+    ],
+    "summary": "System CA certificate installer for rooted Android, managed from a WebUI. Magisk, KernelSU, SukiSU, APatch. APEX bypass for Android 14+.",
+    "metamodule": false,
+    "stargazerCount": 9,
+    "updatedAt": "2026-06-22T15:27:49Z",
+    "createdAt": "2026-04-22T09:59:32Z",
+    "latestRelease": {
+      "name": "v1.0",
+      "version": "v1.0",
+      "time": "2026-04-22T12:08:57Z",
+      "downloadUrl": "https://github.com/gorkemgun/TrustAnyCert/releases/download/v1.0/TrustAnyCert-v1.0.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "HsukqiLee_GoogleSansMax",
+    "moduleName": "GoogleSansMax",
+    "authors": [
+      {
+        "name": "HsukqiLee",
+        "link": "https://github.com/HsukqiLee"
+      }
+    ],
+    "summary": "A Magisk/KernelSU font module.",
+    "metamodule": false,
+    "stargazerCount": 9,
+    "updatedAt": "2026-06-21T01:24:28Z",
+    "createdAt": "2026-06-11T08:15:40Z",
+    "latestRelease": {
+      "name": "v1.4.5",
+      "version": "v1.4.5",
+      "time": "2026-06-17T08:34:48Z",
+      "downloadUrl": "https://github.com/HsukqiLee/GoogleSansMax/releases/download/v1.4.5/GoogleSansMax-Core.zip",
+      "versionCode": 1
+    }
+  },
+  {
+    "moduleId": "Anonym0usWork1221_liboemcrypto-disabler",
+    "moduleName": "liboemcrypto-disabler",
+    "authors": [
+      {
+        "name": "Anonym0usWork1221",
+        "link": "https://github.com/Anonym0usWork1221"
+      }
+    ],
+    "summary": "Magisk / KernelSU module that disables OEM Widevine to fix Crunchyroll, HBO Max, and other DRM streaming apps on rooted devices. Bypasses Widevine-level root detection without modifying system partiti",
+    "metamodule": false,
+    "stargazerCount": 8,
+    "updatedAt": "2026-06-15T02:07:30Z",
+    "createdAt": "2026-05-13T10:12:04Z",
+    "latestRelease": {
+      "name": "v1.0.0",
+      "version": "v1.0.0",
+      "time": "2026-05-13T10:13:35Z",
+      "downloadUrl": "https://github.com/Anonym0usWork1221/liboemcrypto-disabler/releases/download/v1.0.0/liboemcrypto-disabler.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "ychenxuan_Action_OnePlus_KernelSU_SUSFS",
+    "moduleName": "Action_OnePlus_KernelSU_SUSFS",
+    "authors": [
+      {
+        "name": "ychenxuan",
+        "link": "https://github.com/ychenxuan"
+      }
+    ],
+    "summary": "",
+    "metamodule": false,
+    "stargazerCount": 8,
+    "updatedAt": "2026-04-03T06:15:57Z",
+    "createdAt": "2025-02-09T11:18:05Z",
+    "latestRelease": {
+      "name": "Ace3Pro_ksun&mksu",
+      "version": "OnePlus_ACE3Pro",
+      "time": "2025-02-11T12:42:28Z",
+      "downloadUrl": "https://github.com/ychenxuan/Action_OnePlus_KernelSU_SUSFS/releases/download/OnePlus_ACE3Pro/AnyKernel3_KernelSU_12034_oneplus_ace3_pro_v.zip",
+      "versionCode": 3
+    }
+  },
+  {
+    "moduleId": "Edhic1_kernel_KSu_Next_Lancelot",
+    "moduleName": "kernel_KSu_Next_Lancelot",
+    "authors": [
+      {
+        "name": "Edhic1",
+        "link": "https://github.com/Edhic1"
+      }
+    ],
+    "summary": "A custom kernel for the Redmi 9 (lancelot) based on the Proton kernel, integrating KernelSU Next and SukiSU Ultra for advanced root capabilities. Built for kernel version 4.14 with support for SUSFS a",
+    "metamodule": false,
+    "stargazerCount": 8,
+    "updatedAt": "2026-06-15T17:42:27Z",
+    "createdAt": "2025-05-15T17:47:13Z",
+    "latestRelease": {
+      "name": "Kernel Build 202505301404",
+      "version": "build-202505301404",
+      "time": "2025-05-30T14:21:33Z",
+      "downloadUrl": "https://github.com/Edhic1/kernel_KSu_Next_Lancelot/releases/download/build-202505301404/AnyKernel3-KernelSU_10357-lancelot-202505301404.zip",
+      "versionCode": 202505301404
+    }
+  },
+  {
+    "moduleId": "Asterisk4Magisk_xray4magisk-ksu-webui",
+    "moduleName": "xray4magisk-ksu-webui",
+    "authors": [
+      {
+        "name": "Asterisk4Magisk",
+        "link": "https://github.com/Asterisk4Magisk"
+      }
+    ],
+    "summary": "Xray4Magisk WebUI for KernelSU",
+    "metamodule": false,
+    "stargazerCount": 8,
+    "updatedAt": "2026-06-09T01:11:04Z",
+    "createdAt": "2024-06-01T23:32:28Z",
+    "latestRelease": {
+      "name": "xray4magisk-ksu-webui v0.1.0",
+      "version": "v0.1.0",
+      "time": "2024-11-11T14:11:10Z",
+      "downloadUrl": "https://github.com/Asterisk4Magisk/xray4magisk-ksu-webui/releases/download/v0.1.0/xray4magisk-ksu-webui.zip",
+      "versionCode": 4
+    }
+  },
+  {
+    "moduleId": "nikitos4683_nzapret",
+    "moduleName": "nzapret",
+    "authors": [
+      {
+        "name": "nikitos4683",
+        "link": "https://github.com/nikitos4683"
+      }
+    ],
+    "summary": "Android DPI-bypass module for Magisk and KernelSU powered by nfqws2, iptables, CLI and WebUI.",
+    "metamodule": false,
+    "stargazerCount": 8,
+    "updatedAt": "2026-06-23T18:34:41Z",
+    "createdAt": "2026-03-22T10:31:07Z",
+    "latestRelease": {
+      "name": "nzapret v2.2.1",
+      "version": "v2.2.1",
+      "time": "2026-06-23T10:47:19Z",
+      "downloadUrl": "https://github.com/nikitos4683/nzapret/releases/download/v2.2.1/nzapret-v2.2.1.zip",
+      "versionCode": 1
+    }
+  },
+  {
+    "moduleId": "NerestKernels_GKI_KernelSU_SUSFS",
+    "moduleName": "GKI_KernelSU_SUSFS",
+    "authors": [
+      {
+        "name": "NerestKernels",
+        "link": "https://github.com/NerestKernels"
+      }
+    ],
+    "summary": "GKI Kernels with KernelSU & SUSFS",
+    "metamodule": false,
+    "stargazerCount": 6,
+    "updatedAt": "2026-03-14T20:51:40Z",
+    "createdAt": "2025-07-24T18:22:06Z",
+    "latestRelease": {
+      "name": "!!TESTING!! GKI Kernels With Next & SUSFS v2.0.0 !!TESTING!!",
+      "version": "v1.5.9-r7",
+      "time": "2026-03-11T04:33:18Z",
+      "downloadUrl": "https://github.com/NerestKernels/GKI_KernelSU_SUSFS/releases/download/v1.5.9-r7/Next-33057-5.10.101-android12-2022-04-Bypass-AK3.zip",
+      "versionCode": 3
+    }
+  },
+  {
+    "moduleId": "741afb7_KPatch-Next-Module-EXP",
+    "moduleName": "KPatch-Next-Module-EXP",
+    "authors": [
+      {
+        "name": "741afb7",
+        "link": "https://github.com/741afb7"
+      }
+    ],
+    "summary": "An experimental unofficial fork of KPatch-Next-Module, Standalone implementation of KPM support for Magisk/KernelSU",
+    "metamodule": false,
+    "stargazerCount": 5,
+    "updatedAt": "2026-06-23T07:26:13Z",
+    "createdAt": "2026-06-04T14:21:52Z",
+    "latestRelease": {
+      "name": "v0.0.2",
+      "version": "v0.0.2",
+      "time": "2026-06-05T01:02:59Z",
+      "downloadUrl": "https://github.com/741afb7/KPatch-Next-Module-EXP/releases/download/v0.0.2/KPatch-Next-Module-EXP-v0.0.2.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "barsikus007_ksu-webui-module-template",
+    "moduleName": "ksu-webui-module-template",
+    "authors": [
+      {
+        "name": "barsikus007",
+        "link": "https://github.com/barsikus007"
+      }
+    ],
+    "summary": "This is a template for creating KernelSU/Apatch/Magisk modules with WebUI. It includes a basic structure and a build script",
+    "metamodule": false,
+    "stargazerCount": 5,
+    "updatedAt": "2026-05-16T03:12:09Z",
+    "createdAt": "2025-12-18T15:46:53Z",
+    "latestRelease": {
+      "name": "v1.0.0",
+      "version": "v1.0.0",
+      "time": "2025-12-18T15:47:35Z",
+      "downloadUrl": "https://github.com/barsikus007/ksu-webui-module-template/releases/download/v1.0.0/ksu-webui-module-template_v1.0.0.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "ahmed-alnassif_Thermal-Manager",
+    "moduleName": "Thermal-Manager",
+    "authors": [
+      {
+        "name": "ahmed-alnassif",
+        "link": "https://github.com/ahmed-alnassif"
+      }
+    ],
+    "summary": "🔥 Thermal Manager for Poco X6 Pro - KernelSU module with WebUI | ⚖️ Balanced | 🔋 Battery | ⚡ Performance | 🎮 Gaming",
+    "metamodule": false,
+    "stargazerCount": 5,
+    "updatedAt": "2026-05-23T05:47:19Z",
+    "createdAt": "2026-04-11T09:22:30Z",
+    "latestRelease": {
+      "name": "Thermal Manager v2.0",
+      "version": "v2.0",
+      "time": "2026-04-17T14:15:01Z",
+      "downloadUrl": "https://github.com/ahmed-alnassif/Thermal-Manager/releases/download/v2.0/Thermal-Manager.zip",
+      "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "SevenBlack777_Ghost-Cleaner-",
+    "moduleName": "Ghost-Cleaner-",
+    "authors": [
+      {
+        "name": "SevenBlack777",
+        "link": "https://github.com/SevenBlack777"
+      }
+    ],
+    "summary": "基于原生 Shell 脚本构建的极致轻量化后台清理模组。 ​多线程并发：采用 & 后台并发逻辑，海量文件秒级删除，效率提升 10 倍。 ​零功耗驻留：内核级休眠机制，非清理时间不占用任何 CPU 资源。 ​可视化管理：深度适配 KernelSU 与 MMRL WebUI，支持无限添加/删除规则，实时日志反馈。 ​稳定可靠：v3.6 引入全链路 Base64 加密读写，彻底解决特殊字符导致的规则丢失",
+    "metamodule": false,
+    "stargazerCount": 5,
+    "updatedAt": "2026-05-07T10:12:33Z",
+    "createdAt": "2025-12-06T08:00:07Z",
+    "latestRelease": {
+      "name": "4.2发布",
+      "version": "4.2",
+      "time": "2025-12-07T07:09:53Z",
+      "downloadUrl": "https://github.com/SevenBlack777/Ghost-Cleaner-/releases/download/4.2/GhostCleanerv4.2.zip",
+      "versionCode": 2
+    }
+  }
+]
