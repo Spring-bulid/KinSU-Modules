@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 16966,
-    "updatedAt": "2026-06-25T03:28:08Z",
+    "stargazerCount": 16968,
+    "updatedAt": "2026-06-25T08:17:12Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9798,
-    "updatedAt": "2026-06-24T23:51:05Z",
+    "stargazerCount": 9802,
+    "updatedAt": "2026-06-25T09:13:37Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3806,
-    "updatedAt": "2026-06-24T23:55:56Z",
+    "stargazerCount": 3807,
+    "updatedAt": "2026-06-25T07:28:32Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.2.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3660,
-    "updatedAt": "2026-06-25T03:16:58Z",
+    "stargazerCount": 3662,
+    "updatedAt": "2026-06-25T09:14:33Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -99,7 +99,7 @@
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
     "stargazerCount": 3218,
-    "updatedAt": "2026-06-24T22:15:00Z",
+    "updatedAt": "2026-06-25T08:04:51Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -120,8 +120,8 @@
     ],
     "summary": "A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.",
     "metamodule": false,
-    "stargazerCount": 2512,
-    "updatedAt": "2026-06-24T17:33:17Z",
+    "stargazerCount": 2514,
+    "updatedAt": "2026-06-25T06:56:17Z",
     "createdAt": "2024-03-03T18:20:02Z",
     "latestRelease": {
       "name": "v2.1.4",
@@ -187,7 +187,7 @@
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
     "stargazerCount": 2341,
-    "updatedAt": "2026-06-25T02:53:20Z",
+    "updatedAt": "2026-06-25T05:28:47Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V37",
@@ -252,8 +252,8 @@
     ],
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
-    "stargazerCount": 1854,
-    "updatedAt": "2026-06-21T19:06:26Z",
+    "stargazerCount": 1855,
+    "updatedAt": "2026-06-25T05:29:22Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -278,10 +278,10 @@
     "updatedAt": "2026-06-25T02:31:59Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
-      "name": "Wild Kernels for GKI2 Devices 5.10+ Release 4",
-      "version": "r4",
-      "time": "2026-06-05T22:35:43Z",
-      "downloadUrl": "https://github.com/WildKernels/GKI_KernelSU_SUSFS/releases/download/r4/5.10.101-android12-2022-04-AnyKernel3.zip",
+      "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
+      "version": "r5",
+      "time": "2026-06-25T04:54:48Z",
+      "downloadUrl": "https://github.com/WildKernels/GKI_KernelSU_SUSFS/releases/download/r5/5.10.101-android12-2022-04-AnyKernel3.zip",
       "versionCode": 3
     }
   },
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1315,
-    "updatedAt": "2026-06-24T19:09:46Z",
+    "stargazerCount": 1318,
+    "updatedAt": "2026-06-25T07:11:55Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.3.0",
@@ -318,8 +318,8 @@
     ],
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
-    "stargazerCount": 1312,
-    "updatedAt": "2026-06-25T03:13:46Z",
+    "stargazerCount": 1313,
+    "updatedAt": "2026-06-25T09:17:08Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -362,8 +362,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1240,
-    "updatedAt": "2026-06-24T10:54:46Z",
+    "stargazerCount": 1241,
+    "updatedAt": "2026-06-25T07:33:03Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260526",
@@ -428,8 +428,8 @@
     ],
     "summary": "Required module to use applications such as AdAway on KernelSU and APatch",
     "metamodule": false,
-    "stargazerCount": 623,
-    "updatedAt": "2026-06-23T00:06:34Z",
+    "stargazerCount": 624,
+    "updatedAt": "2026-06-25T09:17:07Z",
     "createdAt": "2023-06-30T10:31:40Z",
     "latestRelease": {
       "name": "v1.2.2",
@@ -516,8 +516,8 @@
     ],
     "summary": "Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way to use WireGuard and 2FA.",
     "metamodule": false,
-    "stargazerCount": 474,
-    "updatedAt": "2026-06-23T22:37:00Z",
+    "stargazerCount": 475,
+    "updatedAt": "2026-06-25T06:44:03Z",
     "createdAt": "2023-12-13T20:02:49Z",
     "latestRelease": {
       "name": "Magisk Tailscaled v2.0.0.1",
@@ -604,8 +604,8 @@
     ],
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
-    "stargazerCount": 418,
-    "updatedAt": "2026-06-24T23:01:02Z",
+    "stargazerCount": 419,
+    "updatedAt": "2026-06-25T07:06:05Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v0.7.1",
@@ -670,8 +670,8 @@
     ],
     "summary": "Device Performance Optimizer — Aims To Provide An Optimal Experience At Every Usage Scenario",
     "metamodule": false,
-    "stargazerCount": 307,
-    "updatedAt": "2026-06-19T11:32:52Z",
+    "stargazerCount": 308,
+    "updatedAt": "2026-06-25T09:31:21Z",
     "createdAt": "2019-08-18T12:50:20Z",
     "latestRelease": {
       "name": "MAGNETAR+ 19.6.0 (YANKEE)",
@@ -890,14 +890,14 @@
     ],
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
-    "stargazerCount": 149,
-    "updatedAt": "2026-06-25T02:28:20Z",
+    "stargazerCount": 150,
+    "updatedAt": "2026-06-25T09:33:01Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 391",
-      "version": "391",
-      "time": "2026-06-24T22:37:36Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/391/adguard-morphe-module-v4.12.81-arm-v7a.zip",
+      "name": "Build No. 393",
+      "version": "393",
+      "time": "2026-06-25T08:42:27Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/393/battery-guru-morphe-v2.4.8.1-arm-v7a.apk",
       "versionCode": 7
     }
   },
@@ -1599,10 +1599,10 @@
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
       "name": "Build 9c3df40258131fb418ddae360e2ce852d72fa66c",
-      "version": "build-173-9c3df40258131fb418ddae360e2ce852d72fa66c",
-      "time": "2026-06-24T06:07:28Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-173-9c3df40258131fb418ddae360e2ce852d72fa66c/Kono-Ha-1.1-root-KernelSU-balance-20260624-022544.zip",
-      "versionCode": 22544
+      "version": "build-174-9c3df40258131fb418ddae360e2ce852d72fa66c",
+      "time": "2026-06-25T05:45:13Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-174-9c3df40258131fb418ddae360e2ce852d72fa66c/Kono-Ha-1.1-root-KernelSU-balance-20260624-192439.zip",
+      "versionCode": 192439
     }
   },
   {
