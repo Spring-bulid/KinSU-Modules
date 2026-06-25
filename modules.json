@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9801,
-    "updatedAt": "2026-06-25T13:03:29Z",
+    "stargazerCount": 9802,
+    "updatedAt": "2026-06-25T19:08:26Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -77,7 +77,7 @@
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
     "stargazerCount": 3664,
-    "updatedAt": "2026-06-25T14:10:15Z",
+    "updatedAt": "2026-06-25T18:45:39Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -99,7 +99,7 @@
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
     "stargazerCount": 3215,
-    "updatedAt": "2026-06-25T13:27:16Z",
+    "updatedAt": "2026-06-25T15:27:35Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -164,8 +164,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2396,
-    "updatedAt": "2026-06-25T13:07:39Z",
+    "stargazerCount": 2397,
+    "updatedAt": "2026-06-25T18:17:52Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2342,
-    "updatedAt": "2026-06-25T09:40:13Z",
+    "stargazerCount": 2343,
+    "updatedAt": "2026-06-25T19:55:52Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V37",
@@ -230,8 +230,8 @@
     ],
     "summary": "支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/kernelsu/APatch",
     "metamodule": false,
-    "stargazerCount": 1889,
-    "updatedAt": "2026-06-25T12:37:04Z",
+    "stargazerCount": 1888,
+    "updatedAt": "2026-06-25T18:22:23Z",
     "createdAt": "2022-10-09T18:07:36Z",
     "latestRelease": {
       "name": "v1.5.8",
@@ -252,8 +252,8 @@
     ],
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
-    "stargazerCount": 1854,
-    "updatedAt": "2026-06-25T12:26:51Z",
+    "stargazerCount": 1855,
+    "updatedAt": "2026-06-25T15:48:23Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -274,8 +274,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1422,
-    "updatedAt": "2026-06-25T13:15:34Z",
+    "stargazerCount": 1424,
+    "updatedAt": "2026-06-25T20:09:26Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -319,7 +319,7 @@
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
     "stargazerCount": 1313,
-    "updatedAt": "2026-06-25T09:17:08Z",
+    "updatedAt": "2026-06-25T18:56:06Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -340,8 +340,8 @@
     ],
     "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
     "metamodule": false,
-    "stargazerCount": 1244,
-    "updatedAt": "2026-06-25T14:23:44Z",
+    "stargazerCount": 1245,
+    "updatedAt": "2026-06-25T14:53:29Z",
     "createdAt": "2025-04-04T02:54:54Z",
     "latestRelease": {
       "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
@@ -362,8 +362,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1241,
-    "updatedAt": "2026-06-25T07:33:03Z",
+    "stargazerCount": 1242,
+    "updatedAt": "2026-06-25T15:35:47Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260526",
@@ -385,7 +385,7 @@
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
     "stargazerCount": 1140,
-    "updatedAt": "2026-06-25T12:24:23Z",
+    "updatedAt": "2026-06-25T15:02:11Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "202",
@@ -604,8 +604,8 @@
     ],
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
-    "stargazerCount": 419,
-    "updatedAt": "2026-06-25T13:21:49Z",
+    "stargazerCount": 420,
+    "updatedAt": "2026-06-25T15:59:14Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v0.7.1",
@@ -670,8 +670,8 @@
     ],
     "summary": "Device Performance Optimizer — Aims To Provide An Optimal Experience At Every Usage Scenario",
     "metamodule": false,
-    "stargazerCount": 308,
-    "updatedAt": "2026-06-25T09:31:21Z",
+    "stargazerCount": 309,
+    "updatedAt": "2026-06-25T17:24:41Z",
     "createdAt": "2019-08-18T12:50:20Z",
     "latestRelease": {
       "name": "MAGNETAR+ 19.6.0 (YANKEE)",
@@ -737,7 +737,7 @@
     "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
     "metamodule": false,
     "stargazerCount": 275,
-    "updatedAt": "2026-06-25T13:58:43Z",
+    "updatedAt": "2026-06-25T18:24:43Z",
     "createdAt": "2025-12-20T02:37:31Z",
     "latestRelease": {
       "name": "BRENE v0.0.52",
@@ -758,8 +758,8 @@
     ],
     "summary": "An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.",
     "metamodule": false,
-    "stargazerCount": 232,
-    "updatedAt": "2026-06-23T18:08:38Z",
+    "stargazerCount": 233,
+    "updatedAt": "2026-06-25T15:10:46Z",
     "createdAt": "2024-07-16T23:47:19Z",
     "latestRelease": {
       "name": "Release",
@@ -891,7 +891,7 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 150,
-    "updatedAt": "2026-06-25T11:08:17Z",
+    "updatedAt": "2026-06-25T15:23:44Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
       "name": "Build No. 393",
@@ -1419,7 +1419,7 @@
     "summary": "Samsung Kernels with KernelSU & SUSFS",
     "metamodule": false,
     "stargazerCount": 29,
-    "updatedAt": "2026-06-22T05:00:32Z",
+    "updatedAt": "2026-06-25T15:56:11Z",
     "createdAt": "2025-08-09T06:08:05Z",
     "latestRelease": {
       "name": "Samsung GKI Kernels With KSUN v3.2.0 & SUSFS v2.1.0",
