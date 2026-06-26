@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 16978,
-    "updatedAt": "2026-06-26T12:52:51Z",
+    "stargazerCount": 16984,
+    "updatedAt": "2026-06-26T19:04:39Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3812,
-    "updatedAt": "2026-06-26T12:43:04Z",
+    "stargazerCount": 3813,
+    "updatedAt": "2026-06-26T17:47:38Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.2.0",
@@ -77,7 +77,7 @@
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
     "stargazerCount": 3663,
-    "updatedAt": "2026-06-26T03:26:33Z",
+    "updatedAt": "2026-06-26T16:32:31Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2058,
-    "updatedAt": "2026-06-25T23:59:41Z",
+    "stargazerCount": 2059,
+    "updatedAt": "2026-06-26T15:38:45Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -252,8 +252,8 @@
     ],
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
-    "stargazerCount": 1856,
-    "updatedAt": "2026-06-26T10:55:27Z",
+    "stargazerCount": 1857,
+    "updatedAt": "2026-06-26T16:42:48Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -275,7 +275,7 @@
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
     "stargazerCount": 1424,
-    "updatedAt": "2026-06-26T13:15:42Z",
+    "updatedAt": "2026-06-26T18:28:50Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -780,8 +780,8 @@
     ],
     "summary": "A KernelSU module to debloat system apps with WebUI Interface",
     "metamodule": false,
-    "stargazerCount": 231,
-    "updatedAt": "2026-06-23T22:56:56Z",
+    "stargazerCount": 232,
+    "updatedAt": "2026-06-26T17:39:00Z",
     "createdAt": "2025-03-07T08:51:25Z",
     "latestRelease": {
       "name": "v1.2.1",
@@ -891,13 +891,13 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 151,
-    "updatedAt": "2026-06-26T11:33:52Z",
+    "updatedAt": "2026-06-26T19:38:07Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 399",
-      "version": "399",
-      "time": "2026-06-26T04:50:31Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/399/warp-morphe-v6.38.7-arm-v7a.apk",
+      "name": "Build No. 403",
+      "version": "403",
+      "time": "2026-06-26T19:39:25Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/403/google-photos-morphe-module-v7.82.0.937646388-arm-v7a.zip",
       "versionCode": 7
     }
   },
@@ -1088,8 +1088,8 @@
     ],
     "summary": "⚡Simple Flag Secure Magisk Module ⚡ to Disable Secure Flag and allow taking screenshots/screen recording in apps supports KSU/APatch",
     "metamodule": false,
-    "stargazerCount": 99,
-    "updatedAt": "2026-06-22T21:23:00Z",
+    "stargazerCount": 100,
+    "updatedAt": "2026-06-26T16:00:52Z",
     "createdAt": "2024-06-09T14:58:51Z",
     "latestRelease": {
       "name": "🆕 v5 - Changelogs",
