@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 16994,
-    "updatedAt": "2026-06-27T16:08:54Z",
+    "stargazerCount": 16997,
+    "updatedAt": "2026-06-28T03:40:20Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9811,
-    "updatedAt": "2026-06-27T18:11:22Z",
+    "stargazerCount": 9813,
+    "updatedAt": "2026-06-28T02:17:19Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3816,
-    "updatedAt": "2026-06-27T16:21:15Z",
+    "stargazerCount": 3817,
+    "updatedAt": "2026-06-27T23:09:31Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.2.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3671,
-    "updatedAt": "2026-06-27T16:20:13Z",
+    "stargazerCount": 3672,
+    "updatedAt": "2026-06-28T02:24:50Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2348,
-    "updatedAt": "2026-06-27T17:19:25Z",
+    "stargazerCount": 2349,
+    "updatedAt": "2026-06-28T03:08:16Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V37",
@@ -253,7 +253,7 @@
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
     "stargazerCount": 1857,
-    "updatedAt": "2026-06-26T16:42:48Z",
+    "updatedAt": "2026-06-28T00:57:17Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1329,
-    "updatedAt": "2026-06-27T15:16:11Z",
+    "stargazerCount": 1333,
+    "updatedAt": "2026-06-28T03:46:17Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.3.0",
@@ -330,6 +330,28 @@
     }
   },
   {
+    "moduleId": "twoone-3_AdGuardHomeForRoot",
+    "moduleName": "AdGuardHomeForRoot",
+    "authors": [
+      {
+        "name": "twoone-3",
+        "link": "https://github.com/twoone-3"
+      }
+    ],
+    "summary": "A module to easily execute AdGuardHome on Android",
+    "metamodule": false,
+    "stargazerCount": 1247,
+    "updatedAt": "2026-06-28T01:42:21Z",
+    "createdAt": "2023-11-22T14:48:00Z",
+    "latestRelease": {
+      "name": "20260526",
+      "version": "20260526",
+      "time": "2026-05-26T13:59:44Z",
+      "downloadUrl": "https://github.com/twoone-3/AdGuardHomeForRoot/releases/download/20260526/AdGuardHomeForRoot_arm64.zip",
+      "versionCode": 64
+    }
+  },
+  {
     "moduleId": "Numbersf_Action-Build",
     "moduleName": "Action-Build",
     "authors": [
@@ -352,28 +374,6 @@
     }
   },
   {
-    "moduleId": "twoone-3_AdGuardHomeForRoot",
-    "moduleName": "AdGuardHomeForRoot",
-    "authors": [
-      {
-        "name": "twoone-3",
-        "link": "https://github.com/twoone-3"
-      }
-    ],
-    "summary": "A module to easily execute AdGuardHome on Android",
-    "metamodule": false,
-    "stargazerCount": 1245,
-    "updatedAt": "2026-06-26T06:24:54Z",
-    "createdAt": "2023-11-22T14:48:00Z",
-    "latestRelease": {
-      "name": "20260526",
-      "version": "20260526",
-      "time": "2026-05-26T13:59:44Z",
-      "downloadUrl": "https://github.com/twoone-3/AdGuardHomeForRoot/releases/download/20260526/AdGuardHomeForRoot_arm64.zip",
-      "versionCode": 64
-    }
-  },
-  {
     "moduleId": "backslashxx_mountify",
     "moduleName": "mountify",
     "authors": [
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1144,
-    "updatedAt": "2026-06-27T08:59:51Z",
+    "stargazerCount": 1145,
+    "updatedAt": "2026-06-28T03:29:51Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -450,8 +450,8 @@
     ],
     "summary": "OnePlus Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 599,
-    "updatedAt": "2026-06-27T18:29:23Z",
+    "stargazerCount": 600,
+    "updatedAt": "2026-06-28T03:56:41Z",
     "createdAt": "2024-12-07T23:27:22Z",
     "latestRelease": {
       "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
@@ -472,8 +472,8 @@
     ],
     "summary": "WebUI X from MMRL but portable!",
     "metamodule": false,
-    "stargazerCount": 586,
-    "updatedAt": "2026-06-27T12:52:16Z",
+    "stargazerCount": 587,
+    "updatedAt": "2026-06-28T00:53:48Z",
     "createdAt": "2025-04-20T22:16:38Z",
     "latestRelease": {
       "name": "v438",
@@ -538,8 +538,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 464,
-    "updatedAt": "2026-06-27T07:24:03Z",
+    "stargazerCount": 465,
+    "updatedAt": "2026-06-28T02:18:14Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -605,7 +605,7 @@
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
     "stargazerCount": 422,
-    "updatedAt": "2026-06-27T08:54:59Z",
+    "updatedAt": "2026-06-27T22:50:39Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v0.7.1",
@@ -736,15 +736,15 @@
     ],
     "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
     "metamodule": false,
-    "stargazerCount": 276,
-    "updatedAt": "2026-06-27T18:14:51Z",
+    "stargazerCount": 278,
+    "updatedAt": "2026-06-28T03:09:38Z",
     "createdAt": "2025-12-20T02:37:31Z",
     "latestRelease": {
-      "name": "BRENE v0.0.52",
-      "version": "v0.0.52",
-      "time": "2026-06-21T05:35:09Z",
-      "downloadUrl": "https://github.com/rrr333nnn333/BRENE/releases/download/v0.0.52/BRENE.zip",
-      "versionCode": 52
+      "name": "BRENE v0.0.53",
+      "version": "v0.0.53",
+      "time": "2026-06-28T00:24:22Z",
+      "downloadUrl": "https://github.com/rrr333nnn333/BRENE/releases/download/v0.0.53/BRENE-v0.0.53.zip",
+      "versionCode": 53
     }
   },
   {
@@ -868,8 +868,8 @@
     ],
     "summary": "A module designed to prevent boot loops caused by problematic modules installed via KernelSU or Magisk on Android devices.",
     "metamodule": false,
-    "stargazerCount": 167,
-    "updatedAt": "2026-06-27T02:14:19Z",
+    "stargazerCount": 168,
+    "updatedAt": "2026-06-28T03:10:17Z",
     "createdAt": "2024-02-06T16:43:12Z",
     "latestRelease": {
       "name": "AshLooper Version 9.8 Release",
@@ -891,7 +891,7 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 154,
-    "updatedAt": "2026-06-27T18:56:26Z",
+    "updatedAt": "2026-06-27T21:33:39Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
       "name": "Build No. 409",
@@ -912,8 +912,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 129,
-    "updatedAt": "2026-06-27T06:08:05Z",
+    "stargazerCount": 130,
+    "updatedAt": "2026-06-28T04:23:50Z",
     "createdAt": "2025-12-29T23:02:41Z",
     "latestRelease": {
       "name": "0.13.5-2",
@@ -1176,8 +1176,8 @@
     ],
     "summary": "🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒",
     "metamodule": false,
-    "stargazerCount": 73,
-    "updatedAt": "2026-06-21T12:07:38Z",
+    "stargazerCount": 74,
+    "updatedAt": "2026-06-27T23:09:46Z",
     "createdAt": "2024-06-04T06:56:49Z",
     "latestRelease": {
       "name": "V4.0 🎉",
@@ -1210,6 +1210,28 @@
     }
   },
   {
+    "moduleId": "Mrakorez_py2droid",
+    "moduleName": "py2droid",
+    "authors": [
+      {
+        "name": "Mrakorez",
+        "link": "https://github.com/Mrakorez"
+      }
+    ],
+    "summary": "Magisk/KernelSU/APatch module to install Python 3 on Android.",
+    "metamodule": false,
+    "stargazerCount": 67,
+    "updatedAt": "2026-06-28T04:15:25Z",
+    "createdAt": "2025-06-15T14:50:20Z",
+    "latestRelease": {
+      "name": "v0.3.5",
+      "version": "v0.3.5",
+      "time": "2026-06-10T19:02:49Z",
+      "downloadUrl": "https://github.com/Mrakorez/py2droid/releases/download/v0.3.5/py2droid-v0.3.5.zip",
+      "versionCode": 5
+    }
+  },
+  {
     "moduleId": "FurLC_ZRAM-Module",
     "moduleName": "ZRAM-Module",
     "authors": [
@@ -1229,28 +1251,6 @@
       "time": "2025-05-31T12:23:22Z",
       "downloadUrl": "https://github.com/FurLC/ZRAM-Module/releases/download/v1.3.0/ZRAM-Module-v1.3.0.zip",
       "versionCode": 0
-    }
-  },
-  {
-    "moduleId": "Mrakorez_py2droid",
-    "moduleName": "py2droid",
-    "authors": [
-      {
-        "name": "Mrakorez",
-        "link": "https://github.com/Mrakorez"
-      }
-    ],
-    "summary": "Magisk/KernelSU/APatch module to install Python 3 on Android.",
-    "metamodule": false,
-    "stargazerCount": 66,
-    "updatedAt": "2026-06-23T21:32:55Z",
-    "createdAt": "2025-06-15T14:50:20Z",
-    "latestRelease": {
-      "name": "v0.3.5",
-      "version": "v0.3.5",
-      "time": "2026-06-10T19:02:49Z",
-      "downloadUrl": "https://github.com/Mrakorez/py2droid/releases/download/v0.3.5/py2droid-v0.3.5.zip",
-      "versionCode": 5
     }
   },
   {
@@ -1749,7 +1749,7 @@
     "summary": "ReVanced Extended (anddea) YouTube and YouTube Music builder. Suitable for both root and non-root users",
     "metamodule": false,
     "stargazerCount": 11,
-    "updatedAt": "2026-06-18T09:17:10Z",
+    "updatedAt": "2026-06-28T03:11:42Z",
     "createdAt": "2025-12-11T02:41:30Z",
     "latestRelease": {
       "name": "ReVanced Extended - 2026-06-16 (v1)",
@@ -1826,6 +1826,28 @@
     }
   },
   {
+    "moduleId": "Anonym0usWork1221_liboemcrypto-disabler",
+    "moduleName": "liboemcrypto-disabler",
+    "authors": [
+      {
+        "name": "Anonym0usWork1221",
+        "link": "https://github.com/Anonym0usWork1221"
+      }
+    ],
+    "summary": "Magisk / KernelSU module that disables OEM Widevine to fix Crunchyroll, HBO Max, and other DRM streaming apps on rooted devices. Bypasses Widevine-level root detection without modifying system partiti",
+    "metamodule": false,
+    "stargazerCount": 9,
+    "updatedAt": "2026-06-27T22:09:29Z",
+    "createdAt": "2026-05-13T10:12:04Z",
+    "latestRelease": {
+      "name": "v1.0.0",
+      "version": "v1.0.0",
+      "time": "2026-05-13T10:13:35Z",
+      "downloadUrl": "https://github.com/Anonym0usWork1221/liboemcrypto-disabler/releases/download/v1.0.0/liboemcrypto-disabler.zip",
+      "versionCode": 0
+    }
+  },
+  {
     "moduleId": "arvinjangid_LSPosed-Detector",
     "moduleName": "LSPosed-Detector",
     "authors": [
@@ -1866,28 +1888,6 @@
       "version": "v1.0",
       "time": "2026-04-22T12:08:57Z",
       "downloadUrl": "https://github.com/gorkemgun/TrustAnyCert/releases/download/v1.0/TrustAnyCert-v1.0.zip",
-      "versionCode": 0
-    }
-  },
-  {
-    "moduleId": "Anonym0usWork1221_liboemcrypto-disabler",
-    "moduleName": "liboemcrypto-disabler",
-    "authors": [
-      {
-        "name": "Anonym0usWork1221",
-        "link": "https://github.com/Anonym0usWork1221"
-      }
-    ],
-    "summary": "Magisk / KernelSU module that disables OEM Widevine to fix Crunchyroll, HBO Max, and other DRM streaming apps on rooted devices. Bypasses Widevine-level root detection without modifying system partiti",
-    "metamodule": false,
-    "stargazerCount": 8,
-    "updatedAt": "2026-06-15T02:07:30Z",
-    "createdAt": "2026-05-13T10:12:04Z",
-    "latestRelease": {
-      "name": "v1.0.0",
-      "version": "v1.0.0",
-      "time": "2026-05-13T10:13:35Z",
-      "downloadUrl": "https://github.com/Anonym0usWork1221/liboemcrypto-disabler/releases/download/v1.0.0/liboemcrypto-disabler.zip",
       "versionCode": 0
     }
   },
