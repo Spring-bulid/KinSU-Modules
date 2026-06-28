@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 16997,
-    "updatedAt": "2026-06-28T03:40:20Z",
+    "stargazerCount": 17002,
+    "updatedAt": "2026-06-28T09:12:39Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9813,
-    "updatedAt": "2026-06-28T02:17:19Z",
+    "stargazerCount": 9815,
+    "updatedAt": "2026-06-28T07:47:21Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3817,
-    "updatedAt": "2026-06-27T23:09:31Z",
+    "stargazerCount": 3818,
+    "updatedAt": "2026-06-28T06:53:18Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.2.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3672,
-    "updatedAt": "2026-06-28T02:24:50Z",
+    "stargazerCount": 3673,
+    "updatedAt": "2026-06-28T05:15:41Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -164,8 +164,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2401,
-    "updatedAt": "2026-06-27T18:42:39Z",
+    "stargazerCount": 2402,
+    "updatedAt": "2026-06-28T08:46:48Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2349,
-    "updatedAt": "2026-06-28T03:08:16Z",
+    "stargazerCount": 2350,
+    "updatedAt": "2026-06-28T06:25:51Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V37",
@@ -230,8 +230,8 @@
     ],
     "summary": "支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/kernelsu/APatch",
     "metamodule": false,
-    "stargazerCount": 1891,
-    "updatedAt": "2026-06-27T01:22:28Z",
+    "stargazerCount": 1893,
+    "updatedAt": "2026-06-28T06:22:36Z",
     "createdAt": "2022-10-09T18:07:36Z",
     "latestRelease": {
       "name": "v1.5.8",
@@ -252,8 +252,8 @@
     ],
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
-    "stargazerCount": 1857,
-    "updatedAt": "2026-06-28T00:57:17Z",
+    "stargazerCount": 1859,
+    "updatedAt": "2026-06-28T07:59:02Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1333,
-    "updatedAt": "2026-06-28T03:46:17Z",
+    "stargazerCount": 1334,
+    "updatedAt": "2026-06-28T06:51:47Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.3.0",
@@ -340,8 +340,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1247,
-    "updatedAt": "2026-06-28T01:42:21Z",
+    "stargazerCount": 1249,
+    "updatedAt": "2026-06-28T08:35:03Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260526",
@@ -362,8 +362,8 @@
     ],
     "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
     "metamodule": false,
-    "stargazerCount": 1246,
-    "updatedAt": "2026-06-27T14:37:39Z",
+    "stargazerCount": 1247,
+    "updatedAt": "2026-06-28T09:01:04Z",
     "createdAt": "2025-04-04T02:54:54Z",
     "latestRelease": {
       "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
@@ -450,8 +450,8 @@
     ],
     "summary": "OnePlus Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 600,
-    "updatedAt": "2026-06-28T03:56:41Z",
+    "stargazerCount": 601,
+    "updatedAt": "2026-06-28T08:44:04Z",
     "createdAt": "2024-12-07T23:27:22Z",
     "latestRelease": {
       "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
@@ -516,8 +516,8 @@
     ],
     "summary": "Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way to use WireGuard and 2FA.",
     "metamodule": false,
-    "stargazerCount": 477,
-    "updatedAt": "2026-06-25T20:16:37Z",
+    "stargazerCount": 478,
+    "updatedAt": "2026-06-28T05:45:15Z",
     "createdAt": "2023-12-13T20:02:49Z",
     "latestRelease": {
       "name": "Magisk Tailscaled v2.0.0.1",
@@ -891,14 +891,14 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 154,
-    "updatedAt": "2026-06-27T21:33:39Z",
+    "updatedAt": "2026-06-28T08:47:30Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 409",
-      "version": "409",
-      "time": "2026-06-27T18:07:37Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/409/adguard-morphe-module-v4.12.81-arm-v7a.zip",
-      "versionCode": 7
+      "name": "Build No. 415",
+      "version": "415",
+      "time": "2026-06-28T08:48:08Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/415/instagram-morphe-piko-module-v435.0.0.37.76-all.zip",
+      "versionCode": 76
     }
   },
   {
@@ -1496,6 +1496,28 @@
     }
   },
   {
+    "moduleId": "ravindu644_adb-root-enabler",
+    "moduleName": "adb-root-enabler",
+    "authors": [
+      {
+        "name": "ravindu644",
+        "link": "https://github.com/ravindu644"
+      }
+    ],
+    "summary": "Magisk / KernelSU / Apatch module to enable adb root on production Android builds.",
+    "metamodule": false,
+    "stargazerCount": 19,
+    "updatedAt": "2026-06-28T04:44:33Z",
+    "createdAt": "2025-12-01T16:38:12Z",
+    "latestRelease": {
+      "name": "ADB root enabler v1",
+      "version": "v1",
+      "time": "2025-12-01T16:39:42Z",
+      "downloadUrl": "https://github.com/ravindu644/adb-root-enabler/releases/download/v1/adb-root-enabler.zip",
+      "versionCode": 1
+    }
+  },
+  {
     "moduleId": "burakgon_KernelSU-WiFi-Country-Code",
     "moduleName": "KernelSU-WiFi-Country-Code",
     "authors": [
@@ -1540,28 +1562,6 @@
     }
   },
   {
-    "moduleId": "ravindu644_adb-root-enabler",
-    "moduleName": "adb-root-enabler",
-    "authors": [
-      {
-        "name": "ravindu644",
-        "link": "https://github.com/ravindu644"
-      }
-    ],
-    "summary": "Magisk / KernelSU / Apatch module to enable adb root on production Android builds.",
-    "metamodule": false,
-    "stargazerCount": 18,
-    "updatedAt": "2026-06-02T03:13:20Z",
-    "createdAt": "2025-12-01T16:38:12Z",
-    "latestRelease": {
-      "name": "ADB root enabler v1",
-      "version": "v1",
-      "time": "2025-12-01T16:39:42Z",
-      "downloadUrl": "https://github.com/ravindu644/adb-root-enabler/releases/download/v1/adb-root-enabler.zip",
-      "versionCode": 1
-    }
-  },
-  {
     "moduleId": "dat-hoangnguyentuandat_GlibClaw",
     "moduleName": "GlibClaw",
     "authors": [
@@ -1599,10 +1599,10 @@
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
       "name": "Build 9c3df40258131fb418ddae360e2ce852d72fa66c",
-      "version": "build-176-9c3df40258131fb418ddae360e2ce852d72fa66c",
-      "time": "2026-06-27T05:41:34Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-176-9c3df40258131fb418ddae360e2ce852d72fa66c/Kono-Ha-1.1-root-KernelSU-balance-20260627-000934.zip",
-      "versionCode": 934
+      "version": "build-177-9c3df40258131fb418ddae360e2ce852d72fa66c",
+      "time": "2026-06-28T04:56:23Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-177-9c3df40258131fb418ddae360e2ce852d72fa66c/Kono-Ha-1.1-root-KernelSU-balance-20260628-011018.zip",
+      "versionCode": 11018
     }
   },
   {
