@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17002,
-    "updatedAt": "2026-06-28T09:12:39Z",
+    "stargazerCount": 17005,
+    "updatedAt": "2026-06-28T14:04:24Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3818,
-    "updatedAt": "2026-06-28T06:53:18Z",
+    "stargazerCount": 3819,
+    "updatedAt": "2026-06-28T12:50:08Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.2.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3673,
-    "updatedAt": "2026-06-28T05:15:41Z",
+    "stargazerCount": 3674,
+    "updatedAt": "2026-06-28T12:05:28Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3217,
-    "updatedAt": "2026-06-27T18:13:53Z",
+    "stargazerCount": 3220,
+    "updatedAt": "2026-06-28T12:57:18Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2350,
-    "updatedAt": "2026-06-28T06:25:51Z",
+    "stargazerCount": 2351,
+    "updatedAt": "2026-06-28T13:34:36Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V37",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2057,
-    "updatedAt": "2026-06-27T19:28:42Z",
+    "stargazerCount": 2058,
+    "updatedAt": "2026-06-28T14:02:40Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -274,8 +274,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1426,
-    "updatedAt": "2026-06-27T18:15:03Z",
+    "stargazerCount": 1427,
+    "updatedAt": "2026-06-28T13:24:35Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -297,7 +297,7 @@
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
     "stargazerCount": 1334,
-    "updatedAt": "2026-06-28T06:51:47Z",
+    "updatedAt": "2026-06-28T12:07:39Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.3.0",
@@ -340,8 +340,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1249,
-    "updatedAt": "2026-06-28T08:35:03Z",
+    "stargazerCount": 1250,
+    "updatedAt": "2026-06-28T10:56:06Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260526",
@@ -494,8 +494,8 @@
     ],
     "summary": "A Magisk/KernelSU/Apatch module to fix VBMeta detections on Android",
     "metamodule": false,
-    "stargazerCount": 512,
-    "updatedAt": "2026-06-24T15:27:56Z",
+    "stargazerCount": 513,
+    "updatedAt": "2026-06-28T09:32:32Z",
     "createdAt": "2024-10-29T14:33:58Z",
     "latestRelease": {
       "name": "Release v1.2.0",
@@ -605,7 +605,7 @@
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
     "stargazerCount": 422,
-    "updatedAt": "2026-06-27T22:50:39Z",
+    "updatedAt": "2026-06-28T10:59:08Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v0.7.1",
@@ -704,6 +704,28 @@
     }
   },
   {
+    "moduleId": "rrr333nnn333_BRENE",
+    "moduleName": "BRENE",
+    "authors": [
+      {
+        "name": "rrr333nnn333",
+        "link": "https://github.com/rrr333nnn333"
+      }
+    ],
+    "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
+    "metamodule": false,
+    "stargazerCount": 279,
+    "updatedAt": "2026-06-28T09:34:18Z",
+    "createdAt": "2025-12-20T02:37:31Z",
+    "latestRelease": {
+      "name": "BRENE v0.0.53",
+      "version": "v0.0.53",
+      "time": "2026-06-28T00:24:22Z",
+      "downloadUrl": "https://github.com/rrr333nnn333/BRENE/releases/download/v0.0.53/BRENE-v0.0.53.zip",
+      "versionCode": 53
+    }
+  },
+  {
     "moduleId": "qdykernel_Build_Oneplus_Realme_Action",
     "moduleName": "Build_Oneplus_Realme_Action",
     "authors": [
@@ -723,28 +745,6 @@
       "time": "2026-06-13T09:48:38Z",
       "downloadUrl": "https://github.com/qdykernel/Build_Oneplus_Realme_Action/releases/download/SM8750-oneplus_ace5_pro-build-260613174835/AK3_34967_oneplus_ace5_pro_ReSukiSU.zip",
       "versionCode": 5
-    }
-  },
-  {
-    "moduleId": "rrr333nnn333_BRENE",
-    "moduleName": "BRENE",
-    "authors": [
-      {
-        "name": "rrr333nnn333",
-        "link": "https://github.com/rrr333nnn333"
-      }
-    ],
-    "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
-    "metamodule": false,
-    "stargazerCount": 278,
-    "updatedAt": "2026-06-28T03:09:38Z",
-    "createdAt": "2025-12-20T02:37:31Z",
-    "latestRelease": {
-      "name": "BRENE v0.0.53",
-      "version": "v0.0.53",
-      "time": "2026-06-28T00:24:22Z",
-      "downloadUrl": "https://github.com/rrr333nnn333/BRENE/releases/download/v0.0.53/BRENE-v0.0.53.zip",
-      "versionCode": 53
     }
   },
   {
@@ -846,8 +846,8 @@
     ],
     "summary": "Sultan Kernels built with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 180,
-    "updatedAt": "2026-06-23T02:43:37Z",
+    "stargazerCount": 179,
+    "updatedAt": "2026-06-28T11:46:32Z",
     "createdAt": "2025-01-19T03:05:13Z",
     "latestRelease": {
       "name": "Sultan Kernels With KernelSU Next & SUSFS v2.1.0",
@@ -891,14 +891,14 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 154,
-    "updatedAt": "2026-06-28T08:47:30Z",
+    "updatedAt": "2026-06-28T13:59:32Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 415",
-      "version": "415",
-      "time": "2026-06-28T08:48:08Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/415/instagram-morphe-piko-module-v435.0.0.37.76-all.zip",
-      "versionCode": 76
+      "name": "Build No. 417",
+      "version": "417",
+      "time": "2026-06-28T13:55:02Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/417/acalendar-morphe-v2.9.6-all.apk",
+      "versionCode": 6
     }
   },
   {
