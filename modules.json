@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17033,
-    "updatedAt": "2026-06-30T04:05:28Z",
+    "stargazerCount": 17032,
+    "updatedAt": "2026-06-30T09:18:02Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9826,
-    "updatedAt": "2026-06-29T20:19:38Z",
+    "stargazerCount": 9827,
+    "updatedAt": "2026-06-30T09:31:31Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3829,
-    "updatedAt": "2026-06-30T03:24:16Z",
+    "stargazerCount": 3831,
+    "updatedAt": "2026-06-30T06:02:26Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.2.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3680,
-    "updatedAt": "2026-06-30T04:11:51Z",
+    "stargazerCount": 3681,
+    "updatedAt": "2026-06-30T07:51:48Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3224,
-    "updatedAt": "2026-06-30T02:51:52Z",
+    "stargazerCount": 3225,
+    "updatedAt": "2026-06-30T07:48:47Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2358,
-    "updatedAt": "2026-06-30T03:54:24Z",
+    "stargazerCount": 2359,
+    "updatedAt": "2026-06-30T05:37:36Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V37",
@@ -230,8 +230,8 @@
     ],
     "summary": "支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/kernelsu/APatch",
     "metamodule": false,
-    "stargazerCount": 1895,
-    "updatedAt": "2026-06-29T08:28:09Z",
+    "stargazerCount": 1896,
+    "updatedAt": "2026-06-30T06:25:20Z",
     "createdAt": "2022-10-09T18:07:36Z",
     "latestRelease": {
       "name": "v1.5.8",
@@ -297,7 +297,7 @@
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
     "stargazerCount": 1344,
-    "updatedAt": "2026-06-30T03:29:27Z",
+    "updatedAt": "2026-06-30T09:25:40Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.3.0",
@@ -363,7 +363,7 @@
     "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
     "metamodule": false,
     "stargazerCount": 1249,
-    "updatedAt": "2026-06-29T16:39:06Z",
+    "updatedAt": "2026-06-30T09:51:00Z",
     "createdAt": "2025-04-04T02:54:54Z",
     "latestRelease": {
       "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1152,
-    "updatedAt": "2026-06-30T00:16:50Z",
+    "stargazerCount": 1153,
+    "updatedAt": "2026-06-30T05:15:58Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -583,7 +583,7 @@
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
     "stargazerCount": 423,
-    "updatedAt": "2026-06-29T22:48:49Z",
+    "updatedAt": "2026-06-30T08:33:58Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v0.7.1",
@@ -604,8 +604,8 @@
     ],
     "summary": "OverlayFS MetaModule",
     "metamodule": false,
-    "stargazerCount": 412,
-    "updatedAt": "2026-06-29T02:44:39Z",
+    "stargazerCount": 413,
+    "updatedAt": "2026-06-30T05:25:00Z",
     "createdAt": "2025-11-21T04:35:16Z",
     "latestRelease": {
       "name": "v1.3.1",
@@ -737,7 +737,7 @@
     "summary": "An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.",
     "metamodule": false,
     "stargazerCount": 235,
-    "updatedAt": "2026-06-30T00:01:14Z",
+    "updatedAt": "2026-06-30T06:50:39Z",
     "createdAt": "2024-07-16T23:47:19Z",
     "latestRelease": {
       "name": "Release",
@@ -868,15 +868,15 @@
     ],
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
-    "stargazerCount": 155,
-    "updatedAt": "2026-06-29T21:51:39Z",
+    "stargazerCount": 156,
+    "updatedAt": "2026-06-30T08:29:02Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 431",
-      "version": "431",
-      "time": "2026-06-29T21:52:00Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/431/adguard-morphe-nightly-module-v4.14.68-arm-v7a.zip",
-      "versionCode": 7
+      "name": "Build No. 432",
+      "version": "432",
+      "time": "2026-06-30T04:45:12Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/432/at4k-launcher-morphe-v0.99-all.apk",
+      "versionCode": 99
     }
   },
   {
@@ -1577,10 +1577,10 @@
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
       "name": "Build 9c3df40258131fb418ddae360e2ce852d72fa66c",
-      "version": "build-178-9c3df40258131fb418ddae360e2ce852d72fa66c",
-      "time": "2026-06-29T05:02:30Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-178-9c3df40258131fb418ddae360e2ce852d72fa66c/Kono-Ha-1.1-root-KernelSU-balance-20260629-000617.zip",
-      "versionCode": 617
+      "version": "build-179-9c3df40258131fb418ddae360e2ce852d72fa66c",
+      "time": "2026-06-30T05:57:57Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-179-9c3df40258131fb418ddae360e2ce852d72fa66c/Kono-Ha-1.1-root-KernelSU-balance-20260629-224143.zip",
+      "versionCode": 224143
     }
   },
   {
