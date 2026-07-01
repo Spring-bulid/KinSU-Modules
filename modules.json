@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17038,
-    "updatedAt": "2026-06-30T17:13:46Z",
+    "stargazerCount": 17042,
+    "updatedAt": "2026-07-01T03:20:17Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9831,
-    "updatedAt": "2026-06-30T19:35:32Z",
+    "stargazerCount": 9830,
+    "updatedAt": "2026-07-01T02:56:25Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3834,
-    "updatedAt": "2026-06-30T17:41:33Z",
+    "stargazerCount": 3835,
+    "updatedAt": "2026-07-01T04:37:30Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.2.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3683,
-    "updatedAt": "2026-06-30T18:32:54Z",
+    "stargazerCount": 3682,
+    "updatedAt": "2026-06-30T23:07:18Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3226,
-    "updatedAt": "2026-06-30T18:50:28Z",
+    "stargazerCount": 3227,
+    "updatedAt": "2026-07-01T00:00:56Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -120,8 +120,8 @@
     ],
     "summary": "A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.",
     "metamodule": false,
-    "stargazerCount": 2517,
-    "updatedAt": "2026-06-30T17:17:41Z",
+    "stargazerCount": 2515,
+    "updatedAt": "2026-07-01T01:33:54Z",
     "createdAt": "2024-03-03T18:20:02Z",
     "latestRelease": {
       "name": "v2.1.4",
@@ -142,8 +142,8 @@
     ],
     "summary": "A Magisk/KernelSU module that automatically adds user certificates to the system root CA store",
     "metamodule": false,
-    "stargazerCount": 2500,
-    "updatedAt": "2026-06-30T17:46:32Z",
+    "stargazerCount": 2501,
+    "updatedAt": "2026-06-30T22:53:01Z",
     "createdAt": "2017-12-15T15:22:28Z",
     "latestRelease": {
       "name": "v1.3",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2360,
-    "updatedAt": "2026-06-30T19:03:33Z",
+    "stargazerCount": 2358,
+    "updatedAt": "2026-07-01T01:57:41Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V37",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2060,
-    "updatedAt": "2026-06-30T16:12:18Z",
+    "stargazerCount": 2061,
+    "updatedAt": "2026-07-01T04:27:29Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1355,
-    "updatedAt": "2026-06-30T17:58:20Z",
+    "stargazerCount": 1359,
+    "updatedAt": "2026-07-01T03:42:58Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.3.0",
@@ -318,8 +318,8 @@
     ],
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
-    "stargazerCount": 1316,
-    "updatedAt": "2026-06-28T19:30:03Z",
+    "stargazerCount": 1314,
+    "updatedAt": "2026-06-30T23:07:18Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -340,8 +340,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1254,
-    "updatedAt": "2026-06-30T13:13:01Z",
+    "stargazerCount": 1255,
+    "updatedAt": "2026-07-01T00:49:34Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260526",
@@ -406,8 +406,8 @@
     ],
     "summary": "A modules manager for Magisk, KernelSU and APatch",
     "metamodule": false,
-    "stargazerCount": 1121,
-    "updatedAt": "2026-06-23T19:46:58Z",
+    "stargazerCount": 1120,
+    "updatedAt": "2026-07-01T01:38:02Z",
     "createdAt": "2022-10-14T10:39:04Z",
     "latestRelease": {
       "name": "v2.5.0",
@@ -560,8 +560,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 426,
-    "updatedAt": "2026-06-30T13:22:06Z",
+    "stargazerCount": 427,
+    "updatedAt": "2026-07-01T03:30:26Z",
     "createdAt": "2025-12-30T05:59:35Z",
     "latestRelease": {
       "name": "Release v0.0.1",
@@ -605,7 +605,7 @@
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
     "stargazerCount": 423,
-    "updatedAt": "2026-06-30T16:32:41Z",
+    "updatedAt": "2026-06-30T21:15:21Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v0.7.1",
@@ -714,8 +714,8 @@
     ],
     "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
     "metamodule": false,
-    "stargazerCount": 280,
-    "updatedAt": "2026-06-30T03:59:01Z",
+    "stargazerCount": 279,
+    "updatedAt": "2026-06-30T23:07:20Z",
     "createdAt": "2025-12-20T02:37:31Z",
     "latestRelease": {
       "name": "BRENE v0.0.53",
@@ -868,8 +868,8 @@
     ],
     "summary": "A module designed to prevent boot loops caused by problematic modules installed via KernelSU or Magisk on Android devices.",
     "metamodule": false,
-    "stargazerCount": 172,
-    "updatedAt": "2026-06-30T14:19:20Z",
+    "stargazerCount": 171,
+    "updatedAt": "2026-06-30T23:07:18Z",
     "createdAt": "2024-02-06T16:43:12Z",
     "latestRelease": {
       "name": "AshLooper Version 9.8 Release",
@@ -891,14 +891,14 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 156,
-    "updatedAt": "2026-06-30T12:11:51Z",
+    "updatedAt": "2026-07-01T04:40:27Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 435",
-      "version": "435",
-      "time": "2026-06-30T11:56:47Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/435/windscribe-vpn-morphe-v4.1.2274-all.apk",
-      "versionCode": 2274
+      "name": "Build No. 437",
+      "version": "437",
+      "time": "2026-07-01T04:16:40Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/437/money-manager-morphe-v4.11.1GF-arm-v7a.apk",
+      "versionCode": 7
     }
   },
   {
@@ -934,8 +934,8 @@
     ],
     "summary": "A Magisk/KernelSU module to change tcp congestion algorithm based on current active internet type and some network enhancements.",
     "metamodule": false,
-    "stargazerCount": 124,
-    "updatedAt": "2026-06-29T09:11:38Z",
+    "stargazerCount": 125,
+    "updatedAt": "2026-07-01T04:26:10Z",
     "createdAt": "2025-05-09T17:07:07Z",
     "latestRelease": {
       "name": "2.4",
@@ -968,28 +968,6 @@
     }
   },
   {
-    "moduleId": "symbuzzer_Volte-Wifi-Calling-Enabler",
-    "moduleName": "Volte-Wifi-Calling-Enabler",
-    "authors": [
-      {
-        "name": "symbuzzer",
-        "link": "https://github.com/symbuzzer"
-      }
-    ],
-    "summary": "Volte and Wifi Calling Enabler Magisk and KernelSU Module",
-    "metamodule": false,
-    "stargazerCount": 116,
-    "updatedAt": "2026-06-22T13:39:29Z",
-    "createdAt": "2022-11-06T11:12:26Z",
-    "latestRelease": {
-      "name": "v1.1.2",
-      "version": "v1.1.2",
-      "time": "2024-04-16T14:42:52Z",
-      "downloadUrl": "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler/releases/download/v1.1.2/Volte-Wifi-Calling-Enabler.zip",
-      "versionCode": 2
-    }
-  },
-  {
     "moduleId": "RuriOSS_asl",
     "moduleName": "asl",
     "authors": [
@@ -1009,6 +987,28 @@
       "time": "2024-12-10T04:46:04Z",
       "downloadUrl": "https://github.com/RuriOSS/asl/releases/download/v1.0/asl-alpine-edge.zip",
       "versionCode": 9
+    }
+  },
+  {
+    "moduleId": "symbuzzer_Volte-Wifi-Calling-Enabler",
+    "moduleName": "Volte-Wifi-Calling-Enabler",
+    "authors": [
+      {
+        "name": "symbuzzer",
+        "link": "https://github.com/symbuzzer"
+      }
+    ],
+    "summary": "Volte and Wifi Calling Enabler Magisk and KernelSU Module",
+    "metamodule": false,
+    "stargazerCount": 115,
+    "updatedAt": "2026-07-01T01:37:00Z",
+    "createdAt": "2022-11-06T11:12:26Z",
+    "latestRelease": {
+      "name": "v1.1.2",
+      "version": "v1.1.2",
+      "time": "2024-04-16T14:42:52Z",
+      "downloadUrl": "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler/releases/download/v1.1.2/Volte-Wifi-Calling-Enabler.zip",
+      "versionCode": 2
     }
   },
   {
@@ -1210,28 +1210,6 @@
     }
   },
   {
-    "moduleId": "FurLC_ZRAM-Module",
-    "moduleName": "ZRAM-Module",
-    "authors": [
-      {
-        "name": "FurLC",
-        "link": "https://github.com/FurLC"
-      }
-    ],
-    "summary": "A Magisk/KernelSU module that provides ZRAM compression algorithm support for Android devices",
-    "metamodule": false,
-    "stargazerCount": 67,
-    "updatedAt": "2026-06-29T14:36:19Z",
-    "createdAt": "2025-05-24T11:21:03Z",
-    "latestRelease": {
-      "name": "v1.3.0",
-      "version": "v1.3.0",
-      "time": "2025-05-31T12:23:22Z",
-      "downloadUrl": "https://github.com/FurLC/ZRAM-Module/releases/download/v1.3.0/ZRAM-Module-v1.3.0.zip",
-      "versionCode": 0
-    }
-  },
-  {
     "moduleId": "Mrakorez_py2droid",
     "moduleName": "py2droid",
     "authors": [
@@ -1251,6 +1229,28 @@
       "time": "2026-06-10T19:02:49Z",
       "downloadUrl": "https://github.com/Mrakorez/py2droid/releases/download/v0.3.5/py2droid-v0.3.5.zip",
       "versionCode": 5
+    }
+  },
+  {
+    "moduleId": "FurLC_ZRAM-Module",
+    "moduleName": "ZRAM-Module",
+    "authors": [
+      {
+        "name": "FurLC",
+        "link": "https://github.com/FurLC"
+      }
+    ],
+    "summary": "A Magisk/KernelSU module that provides ZRAM compression algorithm support for Android devices",
+    "metamodule": false,
+    "stargazerCount": 66,
+    "updatedAt": "2026-06-30T23:07:19Z",
+    "createdAt": "2025-05-24T11:21:03Z",
+    "latestRelease": {
+      "name": "v1.3.0",
+      "version": "v1.3.0",
+      "time": "2025-05-31T12:23:22Z",
+      "downloadUrl": "https://github.com/FurLC/ZRAM-Module/releases/download/v1.3.0/ZRAM-Module-v1.3.0.zip",
+      "versionCode": 0
     }
   },
   {
@@ -1463,7 +1463,7 @@
     "summary": "This is a personal hobby and learning repository. Contributions of all kinds are always welcome",
     "metamodule": false,
     "stargazerCount": 22,
-    "updatedAt": "2026-06-30T03:11:37Z",
+    "updatedAt": "2026-07-01T00:19:10Z",
     "createdAt": "2025-10-22T13:32:19Z",
     "latestRelease": {
       "name": "v1.0.4",
@@ -1617,7 +1617,7 @@
     "summary": "红魔手机 KernelSU 模块 | WebUI · 风扇极速 · 充电分离 · 云控屏蔽 · 温控移除 · 振动增强 · 触控优化 · 充电加速 · 在线更新",
     "metamodule": false,
     "stargazerCount": 15,
-    "updatedAt": "2026-06-30T10:26:50Z",
+    "updatedAt": "2026-07-01T03:52:31Z",
     "createdAt": "2026-06-03T07:43:01Z",
     "latestRelease": {
       "name": "更好的红魔 v2.2.0 更新",
