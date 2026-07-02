@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17057,
-    "updatedAt": "2026-07-02T07:47:49Z",
+    "stargazerCount": 17059,
+    "updatedAt": "2026-07-02T13:09:12Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9839,
-    "updatedAt": "2026-07-02T07:07:16Z",
+    "stargazerCount": 9840,
+    "updatedAt": "2026-07-02T12:46:39Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3687,
-    "updatedAt": "2026-07-02T07:43:01Z",
+    "stargazerCount": 3688,
+    "updatedAt": "2026-07-02T09:32:55Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2066,
-    "updatedAt": "2026-07-02T02:09:49Z",
+    "stargazerCount": 2067,
+    "updatedAt": "2026-07-02T12:44:51Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -230,8 +230,8 @@
     ],
     "summary": "支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/kernelsu/APatch",
     "metamodule": false,
-    "stargazerCount": 1895,
-    "updatedAt": "2026-07-02T03:40:19Z",
+    "stargazerCount": 1896,
+    "updatedAt": "2026-07-02T10:06:34Z",
     "createdAt": "2022-10-09T18:07:36Z",
     "latestRelease": {
       "name": "v1.5.8",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1367,
-    "updatedAt": "2026-07-02T08:09:30Z",
+    "stargazerCount": 1370,
+    "updatedAt": "2026-07-02T12:25:13Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.3.0",
@@ -318,8 +318,8 @@
     ],
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
-    "stargazerCount": 1316,
-    "updatedAt": "2026-07-02T01:45:56Z",
+    "stargazerCount": 1318,
+    "updatedAt": "2026-07-02T12:03:47Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -362,8 +362,8 @@
     ],
     "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
     "metamodule": false,
-    "stargazerCount": 1252,
-    "updatedAt": "2026-07-02T08:50:05Z",
+    "stargazerCount": 1253,
+    "updatedAt": "2026-07-02T11:11:16Z",
     "createdAt": "2025-04-04T02:54:54Z",
     "latestRelease": {
       "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1156,
-    "updatedAt": "2026-07-02T07:31:37Z",
+    "stargazerCount": 1157,
+    "updatedAt": "2026-07-02T10:34:33Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -538,8 +538,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 468,
-    "updatedAt": "2026-07-01T13:18:36Z",
+    "stargazerCount": 469,
+    "updatedAt": "2026-07-02T10:20:35Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -560,8 +560,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 429,
-    "updatedAt": "2026-07-02T04:22:00Z",
+    "stargazerCount": 428,
+    "updatedAt": "2026-07-02T10:49:33Z",
     "createdAt": "2025-12-30T05:59:35Z",
     "latestRelease": {
       "name": "Release v0.0.1",
@@ -583,7 +583,7 @@
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
     "stargazerCount": 428,
-    "updatedAt": "2026-07-02T08:28:22Z",
+    "updatedAt": "2026-07-02T13:26:03Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -891,13 +891,13 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 157,
-    "updatedAt": "2026-07-02T05:08:52Z",
+    "updatedAt": "2026-07-02T11:18:01Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 444",
-      "version": "444",
-      "time": "2026-07-02T05:06:17Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/444/prime-video-morphe-androidtv-v6.23.23%2Bv15.5.0.70-armv7a-all.apk",
+      "name": "Build No. 446",
+      "version": "446",
+      "time": "2026-07-02T10:27:51Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/446/myfitnesspal-morphe-v26.21.1-arm-v7a.apk",
       "versionCode": 7
     }
   },
@@ -934,8 +934,8 @@
     ],
     "summary": "A Magisk/KernelSU module to change tcp congestion algorithm based on current active internet type and some network enhancements.",
     "metamodule": false,
-    "stargazerCount": 127,
-    "updatedAt": "2026-07-02T02:22:07Z",
+    "stargazerCount": 129,
+    "updatedAt": "2026-07-02T14:01:31Z",
     "createdAt": "2025-05-09T17:07:07Z",
     "latestRelease": {
       "name": "2.5",
@@ -1044,8 +1044,8 @@
     ],
     "summary": "A standalone app implementation of KernelSU WebUI.",
     "metamodule": false,
-    "stargazerCount": 103,
-    "updatedAt": "2026-07-01T12:51:42Z",
+    "stargazerCount": 104,
+    "updatedAt": "2026-07-02T14:18:04Z",
     "createdAt": "2025-05-12T06:22:47Z",
     "latestRelease": {
       "name": "1.0-11",
@@ -1251,28 +1251,6 @@
       "time": "2025-05-31T12:23:22Z",
       "downloadUrl": "https://github.com/FurLC/ZRAM-Module/releases/download/v1.3.0/ZRAM-Module-v1.3.0.zip",
       "versionCode": 0
-    }
-  },
-  {
-    "moduleId": "Cai-Ming-Yu_CMY-CacheCleaner",
-    "moduleName": "CMY-CacheCleaner",
-    "authors": [
-      {
-        "name": "Cai-Ming-Yu",
-        "link": "https://github.com/Cai-Ming-Yu"
-      }
-    ],
-    "summary": "アプリの起動時にキャッシュをクリアするよ！After the app starts, clear the cache first! (A very simple and easy-to-use Xposed module (Magisk(KernelSU/APatch) is also supported))",
-    "metamodule": false,
-    "stargazerCount": 64,
-    "updatedAt": "2026-06-03T12:22:02Z",
-    "createdAt": "2023-10-21T16:12:13Z",
-    "latestRelease": {
-      "name": "Version 1.3.2 (2024.09.21)",
-      "version": "v1.3.2",
-      "time": "2024-09-21T08:28:06Z",
-      "downloadUrl": "https://github.com/Cai-Ming-Yu/CMY-CacheCleaner/releases/download/v1.3.2/CacheCleaner-V1.3.2-Magisk.zip",
-      "versionCode": 2
     }
   },
   {
@@ -1771,13 +1749,13 @@
     "summary": "A Magisk/KernelSU font module.",
     "metamodule": false,
     "stargazerCount": 10,
-    "updatedAt": "2026-07-02T08:55:38Z",
+    "updatedAt": "2026-07-02T14:15:21Z",
     "createdAt": "2026-06-11T08:15:40Z",
     "latestRelease": {
-      "name": "v1.5.3",
-      "version": "v1.5.3",
-      "time": "2026-07-02T08:52:19Z",
-      "downloadUrl": "https://github.com/HsukqiLee/GoogleSansMax/releases/download/v1.5.3/GoogleSansMax-Core.zip",
+      "name": "v1.5.1",
+      "version": "v1.5.1",
+      "time": "2026-07-02T14:11:58Z",
+      "downloadUrl": "https://github.com/HsukqiLee/GoogleSansMax/releases/download/v1.5.1/GoogleSansMax-Core.zip",
       "versionCode": 1
     }
   },
