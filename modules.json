@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17071,
-    "updatedAt": "2026-07-03T13:34:49Z",
+    "stargazerCount": 17074,
+    "updatedAt": "2026-07-03T15:48:57Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9846,
-    "updatedAt": "2026-07-03T13:53:50Z",
+    "stargazerCount": 9847,
+    "updatedAt": "2026-07-03T16:21:44Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -41,6 +41,28 @@
       "time": "2026-06-22T13:19:32Z",
       "downloadUrl": "https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.2/Zygisk-Next-1.4.2-789-119aaa0-release.zip",
       "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "KernelSU-Next_KernelSU-Next",
+    "moduleName": "KernelSU-Next",
+    "authors": [
+      {
+        "name": "KernelSU-Next",
+        "link": "https://github.com/KernelSU-Next"
+      }
+    ],
+    "summary": "An advanced Kernel based root solution for Android",
+    "metamodule": false,
+    "stargazerCount": 3855,
+    "updatedAt": "2026-07-03T18:55:57Z",
+    "createdAt": "2025-01-11T08:30:02Z",
+    "latestRelease": {
+      "name": "v3.3.0",
+      "version": "v3.3.0",
+      "time": "2026-07-03T14:09:49Z",
+      "downloadUrl": "https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v3.3.0/KernelSU_Next_v3.3.0-spoofed_33214-release.apk",
+      "versionCode": 10
     }
   },
   {
@@ -76,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3241,
-    "updatedAt": "2026-07-03T11:22:39Z",
+    "stargazerCount": 3242,
+    "updatedAt": "2026-07-03T19:30:05Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -164,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2370,
-    "updatedAt": "2026-07-03T09:10:21Z",
+    "stargazerCount": 2372,
+    "updatedAt": "2026-07-03T19:24:51Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V37",
@@ -186,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2067,
-    "updatedAt": "2026-07-02T12:44:51Z",
+    "stargazerCount": 2068,
+    "updatedAt": "2026-07-03T18:42:25Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -208,8 +230,8 @@
     ],
     "summary": "支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/kernelsu/APatch",
     "metamodule": false,
-    "stargazerCount": 1896,
-    "updatedAt": "2026-07-03T12:29:05Z",
+    "stargazerCount": 1897,
+    "updatedAt": "2026-07-03T15:36:31Z",
     "createdAt": "2022-10-09T18:07:36Z",
     "latestRelease": {
       "name": "v1.5.8",
@@ -230,8 +252,8 @@
     ],
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
-    "stargazerCount": 1860,
-    "updatedAt": "2026-07-03T02:56:54Z",
+    "stargazerCount": 1861,
+    "updatedAt": "2026-07-03T15:36:32Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -252,8 +274,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1436,
-    "updatedAt": "2026-07-03T08:45:47Z",
+    "stargazerCount": 1437,
+    "updatedAt": "2026-07-03T18:57:19Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -296,8 +318,8 @@
     ],
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
-    "stargazerCount": 1320,
-    "updatedAt": "2026-07-03T04:43:36Z",
+    "stargazerCount": 1321,
+    "updatedAt": "2026-07-03T18:42:49Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -362,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1161,
-    "updatedAt": "2026-07-03T06:15:59Z",
+    "stargazerCount": 1162,
+    "updatedAt": "2026-07-03T18:42:19Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -428,8 +450,8 @@
     ],
     "summary": "OnePlus Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 610,
-    "updatedAt": "2026-07-03T09:38:32Z",
+    "stargazerCount": 611,
+    "updatedAt": "2026-07-03T19:08:57Z",
     "createdAt": "2024-12-07T23:27:22Z",
     "latestRelease": {
       "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
@@ -538,8 +560,8 @@
     ],
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
-    "stargazerCount": 439,
-    "updatedAt": "2026-07-03T10:54:36Z",
+    "stargazerCount": 441,
+    "updatedAt": "2026-07-03T17:48:03Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -560,8 +582,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 429,
-    "updatedAt": "2026-07-03T05:18:51Z",
+    "stargazerCount": 431,
+    "updatedAt": "2026-07-03T19:28:28Z",
     "createdAt": "2025-12-30T05:59:35Z",
     "latestRelease": {
       "name": "Release v0.0.1",
@@ -582,8 +604,8 @@
     ],
     "summary": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
     "metamodule": false,
-    "stargazerCount": 424,
-    "updatedAt": "2026-07-01T09:30:56Z",
+    "stargazerCount": 425,
+    "updatedAt": "2026-07-03T19:28:32Z",
     "createdAt": "2023-05-08T16:17:59Z",
     "latestRelease": {
       "name": "v5.0.0",
@@ -604,8 +626,8 @@
     ],
     "summary": "OverlayFS MetaModule",
     "metamodule": false,
-    "stargazerCount": 414,
-    "updatedAt": "2026-07-03T09:06:01Z",
+    "stargazerCount": 416,
+    "updatedAt": "2026-07-03T16:12:15Z",
     "createdAt": "2025-11-21T04:35:16Z",
     "latestRelease": {
       "name": "v1.3.1",
@@ -635,6 +657,28 @@
       "time": "2024-07-05T15:43:20Z",
       "downloadUrl": "https://github.com/changhuapeng/FrameworkPatcherGO/releases/download/v1.2.2/FrameworkPatcherGO-v1.2.2.zip",
       "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "AlirezaParsi_COPG",
+    "moduleName": "COPG",
+    "authors": [
+      {
+        "name": "AlirezaParsi",
+        "link": "https://github.com/AlirezaParsi"
+      }
+    ],
+    "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
+    "metamodule": false,
+    "stargazerCount": 321,
+    "updatedAt": "2026-07-03T18:04:23Z",
+    "createdAt": "2025-03-17T16:23:07Z",
+    "latestRelease": {
+      "name": "COPG v5.5.1",
+      "version": "v5.5.1",
+      "time": "2026-07-03T13:58:45Z",
+      "downloadUrl": "https://github.com/AlirezaParsi/COPG/releases/download/v5.5.1/COPG-v5.5.1.zip",
+      "versionCode": 1
     }
   },
   {
@@ -692,8 +736,8 @@
     ],
     "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
     "metamodule": false,
-    "stargazerCount": 282,
-    "updatedAt": "2026-07-02T04:56:55Z",
+    "stargazerCount": 283,
+    "updatedAt": "2026-07-03T15:35:53Z",
     "createdAt": "2025-12-20T02:37:31Z",
     "latestRelease": {
       "name": "BRENE v0.0.53",
@@ -869,13 +913,13 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 157,
-    "updatedAt": "2026-07-03T08:19:33Z",
+    "updatedAt": "2026-07-03T17:40:12Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 449",
-      "version": "449",
-      "time": "2026-07-03T08:20:30Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/449/reddit-morphe-exp-module-v2026.26.0-arm-v7a.zip",
+      "name": "Build No. 450",
+      "version": "450",
+      "time": "2026-07-03T14:45:50Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/450/adguard-morphe-nightly-module-v4.14.68-arm-v7a.zip",
       "versionCode": 7
     }
   },
@@ -912,8 +956,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 130,
-    "updatedAt": "2026-06-28T04:23:50Z",
+    "stargazerCount": 131,
+    "updatedAt": "2026-07-03T15:56:16Z",
     "createdAt": "2025-12-29T23:02:41Z",
     "latestRelease": {
       "name": "0.13.5-2",
@@ -1782,28 +1826,6 @@
     }
   },
   {
-    "moduleId": "hxreborn_revanced-magisk-module",
-    "moduleName": "revanced-magisk-module",
-    "authors": [
-      {
-        "name": "hxreborn",
-        "link": "https://github.com/hxreborn"
-      }
-    ],
-    "summary": "ReVanced builder.",
-    "metamodule": false,
-    "stargazerCount": 9,
-    "updatedAt": "2026-06-22T10:44:17Z",
-    "createdAt": "2024-08-31T09:54:04Z",
-    "latestRelease": {
-      "name": "YouTube ReVanced Zygisk",
-      "version": "33",
-      "time": "2026-07-03T11:36:28Z",
-      "downloadUrl": "https://github.com/hxreborn/revanced-magisk-module/releases/download/33/youtube-revanced-zygisk-module-v20.51.39-arm64-v8a.zip",
-      "versionCode": 8
-    }
-  },
-  {
     "moduleId": "arvinjangid_LSPosed-Detector",
     "moduleName": "LSPosed-Detector",
     "authors": [
@@ -1922,17 +1944,17 @@
         "link": "https://github.com/nikitos4683"
       }
     ],
-    "summary": "Android DPI-bypass module for Magisk and KernelSU powered by nfqws2, iptables, CLI and WebUI.",
+    "summary": "Android DPI-bypass module for Magisk and KernelSU powered by nfqws2, nztg, iptables, CLI and WebUI.",
     "metamodule": false,
     "stargazerCount": 8,
-    "updatedAt": "2026-06-23T18:34:41Z",
+    "updatedAt": "2026-07-03T18:34:10Z",
     "createdAt": "2026-03-22T10:31:07Z",
     "latestRelease": {
-      "name": "nzapret v2.2.1",
-      "version": "v2.2.1",
-      "time": "2026-06-23T10:47:19Z",
-      "downloadUrl": "https://github.com/nikitos4683/nzapret/releases/download/v2.2.1/nzapret-v2.2.1.zip",
-      "versionCode": 1
+      "name": "nzapret v3.0.0",
+      "version": "v3.0.0",
+      "time": "2026-07-03T18:27:03Z",
+      "downloadUrl": "https://github.com/nikitos4683/nzapret/releases/download/v3.0.0/nzapret-v3.0.0.zip",
+      "versionCode": 0
     }
   },
   {
