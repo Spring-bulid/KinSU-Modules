@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17076,
-    "updatedAt": "2026-07-04T03:43:32Z",
+    "stargazerCount": 17077,
+    "updatedAt": "2026-07-04T05:35:09Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9850,
-    "updatedAt": "2026-07-04T00:18:43Z",
+    "stargazerCount": 9855,
+    "updatedAt": "2026-07-04T07:09:09Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3860,
-    "updatedAt": "2026-07-04T02:49:21Z",
+    "stargazerCount": 3861,
+    "updatedAt": "2026-07-04T06:53:58Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -164,8 +164,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2410,
-    "updatedAt": "2026-07-03T22:02:53Z",
+    "stargazerCount": 2411,
+    "updatedAt": "2026-07-04T08:07:19Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2373,
-    "updatedAt": "2026-07-04T03:48:46Z",
+    "stargazerCount": 2375,
+    "updatedAt": "2026-07-04T05:59:43Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V37",
@@ -230,8 +230,8 @@
     ],
     "summary": "支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/kernelsu/APatch",
     "metamodule": false,
-    "stargazerCount": 1897,
-    "updatedAt": "2026-07-03T15:36:31Z",
+    "stargazerCount": 1898,
+    "updatedAt": "2026-07-04T06:10:43Z",
     "createdAt": "2022-10-09T18:07:36Z",
     "latestRelease": {
       "name": "v1.5.8",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1375,
-    "updatedAt": "2026-07-03T20:40:57Z",
+    "stargazerCount": 1378,
+    "updatedAt": "2026-07-04T08:28:00Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.3.0",
@@ -560,8 +560,8 @@
     ],
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
-    "stargazerCount": 441,
-    "updatedAt": "2026-07-03T17:48:03Z",
+    "stargazerCount": 442,
+    "updatedAt": "2026-07-04T08:31:44Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -736,8 +736,8 @@
     ],
     "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
     "metamodule": false,
-    "stargazerCount": 284,
-    "updatedAt": "2026-07-04T00:47:29Z",
+    "stargazerCount": 285,
+    "updatedAt": "2026-07-04T06:23:05Z",
     "createdAt": "2025-12-20T02:37:31Z",
     "latestRelease": {
       "name": "BRENE v0.0.53",
@@ -913,13 +913,13 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 157,
-    "updatedAt": "2026-07-03T21:45:30Z",
+    "updatedAt": "2026-07-04T04:23:34Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 450",
-      "version": "450",
-      "time": "2026-07-03T14:45:50Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/450/adguard-morphe-nightly-module-v4.14.68-arm-v7a.zip",
+      "name": "Build No. 452",
+      "version": "452",
+      "time": "2026-07-04T04:24:04Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/452/adguard-morphe-nightly-module-v4.14.68-arm-v7a.zip",
       "versionCode": 7
     }
   },
@@ -1577,10 +1577,10 @@
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
       "name": "Build 537004c5b5c34b69bcebcee40eae67f25102e714",
-      "version": "build-183-537004c5b5c34b69bcebcee40eae67f25102e714",
-      "time": "2026-07-03T05:32:00Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-183-537004c5b5c34b69bcebcee40eae67f25102e714/Kono-Ha-1.1-root-KernelSU-balance-20260702-204847.zip",
-      "versionCode": 204847
+      "version": "build-184-537004c5b5c34b69bcebcee40eae67f25102e714",
+      "time": "2026-07-04T05:12:00Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-184-537004c5b5c34b69bcebcee40eae67f25102e714/Kono-Ha-1.1-root-KernelSU-balance-20260703-191922.zip",
+      "versionCode": 191922
     }
   },
   {
