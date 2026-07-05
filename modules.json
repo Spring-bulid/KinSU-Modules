@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17095,
-    "updatedAt": "2026-07-05T07:04:34Z",
+    "stargazerCount": 17097,
+    "updatedAt": "2026-07-05T10:36:42Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -33,7 +33,7 @@
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
     "stargazerCount": 9863,
-    "updatedAt": "2026-07-05T08:11:25Z",
+    "updatedAt": "2026-07-05T13:35:51Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3864,
-    "updatedAt": "2026-07-05T08:16:25Z",
+    "stargazerCount": 3863,
+    "updatedAt": "2026-07-05T10:49:10Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3696,
-    "updatedAt": "2026-07-05T08:11:34Z",
+    "stargazerCount": 3697,
+    "updatedAt": "2026-07-05T10:14:25Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3246,
-    "updatedAt": "2026-07-04T23:11:22Z",
+    "stargazerCount": 3245,
+    "updatedAt": "2026-07-05T09:18:38Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -164,8 +164,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2414,
-    "updatedAt": "2026-07-04T18:26:40Z",
+    "stargazerCount": 2415,
+    "updatedAt": "2026-07-05T10:45:23Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1383,
-    "updatedAt": "2026-07-05T07:18:12Z",
+    "stargazerCount": 1384,
+    "updatedAt": "2026-07-05T13:53:26Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.0",
@@ -362,8 +362,8 @@
     ],
     "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
     "metamodule": false,
-    "stargazerCount": 1257,
-    "updatedAt": "2026-07-05T08:03:01Z",
+    "stargazerCount": 1258,
+    "updatedAt": "2026-07-05T12:04:38Z",
     "createdAt": "2025-04-04T02:54:54Z",
     "latestRelease": {
       "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1163,
-    "updatedAt": "2026-07-05T06:53:06Z",
+    "stargazerCount": 1164,
+    "updatedAt": "2026-07-05T13:32:11Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -406,8 +406,8 @@
     ],
     "summary": "A modules manager for Magisk, KernelSU and APatch",
     "metamodule": false,
-    "stargazerCount": 1118,
-    "updatedAt": "2026-07-03T12:29:05Z",
+    "stargazerCount": 1119,
+    "updatedAt": "2026-07-05T13:29:11Z",
     "createdAt": "2022-10-14T10:39:04Z",
     "latestRelease": {
       "name": "v2.5.0",
@@ -473,7 +473,7 @@
     "summary": "WebUI X from MMRL but portable!",
     "metamodule": false,
     "stargazerCount": 589,
-    "updatedAt": "2026-07-04T11:36:04Z",
+    "updatedAt": "2026-07-05T11:34:22Z",
     "createdAt": "2025-04-20T22:16:38Z",
     "latestRelease": {
       "name": "v438",
@@ -538,8 +538,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 472,
-    "updatedAt": "2026-07-05T02:46:37Z",
+    "stargazerCount": 473,
+    "updatedAt": "2026-07-05T10:04:52Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -560,14 +560,14 @@
     ],
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
-    "stargazerCount": 447,
-    "updatedAt": "2026-07-05T07:11:59Z",
+    "stargazerCount": 449,
+    "updatedAt": "2026-07-05T12:22:33Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
-      "name": "v1.1.0",
-      "version": "v1.1.0",
-      "time": "2026-07-04T20:40:14Z",
-      "downloadUrl": "https://github.com/okhsunrog/vpnhide/releases/download/v1.1.0/vpnhide-kmod-android12-5.10.zip",
+      "name": "v1.1.1",
+      "version": "v1.1.1",
+      "time": "2026-07-05T12:22:00Z",
+      "downloadUrl": "https://github.com/okhsunrog/vpnhide/releases/download/v1.1.1/vpnhide-kmod-android12-5.10.zip",
       "versionCode": 10
     }
   },
@@ -582,8 +582,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 430,
-    "updatedAt": "2026-07-03T21:32:31Z",
+    "stargazerCount": 431,
+    "updatedAt": "2026-07-05T09:49:34Z",
     "createdAt": "2025-12-30T05:59:35Z",
     "latestRelease": {
       "name": "Release v0.0.1",
@@ -626,8 +626,8 @@
     ],
     "summary": "OverlayFS MetaModule",
     "metamodule": false,
-    "stargazerCount": 417,
-    "updatedAt": "2026-07-03T21:35:46Z",
+    "stargazerCount": 418,
+    "updatedAt": "2026-07-05T13:24:34Z",
     "createdAt": "2025-11-21T04:35:16Z",
     "latestRelease": {
       "name": "v1.3.1",
@@ -671,13 +671,13 @@
     "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
     "metamodule": false,
     "stargazerCount": 322,
-    "updatedAt": "2026-07-04T16:03:51Z",
+    "updatedAt": "2026-07-05T13:52:11Z",
     "createdAt": "2025-03-17T16:23:07Z",
     "latestRelease": {
-      "name": "COPG v5.5.1",
-      "version": "v5.5.1",
-      "time": "2026-07-03T13:58:45Z",
-      "downloadUrl": "https://github.com/AlirezaParsi/COPG/releases/download/v5.5.1/COPG-v5.5.1.zip",
+      "name": "COPG v5.6.1",
+      "version": "v5.6.1",
+      "time": "2026-07-05T13:52:06Z",
+      "downloadUrl": "https://github.com/AlirezaParsi/COPG/releases/download/v5.6.1/COPG-v5.6.1.zip",
       "versionCode": 1
     }
   },
@@ -913,13 +913,13 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 157,
-    "updatedAt": "2026-07-05T09:15:36Z",
+    "updatedAt": "2026-07-05T13:43:34Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260001",
-      "version": "260001",
-      "time": "2026-07-05T08:57:23Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260001/inshot-morphe-v2.214.1539-arm-v7a.apk",
+      "name": "Build No. 260003",
+      "version": "260003",
+      "time": "2026-07-05T12:20:56Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260003/adobe-acrobat-morphe-v26.5.0.45958-arm-v7a.apk",
       "versionCode": 7
     }
   },
@@ -956,8 +956,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 131,
-    "updatedAt": "2026-07-03T15:56:16Z",
+    "stargazerCount": 132,
+    "updatedAt": "2026-07-05T09:49:45Z",
     "createdAt": "2025-12-29T23:02:41Z",
     "latestRelease": {
       "name": "0.13.5-2",
@@ -1356,10 +1356,10 @@
     "updatedAt": "2026-07-01T07:03:02Z",
     "createdAt": "2026-02-23T20:20:57Z",
     "latestRelease": {
-      "name": "GKID v26.06.30-r415",
-      "version": "v26.06.30-r415",
-      "time": "2026-06-29T22:27:10Z",
-      "downloadUrl": "https://github.com/ahmed-alnassif/GKI-Duchamp/releases/download/v26.06.30-r415/GKID-v26.06.30-r415-6.1.174-Compat%2BKernelSU%2BSuSFS%2BMultiple-Managers.zip",
+      "name": "GKID v26.07.05-r417",
+      "version": "v26.07.05-r417",
+      "time": "2026-07-05T09:51:56Z",
+      "downloadUrl": "https://github.com/ahmed-alnassif/GKI-Duchamp/releases/download/v26.07.05-r417/GKID-v26.07.05-r417-6.1.174-Compat%2BKernelSU%2BSuSFS%2BMultiple-Managers.zip",
       "versionCode": 5
     }
   },
@@ -1606,6 +1606,28 @@
     }
   },
   {
+    "moduleId": "CHERWING_CHERWIN_FRPC",
+    "moduleName": "CHERWIN_FRPC",
+    "authors": [
+      {
+        "name": "CHERWING",
+        "link": "https://github.com/CHERWING"
+      }
+    ],
+    "summary": "⚡ High-Performance FRP Reverse Proxy Client (KernelSU / Magisk Edition). Built-in WebUI for status monitoring, hot reload, and docs. | 高性能内网穿透客户端模块，内置独立可视化 Web 面板。",
+    "metamodule": false,
+    "stargazerCount": 15,
+    "updatedAt": "2026-07-05T10:04:51Z",
+    "createdAt": "2026-06-13T04:50:00Z",
+    "latestRelease": {
+      "name": "CHERWIN FRPC v1.2.2",
+      "version": "v1.2.2",
+      "time": "2026-06-18T04:06:10Z",
+      "downloadUrl": "https://github.com/CHERWING/CHERWIN_FRPC/releases/download/v1.2.2/CHERWIN_FRPC_magisk_module.zip",
+      "versionCode": 2
+    }
+  },
+  {
     "moduleId": "ling9ling7_RedMagic-FanExtreme",
     "moduleName": "RedMagic-FanExtreme",
     "authors": [
@@ -1646,28 +1668,6 @@
       "version": "V2_20.09.2025",
       "time": "2025-09-19T22:39:50Z",
       "downloadUrl": "https://github.com/mango0oo/G-News-Control/releases/download/V2_20.09.2025/G-News.Control.V2.zip",
-      "versionCode": 2
-    }
-  },
-  {
-    "moduleId": "CHERWING_CHERWIN_FRPC",
-    "moduleName": "CHERWIN_FRPC",
-    "authors": [
-      {
-        "name": "CHERWING",
-        "link": "https://github.com/CHERWING"
-      }
-    ],
-    "summary": "⚡ High-Performance FRP Reverse Proxy Client (KernelSU / Magisk Edition). Built-in WebUI for status monitoring, hot reload, and docs. | 高性能内网穿透客户端模块，内置独立可视化 Web 面板。",
-    "metamodule": false,
-    "stargazerCount": 14,
-    "updatedAt": "2026-06-24T13:59:20Z",
-    "createdAt": "2026-06-13T04:50:00Z",
-    "latestRelease": {
-      "name": "CHERWIN FRPC v1.2.2",
-      "version": "v1.2.2",
-      "time": "2026-06-18T04:06:10Z",
-      "downloadUrl": "https://github.com/CHERWING/CHERWIN_FRPC/releases/download/v1.2.2/CHERWIN_FRPC_magisk_module.zip",
       "versionCode": 2
     }
   },
