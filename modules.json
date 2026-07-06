@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17114,
-    "updatedAt": "2026-07-06T14:16:14Z",
+    "stargazerCount": 17115,
+    "updatedAt": "2026-07-06T16:08:23Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9875,
-    "updatedAt": "2026-07-06T14:20:57Z",
+    "stargazerCount": 9877,
+    "updatedAt": "2026-07-06T19:38:43Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3869,
-    "updatedAt": "2026-07-06T15:03:43Z",
+    "stargazerCount": 3870,
+    "updatedAt": "2026-07-06T17:44:04Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3250,
-    "updatedAt": "2026-07-06T09:37:43Z",
+    "stargazerCount": 3252,
+    "updatedAt": "2026-07-06T20:01:06Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -142,8 +142,8 @@
     ],
     "summary": "A Magisk/KernelSU module that automatically adds user certificates to the system root CA store",
     "metamodule": false,
-    "stargazerCount": 2503,
-    "updatedAt": "2026-07-05T21:40:00Z",
+    "stargazerCount": 2504,
+    "updatedAt": "2026-07-06T19:15:34Z",
     "createdAt": "2017-12-15T15:22:28Z",
     "latestRelease": {
       "name": "v1.3",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2383,
-    "updatedAt": "2026-07-06T11:24:56Z",
+    "stargazerCount": 2384,
+    "updatedAt": "2026-07-06T18:00:44Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V37",
@@ -274,8 +274,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1444,
-    "updatedAt": "2026-07-06T08:32:26Z",
+    "stargazerCount": 1445,
+    "updatedAt": "2026-07-06T19:13:10Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -318,8 +318,8 @@
     ],
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
-    "stargazerCount": 1324,
-    "updatedAt": "2026-07-06T13:11:44Z",
+    "stargazerCount": 1325,
+    "updatedAt": "2026-07-06T18:54:21Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1166,
-    "updatedAt": "2026-07-06T08:31:14Z",
+    "stargazerCount": 1168,
+    "updatedAt": "2026-07-06T19:17:27Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -450,8 +450,8 @@
     ],
     "summary": "OnePlus Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 614,
-    "updatedAt": "2026-07-05T21:56:08Z",
+    "stargazerCount": 616,
+    "updatedAt": "2026-07-06T16:49:24Z",
     "createdAt": "2024-12-07T23:27:22Z",
     "latestRelease": {
       "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
@@ -670,8 +670,8 @@
     ],
     "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
     "metamodule": false,
-    "stargazerCount": 324,
-    "updatedAt": "2026-07-06T11:15:51Z",
+    "stargazerCount": 325,
+    "updatedAt": "2026-07-06T18:47:28Z",
     "createdAt": "2025-03-17T16:23:07Z",
     "latestRelease": {
       "name": "COPG v5.6.1",
@@ -913,13 +913,13 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 159,
-    "updatedAt": "2026-07-06T14:38:15Z",
+    "updatedAt": "2026-07-06T19:02:29Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260013",
-      "version": "260013",
-      "time": "2026-07-06T14:38:49Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260013/google-photos-morphe-module-v7.82.0.937646388-arm-v7a.zip",
+      "name": "Build No. 260014",
+      "version": "260014",
+      "time": "2026-07-06T19:03:15Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260014/adguard-morphe-module-v4.12.81-arm-v7a.zip",
       "versionCode": 7
     }
   },
@@ -1386,6 +1386,28 @@
     }
   },
   {
+    "moduleId": "WildKernels_Samsung_KernelSU_SUSFS",
+    "moduleName": "Samsung_KernelSU_SUSFS",
+    "authors": [
+      {
+        "name": "WildKernels",
+        "link": "https://github.com/WildKernels"
+      }
+    ],
+    "summary": "Samsung Kernels with KernelSU & SUSFS",
+    "metamodule": false,
+    "stargazerCount": 31,
+    "updatedAt": "2026-07-06T19:51:49Z",
+    "createdAt": "2025-08-09T06:08:05Z",
+    "latestRelease": {
+      "name": "Samsung GKI Kernels With KSUN v3.2.0 & SUSFS v2.2.0",
+      "version": "2.2.0-r2",
+      "time": "2026-06-30T13:39:18Z",
+      "downloadUrl": "https://github.com/WildKernels/Samsung_KernelSU_SUSFS/releases/download/2.2.0-r2/KSUN33206-SM-A055F-Oneui7-6.6-android15-AnyKernel3.zip",
+      "versionCode": 3
+    }
+  },
+  {
     "moduleId": "Enginex0_Scalpel",
     "moduleName": "Scalpel",
     "authors": [
@@ -1405,28 +1427,6 @@
       "time": "2026-03-23T03:27:19Z",
       "downloadUrl": "https://github.com/Enginex0/Scalpel/releases/download/v0.1.27/scalpel-v0.1.27-debug.zip",
       "versionCode": 27
-    }
-  },
-  {
-    "moduleId": "WildKernels_Samsung_KernelSU_SUSFS",
-    "moduleName": "Samsung_KernelSU_SUSFS",
-    "authors": [
-      {
-        "name": "WildKernels",
-        "link": "https://github.com/WildKernels"
-      }
-    ],
-    "summary": "Samsung Kernels with KernelSU & SUSFS",
-    "metamodule": false,
-    "stargazerCount": 30,
-    "updatedAt": "2026-07-05T16:44:48Z",
-    "createdAt": "2025-08-09T06:08:05Z",
-    "latestRelease": {
-      "name": "Samsung GKI Kernels With KSUN v3.2.0 & SUSFS v2.2.0",
-      "version": "2.2.0-r2",
-      "time": "2026-06-30T13:39:18Z",
-      "downloadUrl": "https://github.com/WildKernels/Samsung_KernelSU_SUSFS/releases/download/2.2.0-r2/KSUN33206-SM-A055F-Oneui7-6.6-android15-AnyKernel3.zip",
-      "versionCode": 3
     }
   },
   {
