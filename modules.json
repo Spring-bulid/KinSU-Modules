@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17129,
-    "updatedAt": "2026-07-07T14:05:23Z",
+    "stargazerCount": 17132,
+    "updatedAt": "2026-07-07T19:08:09Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9883,
-    "updatedAt": "2026-07-07T08:49:23Z",
+    "stargazerCount": 9886,
+    "updatedAt": "2026-07-07T17:36:39Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3879,
-    "updatedAt": "2026-07-07T11:56:22Z",
+    "stargazerCount": 3881,
+    "updatedAt": "2026-07-07T17:56:32Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3253,
-    "updatedAt": "2026-07-07T10:13:41Z",
+    "stargazerCount": 3255,
+    "updatedAt": "2026-07-07T18:30:43Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -142,8 +142,8 @@
     ],
     "summary": "A Magisk/KernelSU module that automatically adds user certificates to the system root CA store",
     "metamodule": false,
-    "stargazerCount": 2505,
-    "updatedAt": "2026-07-07T03:22:47Z",
+    "stargazerCount": 2506,
+    "updatedAt": "2026-07-07T19:08:28Z",
     "createdAt": "2017-12-15T15:22:28Z",
     "latestRelease": {
       "name": "v1.3",
@@ -164,8 +164,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2415,
-    "updatedAt": "2026-07-07T11:40:04Z",
+    "stargazerCount": 2414,
+    "updatedAt": "2026-07-07T18:14:30Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -186,14 +186,14 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2387,
-    "updatedAt": "2026-07-07T14:15:33Z",
+    "stargazerCount": 2390,
+    "updatedAt": "2026-07-07T17:44:41Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
-      "name": "V37",
-      "version": "v37",
-      "time": "2026-06-20T20:21:59Z",
-      "downloadUrl": "https://github.com/MeowDump/Integrity-Box/releases/download/v37/v37-Integrity-Box-21-06-2026.zip",
+      "name": "V38",
+      "version": "v38",
+      "time": "2026-07-07T17:42:15Z",
+      "downloadUrl": "https://github.com/MeowDump/Integrity-Box/releases/download/v38/v38-Integrity-Box-07-07-2026.zip",
       "versionCode": 2026
     }
   },
@@ -252,8 +252,8 @@
     ],
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
-    "stargazerCount": 1863,
-    "updatedAt": "2026-07-07T14:40:52Z",
+    "stargazerCount": 1864,
+    "updatedAt": "2026-07-07T15:34:43Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -274,8 +274,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1445,
-    "updatedAt": "2026-07-07T08:16:34Z",
+    "stargazerCount": 1447,
+    "updatedAt": "2026-07-07T18:53:12Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1397,
-    "updatedAt": "2026-07-07T13:09:11Z",
+    "stargazerCount": 1398,
+    "updatedAt": "2026-07-07T20:06:04Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.0",
@@ -318,8 +318,8 @@
     ],
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
-    "stargazerCount": 1326,
-    "updatedAt": "2026-07-07T14:23:54Z",
+    "stargazerCount": 1325,
+    "updatedAt": "2026-07-07T18:14:25Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -472,8 +472,8 @@
     ],
     "summary": "WebUI X from MMRL but portable!",
     "metamodule": false,
-    "stargazerCount": 590,
-    "updatedAt": "2026-07-06T10:40:26Z",
+    "stargazerCount": 591,
+    "updatedAt": "2026-07-07T19:28:18Z",
     "createdAt": "2025-04-20T22:16:38Z",
     "latestRelease": {
       "name": "v438",
@@ -626,8 +626,8 @@
     ],
     "summary": "OverlayFS MetaModule",
     "metamodule": false,
-    "stargazerCount": 419,
-    "updatedAt": "2026-07-07T11:06:44Z",
+    "stargazerCount": 420,
+    "updatedAt": "2026-07-07T15:50:58Z",
     "createdAt": "2025-11-21T04:35:16Z",
     "latestRelease": {
       "name": "v1.3.1",
@@ -671,13 +671,13 @@
     "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
     "metamodule": false,
     "stargazerCount": 326,
-    "updatedAt": "2026-07-07T05:39:10Z",
+    "updatedAt": "2026-07-07T19:54:35Z",
     "createdAt": "2025-03-17T16:23:07Z",
     "latestRelease": {
-      "name": "COPG v5.6.1",
-      "version": "v5.6.1",
-      "time": "2026-07-05T13:52:06Z",
-      "downloadUrl": "https://github.com/AlirezaParsi/COPG/releases/download/v5.6.1/COPG-v5.6.1.zip",
+      "name": "COPG v5.7.1",
+      "version": "v5.7.1",
+      "time": "2026-07-07T19:54:23Z",
+      "downloadUrl": "https://github.com/AlirezaParsi/COPG/releases/download/v5.7.1/COPG-v5.7.1.zip",
       "versionCode": 1
     }
   },
@@ -758,8 +758,8 @@
     ],
     "summary": "Build the (Re)SukiSU kernel for OnePlus/Realme",
     "metamodule": false,
-    "stargazerCount": 283,
-    "updatedAt": "2026-07-07T02:57:54Z",
+    "stargazerCount": 280,
+    "updatedAt": "2026-07-07T16:56:38Z",
     "createdAt": "2025-05-24T13:43:26Z",
     "latestRelease": {
       "name": "SM8750 oneplus_ace5_pro Kernel Build - 2026-06-13 17:48:35",
@@ -781,7 +781,7 @@
     "summary": "A KernelSU module to debloat system apps with WebUI Interface",
     "metamodule": false,
     "stargazerCount": 238,
-    "updatedAt": "2026-07-07T14:20:06Z",
+    "updatedAt": "2026-07-07T19:31:00Z",
     "createdAt": "2025-03-07T08:51:25Z",
     "latestRelease": {
       "name": "v2.0.0",
@@ -824,8 +824,8 @@
     ],
     "summary": "A Magisk/KernelSU/APatch module to unlock high-end features on all Xiaomi devices.",
     "metamodule": false,
-    "stargazerCount": 197,
-    "updatedAt": "2026-07-07T09:42:01Z",
+    "stargazerCount": 198,
+    "updatedAt": "2026-07-07T15:51:19Z",
     "createdAt": "2025-02-17T06:51:18Z",
     "latestRelease": {
       "name": "Release v2.2.2",
@@ -913,14 +913,36 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 158,
-    "updatedAt": "2026-07-07T11:35:31Z",
+    "updatedAt": "2026-07-07T18:59:12Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260015",
-      "version": "260015",
-      "time": "2026-07-06T22:04:33Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260015/adguard-morphe-nightly-module-v4.14.68-arm-v7a.zip",
+      "name": "Build No. 260017",
+      "version": "260017",
+      "time": "2026-07-07T18:59:43Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260017/macrodroid-morphe-module-v5.62.11-arm-v7a.zip",
       "versionCode": 7
+    }
+  },
+  {
+    "moduleId": "fatalcoder524_TCP_Optimiser_Module",
+    "moduleName": "TCP_Optimiser_Module",
+    "authors": [
+      {
+        "name": "fatalcoder524",
+        "link": "https://github.com/fatalcoder524"
+      }
+    ],
+    "summary": "A Magisk/KernelSU module to change tcp congestion algorithm based on current active internet type and some network enhancements.",
+    "metamodule": false,
+    "stargazerCount": 134,
+    "updatedAt": "2026-07-07T19:40:52Z",
+    "createdAt": "2025-05-09T17:07:07Z",
+    "latestRelease": {
+      "name": "2.5",
+      "version": "v2.5",
+      "time": "2026-07-01T06:22:38Z",
+      "downloadUrl": "https://github.com/fatalcoder524/TCP_Optimiser_Module/releases/download/v2.5/TCP_Optimiser-2.5-17.zip",
+      "versionCode": 17
     }
   },
   {
@@ -943,28 +965,6 @@
       "time": "2026-01-20T16:00:31Z",
       "downloadUrl": "https://github.com/KernelSU-Next/KPatch-Next/releases/download/0.13.5-2/kpuser.zip",
       "versionCode": 2
-    }
-  },
-  {
-    "moduleId": "fatalcoder524_TCP_Optimiser_Module",
-    "moduleName": "TCP_Optimiser_Module",
-    "authors": [
-      {
-        "name": "fatalcoder524",
-        "link": "https://github.com/fatalcoder524"
-      }
-    ],
-    "summary": "A Magisk/KernelSU module to change tcp congestion algorithm based on current active internet type and some network enhancements.",
-    "metamodule": false,
-    "stargazerCount": 133,
-    "updatedAt": "2026-07-03T03:32:28Z",
-    "createdAt": "2025-05-09T17:07:07Z",
-    "latestRelease": {
-      "name": "2.5",
-      "version": "v2.5",
-      "time": "2026-07-01T06:22:38Z",
-      "downloadUrl": "https://github.com/fatalcoder524/TCP_Optimiser_Module/releases/download/v2.5/TCP_Optimiser-2.5-17.zip",
-      "versionCode": 17
     }
   },
   {
@@ -1132,8 +1132,8 @@
     ],
     "summary": "MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules",
     "metamodule": false,
-    "stargazerCount": 87,
-    "updatedAt": "2026-07-07T10:23:33Z",
+    "stargazerCount": 88,
+    "updatedAt": "2026-07-07T19:28:16Z",
     "createdAt": "2023-10-16T07:38:00Z",
     "latestRelease": {
       "name": "v0.3.11",
@@ -1154,8 +1154,8 @@
     ],
     "summary": "OnePlus 11 EmberHeart kernel with Nethunter, KernelSU-Next and SuSFS",
     "metamodule": false,
-    "stargazerCount": 83,
-    "updatedAt": "2026-07-06T15:29:21Z",
+    "stargazerCount": 84,
+    "updatedAt": "2026-07-07T18:16:44Z",
     "createdAt": "2025-10-01T04:15:12Z",
     "latestRelease": {
       "name": "OnePlus OP11 EmberHeart Kernel With KernelSU Next v3.3.0 & Nethunter-OOS16",
@@ -1947,13 +1947,13 @@
     "summary": "Android DPI-bypass module for Magisk and KernelSU powered by nfqws2, nztg, iptables, CLI and WebUI.",
     "metamodule": false,
     "stargazerCount": 8,
-    "updatedAt": "2026-07-07T14:01:39Z",
+    "updatedAt": "2026-07-07T19:45:26Z",
     "createdAt": "2026-03-22T10:31:07Z",
     "latestRelease": {
-      "name": "nzapret v3.0.0",
-      "version": "v3.0.0",
-      "time": "2026-07-03T18:27:03Z",
-      "downloadUrl": "https://github.com/nikitos4683/nzapret/releases/download/v3.0.0/nzapret-v3.0.0.zip",
+      "name": "nzapret v3.1.0",
+      "version": "v3.1.0",
+      "time": "2026-07-07T19:24:53Z",
+      "downloadUrl": "https://github.com/nikitos4683/nzapret/releases/download/v3.1.0/nzapret-v3.1.0.zip",
       "versionCode": 0
     }
   },
