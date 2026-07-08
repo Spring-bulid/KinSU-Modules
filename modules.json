@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17138,
-    "updatedAt": "2026-07-08T08:36:00Z",
+    "stargazerCount": 17144,
+    "updatedAt": "2026-07-08T11:58:39Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9888,
-    "updatedAt": "2026-07-08T06:19:45Z",
+    "stargazerCount": 9892,
+    "updatedAt": "2026-07-08T14:26:25Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3885,
-    "updatedAt": "2026-07-08T05:15:04Z",
+    "stargazerCount": 3887,
+    "updatedAt": "2026-07-08T12:40:43Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3703,
-    "updatedAt": "2026-07-08T05:42:31Z",
+    "stargazerCount": 3704,
+    "updatedAt": "2026-07-08T12:04:34Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -99,7 +99,7 @@
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
     "stargazerCount": 3257,
-    "updatedAt": "2026-07-08T07:59:32Z",
+    "updatedAt": "2026-07-08T12:11:03Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -165,7 +165,7 @@
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
     "stargazerCount": 2414,
-    "updatedAt": "2026-07-08T07:51:24Z",
+    "updatedAt": "2026-07-08T12:34:39Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2393,
-    "updatedAt": "2026-07-08T04:03:27Z",
+    "stargazerCount": 2394,
+    "updatedAt": "2026-07-08T11:10:42Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V38",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2073,
-    "updatedAt": "2026-07-08T06:17:13Z",
+    "stargazerCount": 2075,
+    "updatedAt": "2026-07-08T12:37:24Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -252,8 +252,8 @@
     ],
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
-    "stargazerCount": 1864,
-    "updatedAt": "2026-07-07T15:34:43Z",
+    "stargazerCount": 1865,
+    "updatedAt": "2026-07-08T08:45:34Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1400,
-    "updatedAt": "2026-07-08T06:12:21Z",
+    "stargazerCount": 1404,
+    "updatedAt": "2026-07-08T13:02:46Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.0",
@@ -340,8 +340,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1264,
-    "updatedAt": "2026-07-07T10:30:24Z",
+    "stargazerCount": 1263,
+    "updatedAt": "2026-07-08T14:30:04Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260526",
@@ -362,8 +362,8 @@
     ],
     "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
     "metamodule": false,
-    "stargazerCount": 1261,
-    "updatedAt": "2026-07-08T07:36:34Z",
+    "stargazerCount": 1262,
+    "updatedAt": "2026-07-08T13:54:48Z",
     "createdAt": "2025-04-04T02:54:54Z",
     "latestRelease": {
       "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1175,
-    "updatedAt": "2026-07-08T07:16:38Z",
+    "stargazerCount": 1174,
+    "updatedAt": "2026-07-08T12:49:20Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -450,8 +450,8 @@
     ],
     "summary": "OnePlus Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 617,
-    "updatedAt": "2026-07-07T12:37:29Z",
+    "stargazerCount": 619,
+    "updatedAt": "2026-07-08T12:44:27Z",
     "createdAt": "2024-12-07T23:27:22Z",
     "latestRelease": {
       "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
@@ -472,8 +472,8 @@
     ],
     "summary": "WebUI X from MMRL but portable!",
     "metamodule": false,
-    "stargazerCount": 591,
-    "updatedAt": "2026-07-07T19:28:18Z",
+    "stargazerCount": 593,
+    "updatedAt": "2026-07-08T12:47:50Z",
     "createdAt": "2025-04-20T22:16:38Z",
     "latestRelease": {
       "name": "v438",
@@ -560,8 +560,8 @@
     ],
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
-    "stargazerCount": 450,
-    "updatedAt": "2026-07-06T08:22:28Z",
+    "stargazerCount": 452,
+    "updatedAt": "2026-07-08T13:54:58Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v1.1.1",
@@ -626,8 +626,8 @@
     ],
     "summary": "OverlayFS MetaModule",
     "metamodule": false,
-    "stargazerCount": 420,
-    "updatedAt": "2026-07-07T15:50:58Z",
+    "stargazerCount": 419,
+    "updatedAt": "2026-07-08T12:05:01Z",
     "createdAt": "2025-11-21T04:35:16Z",
     "latestRelease": {
       "name": "v1.3.1",
@@ -704,28 +704,6 @@
     }
   },
   {
-    "moduleId": "mikropsoft_StevenBlock",
-    "moduleName": "StevenBlock",
-    "authors": [
-      {
-        "name": "mikropsoft",
-        "link": "https://github.com/mikropsoft"
-      }
-    ],
-    "summary": "🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒",
-    "metamodule": false,
-    "stargazerCount": 290,
-    "updatedAt": "2026-07-08T08:19:16Z",
-    "createdAt": "2024-03-20T17:27:37Z",
-    "latestRelease": {
-      "name": "V4.0 🎉",
-      "version": "V4.0",
-      "time": "2026-03-02T15:23:50Z",
-      "downloadUrl": "https://github.com/mikropsoft/StevenBlock/releases/download/V4.0/StevenBlock.zip",
-      "versionCode": 0
-    }
-  },
-  {
     "moduleId": "rrr333nnn333_BRENE",
     "moduleName": "BRENE",
     "authors": [
@@ -745,6 +723,28 @@
       "time": "2026-06-28T00:24:22Z",
       "downloadUrl": "https://github.com/rrr333nnn333/BRENE/releases/download/v0.0.53/BRENE-v0.0.53.zip",
       "versionCode": 53
+    }
+  },
+  {
+    "moduleId": "mikropsoft_StevenBlock",
+    "moduleName": "StevenBlock",
+    "authors": [
+      {
+        "name": "mikropsoft",
+        "link": "https://github.com/mikropsoft"
+      }
+    ],
+    "summary": "🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒",
+    "metamodule": false,
+    "stargazerCount": 289,
+    "updatedAt": "2026-07-08T09:11:19Z",
+    "createdAt": "2024-03-20T17:27:37Z",
+    "latestRelease": {
+      "name": "V4.0 🎉",
+      "version": "V4.0",
+      "time": "2026-03-02T15:23:50Z",
+      "downloadUrl": "https://github.com/mikropsoft/StevenBlock/releases/download/V4.0/StevenBlock.zip",
+      "versionCode": 0
     }
   },
   {
@@ -912,8 +912,8 @@
     ],
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
-    "stargazerCount": 159,
-    "updatedAt": "2026-07-08T08:05:38Z",
+    "stargazerCount": 160,
+    "updatedAt": "2026-07-08T12:07:17Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
       "name": "Build No. 260019",
@@ -1396,8 +1396,8 @@
     ],
     "summary": "Samsung Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 31,
-    "updatedAt": "2026-07-06T19:51:49Z",
+    "stargazerCount": 32,
+    "updatedAt": "2026-07-08T12:47:53Z",
     "createdAt": "2025-08-09T06:08:05Z",
     "latestRelease": {
       "name": "Samsung GKI Kernels With KSUN v3.2.0 & SUSFS v2.2.0",
@@ -1771,14 +1771,14 @@
     "summary": "Magisk / KernelSU module that disables OEM Widevine to fix Crunchyroll, HBO Max, and other DRM streaming apps on rooted devices. Bypasses Widevine-level root detection without modifying system partiti",
     "metamodule": false,
     "stargazerCount": 11,
-    "updatedAt": "2026-07-08T08:11:11Z",
+    "updatedAt": "2026-07-08T09:51:29Z",
     "createdAt": "2026-05-13T10:12:04Z",
     "latestRelease": {
-      "name": "v2.0.0",
-      "version": "v2.0.0",
-      "time": "2026-07-08T08:11:37Z",
-      "downloadUrl": "https://github.com/Anonym0usWork1221/liboemcrypto-disabler/releases/download/v2.0.0/liboemcrypto-disabler.zip",
-      "versionCode": 0
+      "name": "v2.0.1",
+      "version": "v2.0.1",
+      "time": "2026-07-08T09:44:28Z",
+      "downloadUrl": "https://github.com/Anonym0usWork1221/liboemcrypto-disabler/releases/download/v2.0.1/liboemcrypto-disabler.zip",
+      "versionCode": 1
     }
   },
   {
