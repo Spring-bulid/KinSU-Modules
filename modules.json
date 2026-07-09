@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17160,
-    "updatedAt": "2026-07-09T14:30:28Z",
+    "stargazerCount": 17161,
+    "updatedAt": "2026-07-09T18:56:29Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9896,
-    "updatedAt": "2026-07-09T11:36:02Z",
+    "stargazerCount": 9897,
+    "updatedAt": "2026-07-09T16:37:09Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -55,7 +55,7 @@
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
     "stargazerCount": 3894,
-    "updatedAt": "2026-07-09T14:06:42Z",
+    "updatedAt": "2026-07-09T18:29:24Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3708,
-    "updatedAt": "2026-07-09T14:50:48Z",
+    "stargazerCount": 3710,
+    "updatedAt": "2026-07-09T17:41:14Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -164,8 +164,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2415,
-    "updatedAt": "2026-07-09T10:31:35Z",
+    "stargazerCount": 2418,
+    "updatedAt": "2026-07-09T19:22:55Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2401,
-    "updatedAt": "2026-07-09T14:20:43Z",
+    "stargazerCount": 2403,
+    "updatedAt": "2026-07-09T18:29:09Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V38",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2076,
-    "updatedAt": "2026-07-09T11:33:41Z",
+    "stargazerCount": 2077,
+    "updatedAt": "2026-07-09T19:21:10Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -274,8 +274,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1454,
-    "updatedAt": "2026-07-09T13:28:44Z",
+    "stargazerCount": 1456,
+    "updatedAt": "2026-07-09T17:49:42Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -362,8 +362,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1263,
-    "updatedAt": "2026-07-08T14:30:04Z",
+    "stargazerCount": 1264,
+    "updatedAt": "2026-07-09T18:00:32Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260526",
@@ -450,8 +450,8 @@
     ],
     "summary": "OnePlus Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 621,
-    "updatedAt": "2026-07-09T07:13:21Z",
+    "stargazerCount": 622,
+    "updatedAt": "2026-07-09T18:54:48Z",
     "createdAt": "2024-12-07T23:27:22Z",
     "latestRelease": {
       "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
@@ -626,8 +626,8 @@
     ],
     "summary": "OverlayFS MetaModule",
     "metamodule": false,
-    "stargazerCount": 420,
-    "updatedAt": "2026-07-08T20:31:32Z",
+    "stargazerCount": 418,
+    "updatedAt": "2026-07-09T16:27:25Z",
     "createdAt": "2025-11-21T04:35:16Z",
     "latestRelease": {
       "name": "v1.3.1",
@@ -824,8 +824,8 @@
     ],
     "summary": "A Magisk/KernelSU/APatch module to unlock high-end features on all Xiaomi devices.",
     "metamodule": false,
-    "stargazerCount": 202,
-    "updatedAt": "2026-07-09T07:34:58Z",
+    "stargazerCount": 203,
+    "updatedAt": "2026-07-09T19:43:47Z",
     "createdAt": "2025-02-17T06:51:18Z",
     "latestRelease": {
       "name": "Release v2.2.2",
@@ -913,13 +913,13 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 161,
-    "updatedAt": "2026-07-09T15:18:13Z",
+    "updatedAt": "2026-07-09T17:31:22Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260023",
-      "version": "260023",
-      "time": "2026-07-09T02:53:17Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260023/google-photos-morphe-module-v7.83.0.943371825-arm-v7a.zip",
+      "name": "Build No. 260028",
+      "version": "260028",
+      "time": "2026-07-09T17:31:26Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260028/microsoft-edge-morphe-v149.0.4022.53-arm-v7a.apk",
       "versionCode": 7
     }
   },
@@ -934,8 +934,8 @@
     ],
     "summary": "A Magisk/KernelSU module to change tcp congestion algorithm based on current active internet type and some network enhancements.",
     "metamodule": false,
-    "stargazerCount": 135,
-    "updatedAt": "2026-07-07T22:52:13Z",
+    "stargazerCount": 136,
+    "updatedAt": "2026-07-09T19:47:28Z",
     "createdAt": "2025-05-09T17:07:07Z",
     "latestRelease": {
       "name": "2.5",
@@ -956,8 +956,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 133,
-    "updatedAt": "2026-07-07T11:56:23Z",
+    "stargazerCount": 134,
+    "updatedAt": "2026-07-09T15:50:23Z",
     "createdAt": "2025-12-29T23:02:41Z",
     "latestRelease": {
       "name": "0.13.5-2",
@@ -1056,6 +1056,28 @@
     }
   },
   {
+    "moduleId": "evoker0_AlwaysStrong",
+    "moduleName": "AlwaysStrong",
+    "authors": [
+      {
+        "name": "evoker0",
+        "link": "https://github.com/evoker0"
+      }
+    ],
+    "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
+    "metamodule": false,
+    "stargazerCount": 105,
+    "updatedAt": "2026-07-09T17:30:17Z",
+    "createdAt": "2026-06-27T00:51:25Z",
+    "latestRelease": {
+      "name": "v1.0.1",
+      "version": "v1.0.1",
+      "time": "2026-06-27T21:12:05Z",
+      "downloadUrl": "https://github.com/evoker0/AlwaysStrong/releases/download/v1.0.1/AlwaysStrong-v1.0.1.zip",
+      "versionCode": 1
+    }
+  },
+  {
     "moduleId": "adivenxnataly_KsuWebUI",
     "moduleName": "KsuWebUI",
     "authors": [
@@ -1097,28 +1119,6 @@
       "time": "2024-04-15T06:47:45Z",
       "downloadUrl": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/releases/download/v1.1.3/magisk-module-compatible-magisk-mirroring-v1.1.3.zip",
       "versionCode": 3
-    }
-  },
-  {
-    "moduleId": "evoker0_AlwaysStrong",
-    "moduleName": "AlwaysStrong",
-    "authors": [
-      {
-        "name": "evoker0",
-        "link": "https://github.com/evoker0"
-      }
-    ],
-    "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
-    "metamodule": false,
-    "stargazerCount": 102,
-    "updatedAt": "2026-07-09T11:37:58Z",
-    "createdAt": "2026-06-27T00:51:25Z",
-    "latestRelease": {
-      "name": "v1.0.1",
-      "version": "v1.0.1",
-      "time": "2026-06-27T21:12:05Z",
-      "downloadUrl": "https://github.com/evoker0/AlwaysStrong/releases/download/v1.0.1/AlwaysStrong-v1.0.1.zip",
-      "versionCode": 1
     }
   },
   {
