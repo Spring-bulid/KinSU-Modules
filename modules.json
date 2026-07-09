@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17148,
-    "updatedAt": "2026-07-09T02:51:36Z",
+    "stargazerCount": 17156,
+    "updatedAt": "2026-07-09T09:14:20Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9894,
-    "updatedAt": "2026-07-09T02:31:18Z",
+    "stargazerCount": 9895,
+    "updatedAt": "2026-07-09T07:01:16Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3889,
-    "updatedAt": "2026-07-08T23:23:28Z",
+    "stargazerCount": 3891,
+    "updatedAt": "2026-07-09T08:05:13Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3707,
-    "updatedAt": "2026-07-09T02:47:15Z",
+    "stargazerCount": 3708,
+    "updatedAt": "2026-07-09T09:51:37Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -164,8 +164,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2415,
-    "updatedAt": "2026-07-08T18:11:58Z",
+    "stargazerCount": 2416,
+    "updatedAt": "2026-07-09T08:11:29Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2076,
-    "updatedAt": "2026-07-09T03:04:32Z",
+    "stargazerCount": 2075,
+    "updatedAt": "2026-07-09T08:10:52Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -274,8 +274,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1449,
-    "updatedAt": "2026-07-08T07:11:00Z",
+    "stargazerCount": 1452,
+    "updatedAt": "2026-07-09T08:49:23Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1412,
-    "updatedAt": "2026-07-09T04:03:46Z",
+    "stargazerCount": 1415,
+    "updatedAt": "2026-07-09T08:01:09Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.0",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1176,
-    "updatedAt": "2026-07-09T01:58:06Z",
+    "stargazerCount": 1177,
+    "updatedAt": "2026-07-09T09:13:48Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -450,8 +450,8 @@
     ],
     "summary": "OnePlus Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 620,
-    "updatedAt": "2026-07-08T19:18:21Z",
+    "stargazerCount": 621,
+    "updatedAt": "2026-07-09T07:13:21Z",
     "createdAt": "2024-12-07T23:27:22Z",
     "latestRelease": {
       "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
@@ -538,8 +538,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 476,
-    "updatedAt": "2026-07-09T01:50:32Z",
+    "stargazerCount": 477,
+    "updatedAt": "2026-07-09T04:46:37Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -583,7 +583,7 @@
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
     "stargazerCount": 436,
-    "updatedAt": "2026-07-09T02:02:31Z",
+    "updatedAt": "2026-07-09T05:35:54Z",
     "createdAt": "2025-12-30T05:59:35Z",
     "latestRelease": {
       "name": "Release v0.0.1",
@@ -704,6 +704,28 @@
     }
   },
   {
+    "moduleId": "rrr333nnn333_BRENE",
+    "moduleName": "BRENE",
+    "authors": [
+      {
+        "name": "rrr333nnn333",
+        "link": "https://github.com/rrr333nnn333"
+      }
+    ],
+    "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
+    "metamodule": false,
+    "stargazerCount": 291,
+    "updatedAt": "2026-07-09T08:03:23Z",
+    "createdAt": "2025-12-20T02:37:31Z",
+    "latestRelease": {
+      "name": "BRENE v0.0.54",
+      "version": "v0.0.54",
+      "time": "2026-07-09T03:12:15Z",
+      "downloadUrl": "https://github.com/rrr333nnn333/BRENE/releases/download/v0.0.54/BRENE-v0.0.54.zip",
+      "versionCode": 54
+    }
+  },
+  {
     "moduleId": "mikropsoft_StevenBlock",
     "moduleName": "StevenBlock",
     "authors": [
@@ -723,28 +745,6 @@
       "time": "2026-03-02T15:23:50Z",
       "downloadUrl": "https://github.com/mikropsoft/StevenBlock/releases/download/V4.0/StevenBlock.zip",
       "versionCode": 0
-    }
-  },
-  {
-    "moduleId": "rrr333nnn333_BRENE",
-    "moduleName": "BRENE",
-    "authors": [
-      {
-        "name": "rrr333nnn333",
-        "link": "https://github.com/rrr333nnn333"
-      }
-    ],
-    "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
-    "metamodule": false,
-    "stargazerCount": 289,
-    "updatedAt": "2026-07-09T03:09:51Z",
-    "createdAt": "2025-12-20T02:37:31Z",
-    "latestRelease": {
-      "name": "BRENE v0.0.54",
-      "version": "v0.0.54",
-      "time": "2026-07-09T03:12:15Z",
-      "downloadUrl": "https://github.com/rrr333nnn333/BRENE/releases/download/v0.0.54/BRENE-v0.0.54.zip",
-      "versionCode": 54
     }
   },
   {
@@ -824,8 +824,8 @@
     ],
     "summary": "A Magisk/KernelSU/APatch module to unlock high-end features on all Xiaomi devices.",
     "metamodule": false,
-    "stargazerCount": 201,
-    "updatedAt": "2026-07-09T03:22:33Z",
+    "stargazerCount": 202,
+    "updatedAt": "2026-07-09T07:34:58Z",
     "createdAt": "2025-02-17T06:51:18Z",
     "latestRelease": {
       "name": "Release v2.2.2",
@@ -1599,10 +1599,10 @@
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
       "name": "Build 537004c5b5c34b69bcebcee40eae67f25102e714",
-      "version": "build-188-537004c5b5c34b69bcebcee40eae67f25102e714",
-      "time": "2026-07-08T05:54:28Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-188-537004c5b5c34b69bcebcee40eae67f25102e714/Kono-Ha-1.1-root-KernelSU-balance-20260708-021001.zip",
-      "versionCode": 21001
+      "version": "build-189-537004c5b5c34b69bcebcee40eae67f25102e714",
+      "time": "2026-07-09T05:24:50Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-189-537004c5b5c34b69bcebcee40eae67f25102e714/Kono-Ha-1.1-root-KernelSU-balance-20260708-222651.zip",
+      "versionCode": 222651
     }
   },
   {
@@ -1990,8 +1990,8 @@
     ],
     "summary": "An experimental unofficial fork of KPatch-Next-Module, Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 6,
-    "updatedAt": "2026-07-08T21:02:32Z",
+    "stargazerCount": 7,
+    "updatedAt": "2026-07-09T08:17:02Z",
     "createdAt": "2026-06-04T14:21:52Z",
     "latestRelease": {
       "name": "v0.0.2",
