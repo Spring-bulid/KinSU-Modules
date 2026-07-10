@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17166,
-    "updatedAt": "2026-07-10T03:22:45Z",
+    "stargazerCount": 17172,
+    "updatedAt": "2026-07-10T09:04:13Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9897,
-    "updatedAt": "2026-07-09T16:37:09Z",
+    "stargazerCount": 9900,
+    "updatedAt": "2026-07-10T08:26:21Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3899,
-    "updatedAt": "2026-07-10T00:26:59Z",
+    "stargazerCount": 3901,
+    "updatedAt": "2026-07-10T09:11:57Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3715,
-    "updatedAt": "2026-07-10T03:51:45Z",
+    "stargazerCount": 3714,
+    "updatedAt": "2026-07-10T06:17:08Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3259,
-    "updatedAt": "2026-07-10T01:44:45Z",
+    "stargazerCount": 3261,
+    "updatedAt": "2026-07-10T07:24:01Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -120,8 +120,8 @@
     ],
     "summary": "A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.",
     "metamodule": false,
-    "stargazerCount": 2522,
-    "updatedAt": "2026-07-09T13:26:19Z",
+    "stargazerCount": 2521,
+    "updatedAt": "2026-07-10T09:24:17Z",
     "createdAt": "2024-03-03T18:20:02Z",
     "latestRelease": {
       "name": "v2.1.4",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2404,
-    "updatedAt": "2026-07-10T00:51:58Z",
+    "stargazerCount": 2406,
+    "updatedAt": "2026-07-10T09:10:52Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V38",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2078,
-    "updatedAt": "2026-07-10T00:22:06Z",
+    "stargazerCount": 2077,
+    "updatedAt": "2026-07-10T09:14:57Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -230,8 +230,8 @@
     ],
     "summary": "支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/kernelsu/APatch",
     "metamodule": false,
-    "stargazerCount": 1906,
-    "updatedAt": "2026-07-10T03:05:43Z",
+    "stargazerCount": 1907,
+    "updatedAt": "2026-07-10T09:05:19Z",
     "createdAt": "2022-10-09T18:07:36Z",
     "latestRelease": {
       "name": "v1.5.8",
@@ -275,7 +275,7 @@
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
     "stargazerCount": 1456,
-    "updatedAt": "2026-07-09T17:49:42Z",
+    "updatedAt": "2026-07-10T07:09:01Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -297,7 +297,7 @@
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
     "stargazerCount": 1420,
-    "updatedAt": "2026-07-10T03:42:35Z",
+    "updatedAt": "2026-07-10T07:01:34Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.0",
@@ -318,8 +318,8 @@
     ],
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
-    "stargazerCount": 1328,
-    "updatedAt": "2026-07-09T04:06:38Z",
+    "stargazerCount": 1329,
+    "updatedAt": "2026-07-10T09:11:41Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -340,8 +340,8 @@
     ],
     "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
     "metamodule": false,
-    "stargazerCount": 1266,
-    "updatedAt": "2026-07-10T01:06:27Z",
+    "stargazerCount": 1268,
+    "updatedAt": "2026-07-10T08:08:13Z",
     "createdAt": "2025-04-04T02:54:54Z",
     "latestRelease": {
       "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1176,
-    "updatedAt": "2026-07-09T15:14:24Z",
+    "stargazerCount": 1177,
+    "updatedAt": "2026-07-10T05:13:33Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -450,8 +450,8 @@
     ],
     "summary": "OnePlus Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 622,
-    "updatedAt": "2026-07-09T18:54:48Z",
+    "stargazerCount": 623,
+    "updatedAt": "2026-07-10T05:23:52Z",
     "createdAt": "2024-12-07T23:27:22Z",
     "latestRelease": {
       "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
@@ -803,13 +803,13 @@
     "summary": "An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.",
     "metamodule": false,
     "stargazerCount": 238,
-    "updatedAt": "2026-07-02T16:27:50Z",
+    "updatedAt": "2026-07-10T08:49:35Z",
     "createdAt": "2024-07-16T23:47:19Z",
     "latestRelease": {
       "name": "Release",
-      "version": "149",
-      "time": "2026-07-03T08:02:46Z",
-      "downloadUrl": "https://github.com/peternmuller/revanced-morphe-builder/releases/download/149/youtube-morphe-module-v20.51.39-all.zip",
+      "version": "150",
+      "time": "2026-07-10T08:21:33Z",
+      "downloadUrl": "https://github.com/peternmuller/revanced-morphe-builder/releases/download/150/youtube-morphe-module-v20.51.39-all.zip",
       "versionCode": 39
     }
   },
@@ -913,13 +913,13 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 160,
-    "updatedAt": "2026-07-10T00:50:54Z",
+    "updatedAt": "2026-07-10T08:09:42Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260028",
-      "version": "260028",
-      "time": "2026-07-09T17:31:26Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260028/microsoft-edge-morphe-v149.0.4022.53-arm-v7a.apk",
+      "name": "Build No. 260032",
+      "version": "260032",
+      "time": "2026-07-10T08:10:15Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260032/reddit-morphe-exp-module-v2026.27.0-arm-v7a.zip",
       "versionCode": 7
     }
   },
@@ -1034,6 +1034,28 @@
     }
   },
   {
+    "moduleId": "evoker0_AlwaysStrong",
+    "moduleName": "AlwaysStrong",
+    "authors": [
+      {
+        "name": "evoker0",
+        "link": "https://github.com/evoker0"
+      }
+    ],
+    "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
+    "metamodule": false,
+    "stargazerCount": 108,
+    "updatedAt": "2026-07-10T08:19:10Z",
+    "createdAt": "2026-06-27T00:51:25Z",
+    "latestRelease": {
+      "name": "v1.0.1",
+      "version": "v1.0.1",
+      "time": "2026-06-27T21:12:05Z",
+      "downloadUrl": "https://github.com/evoker0/AlwaysStrong/releases/download/v1.0.1/AlwaysStrong-v1.0.1.zip",
+      "versionCode": 1
+    }
+  },
+  {
     "moduleId": "Enginex0_zeromount",
     "moduleName": "zeromount",
     "authors": [
@@ -1053,28 +1075,6 @@
       "time": "2026-04-15T02:44:54Z",
       "downloadUrl": "https://github.com/Enginex0/zeromount/releases/download/v2.0.216-dev/zeromount-v2.0.216-dev-debug.zip",
       "versionCode": 216
-    }
-  },
-  {
-    "moduleId": "evoker0_AlwaysStrong",
-    "moduleName": "AlwaysStrong",
-    "authors": [
-      {
-        "name": "evoker0",
-        "link": "https://github.com/evoker0"
-      }
-    ],
-    "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
-    "metamodule": false,
-    "stargazerCount": 106,
-    "updatedAt": "2026-07-09T21:34:49Z",
-    "createdAt": "2026-06-27T00:51:25Z",
-    "latestRelease": {
-      "name": "v1.0.1",
-      "version": "v1.0.1",
-      "time": "2026-06-27T21:12:05Z",
-      "downloadUrl": "https://github.com/evoker0/AlwaysStrong/releases/download/v1.0.1/AlwaysStrong-v1.0.1.zip",
-      "versionCode": 1
     }
   },
   {
@@ -1177,7 +1177,7 @@
     "summary": "OnePlus 11 EmberHeart kernel with Nethunter, KernelSU-Next and SuSFS",
     "metamodule": false,
     "stargazerCount": 84,
-    "updatedAt": "2026-07-07T18:16:44Z",
+    "updatedAt": "2026-07-10T07:59:54Z",
     "createdAt": "2025-10-01T04:15:12Z",
     "latestRelease": {
       "name": "OnePlus OP11 EmberHeart Kernel With KernelSU Next v3.3.0 & Nethunter-OOS16",
@@ -1518,6 +1518,28 @@
     }
   },
   {
+    "moduleId": "burakgon_KernelSU-WiFi-Country-Code",
+    "moduleName": "KernelSU-WiFi-Country-Code",
+    "authors": [
+      {
+        "name": "burakgon",
+        "link": "https://github.com/burakgon"
+      }
+    ],
+    "summary": "KernelSU / Magisk module to force WiFi country code on Android. Unlock restricted 5GHz, 6GHz (WiFi 6E/7), and DFS channels. WebUI with 140 country codes from Linux wireless-regdb.",
+    "metamodule": false,
+    "stargazerCount": 20,
+    "updatedAt": "2026-07-10T04:51:45Z",
+    "createdAt": "2026-04-10T13:16:36Z",
+    "latestRelease": {
+      "name": "v3.0 — Full Regulatory Database",
+      "version": "v3.0",
+      "time": "2026-04-10T13:38:05Z",
+      "downloadUrl": "https://github.com/burakgon/KernelSU-WiFi-Country-Code/releases/download/v3.0/WiFi-Force-Country-Code-v3.0.zip",
+      "versionCode": 0
+    }
+  },
+  {
     "moduleId": "ravindu644_adb-root-enabler",
     "moduleName": "adb-root-enabler",
     "authors": [
@@ -1537,28 +1559,6 @@
       "time": "2025-12-01T16:39:42Z",
       "downloadUrl": "https://github.com/ravindu644/adb-root-enabler/releases/download/v1/adb-root-enabler.zip",
       "versionCode": 1
-    }
-  },
-  {
-    "moduleId": "burakgon_KernelSU-WiFi-Country-Code",
-    "moduleName": "KernelSU-WiFi-Country-Code",
-    "authors": [
-      {
-        "name": "burakgon",
-        "link": "https://github.com/burakgon"
-      }
-    ],
-    "summary": "KernelSU / Magisk module to force WiFi country code on Android. Unlock restricted 5GHz, 6GHz (WiFi 6E/7), and DFS channels. WebUI with 140 country codes from Linux wireless-regdb.",
-    "metamodule": false,
-    "stargazerCount": 19,
-    "updatedAt": "2026-06-23T01:14:10Z",
-    "createdAt": "2026-04-10T13:16:36Z",
-    "latestRelease": {
-      "name": "v3.0 — Full Regulatory Database",
-      "version": "v3.0",
-      "time": "2026-04-10T13:38:05Z",
-      "downloadUrl": "https://github.com/burakgon/KernelSU-WiFi-Country-Code/releases/download/v3.0/WiFi-Force-Country-Code-v3.0.zip",
-      "versionCode": 0
     }
   },
   {
@@ -1595,14 +1595,14 @@
     "summary": "GKI Kernel for Poco F7 / Redmi Turbo 4 Pro (Onyx), Poco F7 Pro, and Poco F7 Ultra",
     "metamodule": false,
     "stargazerCount": 17,
-    "updatedAt": "2026-07-09T22:17:15Z",
+    "updatedAt": "2026-07-10T07:19:46Z",
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
       "name": "Build 537004c5b5c34b69bcebcee40eae67f25102e714",
-      "version": "build-189-537004c5b5c34b69bcebcee40eae67f25102e714",
-      "time": "2026-07-09T05:24:50Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-189-537004c5b5c34b69bcebcee40eae67f25102e714/Kono-Ha-1.1-root-KernelSU-balance-20260708-222651.zip",
-      "versionCode": 222651
+      "version": "build-190-537004c5b5c34b69bcebcee40eae67f25102e714",
+      "time": "2026-07-10T05:47:49Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-190-537004c5b5c34b69bcebcee40eae67f25102e714/Kono-Ha-1.1-root-KernelSU-balance-20260709-192650.zip",
+      "versionCode": 192650
     }
   },
   {
@@ -1804,6 +1804,28 @@
     }
   },
   {
+    "moduleId": "hxreborn_revanced-magisk-module",
+    "moduleName": "revanced-magisk-module",
+    "authors": [
+      {
+        "name": "hxreborn",
+        "link": "https://github.com/hxreborn"
+      }
+    ],
+    "summary": "ReVanced builder.",
+    "metamodule": false,
+    "stargazerCount": 10,
+    "updatedAt": "2026-07-10T04:51:04Z",
+    "createdAt": "2024-08-31T09:54:04Z",
+    "latestRelease": {
+      "name": "YouTube ReVanced Zygisk",
+      "version": "33",
+      "time": "2026-07-03T11:36:28Z",
+      "downloadUrl": "https://github.com/hxreborn/revanced-magisk-module/releases/download/33/youtube-revanced-zygisk-module-v20.51.39-arm64-v8a.zip",
+      "versionCode": 8
+    }
+  },
+  {
     "moduleId": "HsukqiLee_GoogleSansMax",
     "moduleName": "GoogleSansMax",
     "authors": [
@@ -1823,28 +1845,6 @@
       "time": "2026-07-02T14:38:35Z",
       "downloadUrl": "https://github.com/HsukqiLee/GoogleSansMax/releases/download/v1.5.1/GoogleSansMax-Core.zip",
       "versionCode": 1
-    }
-  },
-  {
-    "moduleId": "himanshujjp_IntegrityHelper",
-    "moduleName": "IntegrityHelper",
-    "authors": [
-      {
-        "name": "himanshujjp",
-        "link": "https://github.com/himanshujjp"
-      }
-    ],
-    "summary": "Integrity Helper - Universal web UI for managing integrity-related Magisk modules. Supports Magisk, APatch & KernelSU with automatic detection and batch installation",
-    "metamodule": false,
-    "stargazerCount": 9,
-    "updatedAt": "2026-01-05T07:45:48Z",
-    "createdAt": "2025-09-21T09:26:29Z",
-    "latestRelease": {
-      "name": "Integrity Helper v1.0",
-      "version": "v1.0",
-      "time": "2025-09-22T04:26:38Z",
-      "downloadUrl": "https://github.com/himanshujjp/IntegrityHelper/releases/download/v1.0/IntegrityHelper-v1.0.zip",
-      "versionCode": 0
     }
   },
   {
