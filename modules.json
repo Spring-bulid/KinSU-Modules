@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17172,
-    "updatedAt": "2026-07-10T09:04:13Z",
+    "stargazerCount": 17182,
+    "updatedAt": "2026-07-10T14:32:16Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9900,
-    "updatedAt": "2026-07-10T08:26:21Z",
+    "stargazerCount": 9901,
+    "updatedAt": "2026-07-10T13:39:52Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3901,
-    "updatedAt": "2026-07-10T09:11:57Z",
+    "stargazerCount": 3902,
+    "updatedAt": "2026-07-10T10:37:25Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -142,8 +142,8 @@
     ],
     "summary": "A Magisk/KernelSU module that automatically adds user certificates to the system root CA store",
     "metamodule": false,
-    "stargazerCount": 2507,
-    "updatedAt": "2026-07-08T17:52:14Z",
+    "stargazerCount": 2508,
+    "updatedAt": "2026-07-10T10:32:33Z",
     "createdAt": "2017-12-15T15:22:28Z",
     "latestRelease": {
       "name": "v1.3",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2406,
-    "updatedAt": "2026-07-10T09:10:52Z",
+    "stargazerCount": 2405,
+    "updatedAt": "2026-07-10T09:51:08Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V38",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2077,
-    "updatedAt": "2026-07-10T09:14:57Z",
+    "stargazerCount": 2076,
+    "updatedAt": "2026-07-10T14:30:16Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -252,8 +252,8 @@
     ],
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
-    "stargazerCount": 1866,
-    "updatedAt": "2026-07-09T02:18:06Z",
+    "stargazerCount": 1865,
+    "updatedAt": "2026-07-10T13:07:12Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -274,8 +274,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1456,
-    "updatedAt": "2026-07-10T07:09:01Z",
+    "stargazerCount": 1457,
+    "updatedAt": "2026-07-10T12:41:37Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -318,8 +318,8 @@
     ],
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
-    "stargazerCount": 1329,
-    "updatedAt": "2026-07-10T09:11:41Z",
+    "stargazerCount": 1330,
+    "updatedAt": "2026-07-10T12:30:24Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -363,13 +363,13 @@
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
     "stargazerCount": 1265,
-    "updatedAt": "2026-07-10T02:54:47Z",
+    "updatedAt": "2026-07-10T10:46:47Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
-      "name": "20260526",
-      "version": "20260526",
-      "time": "2026-05-26T13:59:44Z",
-      "downloadUrl": "https://github.com/twoone-3/AdGuardHomeForRoot/releases/download/20260526/AdGuardHomeForRoot_arm64.zip",
+      "name": "20260710",
+      "version": "20260710",
+      "time": "2026-07-10T10:47:18Z",
+      "downloadUrl": "https://github.com/twoone-3/AdGuardHomeForRoot/releases/download/20260710/AdGuardHomeForRoot_arm64.zip",
       "versionCode": 64
     }
   },
@@ -472,8 +472,8 @@
     ],
     "summary": "WebUI X from MMRL but portable!",
     "metamodule": false,
-    "stargazerCount": 594,
-    "updatedAt": "2026-07-09T11:34:14Z",
+    "stargazerCount": 595,
+    "updatedAt": "2026-07-10T14:18:59Z",
     "createdAt": "2025-04-20T22:16:38Z",
     "latestRelease": {
       "name": "v438",
@@ -538,8 +538,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 477,
-    "updatedAt": "2026-07-09T04:46:37Z",
+    "stargazerCount": 478,
+    "updatedAt": "2026-07-10T10:50:38Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -560,8 +560,8 @@
     ],
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
-    "stargazerCount": 453,
-    "updatedAt": "2026-07-08T20:23:29Z",
+    "stargazerCount": 456,
+    "updatedAt": "2026-07-10T14:29:23Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v1.1.1",
@@ -670,8 +670,8 @@
     ],
     "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
     "metamodule": false,
-    "stargazerCount": 329,
-    "updatedAt": "2026-07-09T11:41:05Z",
+    "stargazerCount": 330,
+    "updatedAt": "2026-07-10T14:16:06Z",
     "createdAt": "2025-03-17T16:23:07Z",
     "latestRelease": {
       "name": "COPG v5.7.1",
@@ -780,8 +780,8 @@
     ],
     "summary": "A KernelSU module to debloat system apps with WebUI Interface",
     "metamodule": false,
-    "stargazerCount": 239,
-    "updatedAt": "2026-07-09T01:56:27Z",
+    "stargazerCount": 240,
+    "updatedAt": "2026-07-10T14:11:29Z",
     "createdAt": "2025-03-07T08:51:25Z",
     "latestRelease": {
       "name": "v2.0.0",
@@ -802,8 +802,8 @@
     ],
     "summary": "An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.",
     "metamodule": false,
-    "stargazerCount": 238,
-    "updatedAt": "2026-07-10T08:49:35Z",
+    "stargazerCount": 240,
+    "updatedAt": "2026-07-10T12:57:42Z",
     "createdAt": "2024-07-16T23:47:19Z",
     "latestRelease": {
       "name": "Release",
@@ -913,14 +913,14 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 160,
-    "updatedAt": "2026-07-10T08:09:42Z",
+    "updatedAt": "2026-07-10T13:59:16Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260032",
-      "version": "260032",
-      "time": "2026-07-10T08:10:15Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260032/reddit-morphe-exp-module-v2026.27.0-arm-v7a.zip",
-      "versionCode": 7
+      "name": "Build No. 260033",
+      "version": "260033",
+      "time": "2026-07-10T13:08:33Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260033/ninja-vpn-morphe-v1.4.7-arm64-v8a.apk",
+      "versionCode": 8
     }
   },
   {
@@ -1088,8 +1088,8 @@
     ],
     "summary": "A standalone app implementation of KernelSU WebUI.",
     "metamodule": false,
-    "stargazerCount": 103,
-    "updatedAt": "2026-07-04T02:58:34Z",
+    "stargazerCount": 104,
+    "updatedAt": "2026-07-10T13:52:24Z",
     "createdAt": "2025-05-12T06:22:47Z",
     "latestRelease": {
       "name": "1.0-11",
@@ -1598,11 +1598,11 @@
     "updatedAt": "2026-07-10T07:19:46Z",
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
-      "name": "Build 537004c5b5c34b69bcebcee40eae67f25102e714",
-      "version": "build-190-537004c5b5c34b69bcebcee40eae67f25102e714",
-      "time": "2026-07-10T05:47:49Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-190-537004c5b5c34b69bcebcee40eae67f25102e714/Kono-Ha-1.1-root-KernelSU-balance-20260709-192650.zip",
-      "versionCode": 192650
+      "name": "Build 321dd3d52f41096d9974c9cdeb1ecc9139fae04f",
+      "version": "build-191-321dd3d52f41096d9974c9cdeb1ecc9139fae04f",
+      "time": "2026-07-10T09:57:33Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-191-321dd3d52f41096d9974c9cdeb1ecc9139fae04f/Kono-Ha-1.1-stock-balance-20260710-084111.zip",
+      "versionCode": 84111
     }
   },
   {
@@ -1819,9 +1819,9 @@
     "createdAt": "2024-08-31T09:54:04Z",
     "latestRelease": {
       "name": "YouTube ReVanced Zygisk",
-      "version": "33",
-      "time": "2026-07-03T11:36:28Z",
-      "downloadUrl": "https://github.com/hxreborn/revanced-magisk-module/releases/download/33/youtube-revanced-zygisk-module-v20.51.39-arm64-v8a.zip",
+      "version": "34",
+      "time": "2026-07-10T11:56:27Z",
+      "downloadUrl": "https://github.com/hxreborn/revanced-magisk-module/releases/download/34/youtube-revanced-zygisk-module-v20.51.39-arm64-v8a.zip",
       "versionCode": 8
     }
   },
