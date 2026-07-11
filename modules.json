@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17192,
-    "updatedAt": "2026-07-11T06:26:17Z",
+    "stargazerCount": 17196,
+    "updatedAt": "2026-07-11T13:21:07Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9908,
-    "updatedAt": "2026-07-11T07:34:31Z",
+    "stargazerCount": 9912,
+    "updatedAt": "2026-07-11T12:11:43Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3905,
-    "updatedAt": "2026-07-10T20:10:08Z",
+    "stargazerCount": 3908,
+    "updatedAt": "2026-07-11T12:55:26Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3265,
-    "updatedAt": "2026-07-11T03:23:17Z",
+    "stargazerCount": 3266,
+    "updatedAt": "2026-07-11T12:34:10Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -142,8 +142,8 @@
     ],
     "summary": "A Magisk/KernelSU module that automatically adds user certificates to the system root CA store",
     "metamodule": false,
-    "stargazerCount": 2509,
-    "updatedAt": "2026-07-11T05:11:50Z",
+    "stargazerCount": 2510,
+    "updatedAt": "2026-07-11T10:28:21Z",
     "createdAt": "2017-12-15T15:22:28Z",
     "latestRelease": {
       "name": "v1.3",
@@ -164,8 +164,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2421,
-    "updatedAt": "2026-07-10T20:41:08Z",
+    "stargazerCount": 2423,
+    "updatedAt": "2026-07-11T11:18:30Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2410,
-    "updatedAt": "2026-07-11T07:59:20Z",
+    "stargazerCount": 2414,
+    "updatedAt": "2026-07-11T13:21:08Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V38",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2078,
-    "updatedAt": "2026-07-10T23:27:45Z",
+    "stargazerCount": 2079,
+    "updatedAt": "2026-07-11T13:24:33Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -274,8 +274,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1461,
-    "updatedAt": "2026-07-11T04:42:58Z",
+    "stargazerCount": 1463,
+    "updatedAt": "2026-07-11T13:04:59Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1425,
-    "updatedAt": "2026-07-11T01:18:29Z",
+    "stargazerCount": 1428,
+    "updatedAt": "2026-07-11T13:31:24Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.0",
@@ -319,7 +319,7 @@
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
     "stargazerCount": 1330,
-    "updatedAt": "2026-07-10T12:30:24Z",
+    "updatedAt": "2026-07-11T13:35:39Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -340,8 +340,8 @@
     ],
     "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
     "metamodule": false,
-    "stargazerCount": 1271,
-    "updatedAt": "2026-07-11T07:15:16Z",
+    "stargazerCount": 1273,
+    "updatedAt": "2026-07-11T10:55:21Z",
     "createdAt": "2025-04-04T02:54:54Z",
     "latestRelease": {
       "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
@@ -362,8 +362,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1268,
-    "updatedAt": "2026-07-11T05:32:33Z",
+    "stargazerCount": 1269,
+    "updatedAt": "2026-07-11T12:20:49Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260710",
@@ -560,8 +560,8 @@
     ],
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
-    "stargazerCount": 458,
-    "updatedAt": "2026-07-10T22:39:26Z",
+    "stargazerCount": 459,
+    "updatedAt": "2026-07-11T13:26:12Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v1.1.1",
@@ -670,8 +670,8 @@
     ],
     "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
     "metamodule": false,
-    "stargazerCount": 330,
-    "updatedAt": "2026-07-10T14:16:06Z",
+    "stargazerCount": 332,
+    "updatedAt": "2026-07-11T11:15:34Z",
     "createdAt": "2025-03-17T16:23:07Z",
     "latestRelease": {
       "name": "COPG v5.7.1",
@@ -990,6 +990,28 @@
     }
   },
   {
+    "moduleId": "evoker0_AlwaysStrong",
+    "moduleName": "AlwaysStrong",
+    "authors": [
+      {
+        "name": "evoker0",
+        "link": "https://github.com/evoker0"
+      }
+    ],
+    "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
+    "metamodule": false,
+    "stargazerCount": 117,
+    "updatedAt": "2026-07-11T12:37:17Z",
+    "createdAt": "2026-06-27T00:51:25Z",
+    "latestRelease": {
+      "name": "v1.0.1",
+      "version": "v1.0.1",
+      "time": "2026-06-27T21:12:05Z",
+      "downloadUrl": "https://github.com/evoker0/AlwaysStrong/releases/download/v1.0.1/AlwaysStrong-v1.0.1.zip",
+      "versionCode": 1
+    }
+  },
+  {
     "moduleId": "RuriOSS_asl",
     "moduleName": "asl",
     "authors": [
@@ -1031,28 +1053,6 @@
       "time": "2024-04-16T14:42:52Z",
       "downloadUrl": "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler/releases/download/v1.1.2/Volte-Wifi-Calling-Enabler.zip",
       "versionCode": 2
-    }
-  },
-  {
-    "moduleId": "evoker0_AlwaysStrong",
-    "moduleName": "AlwaysStrong",
-    "authors": [
-      {
-        "name": "evoker0",
-        "link": "https://github.com/evoker0"
-      }
-    ],
-    "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
-    "metamodule": false,
-    "stargazerCount": 114,
-    "updatedAt": "2026-07-11T08:04:50Z",
-    "createdAt": "2026-06-27T00:51:25Z",
-    "latestRelease": {
-      "name": "v1.0.1",
-      "version": "v1.0.1",
-      "time": "2026-06-27T21:12:05Z",
-      "downloadUrl": "https://github.com/evoker0/AlwaysStrong/releases/download/v1.0.1/AlwaysStrong-v1.0.1.zip",
-      "versionCode": 1
     }
   },
   {
