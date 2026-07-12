@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17213,
-    "updatedAt": "2026-07-12T07:51:05Z",
+    "stargazerCount": 17222,
+    "updatedAt": "2026-07-12T13:21:04Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9914,
-    "updatedAt": "2026-07-12T02:40:20Z",
+    "stargazerCount": 9920,
+    "updatedAt": "2026-07-12T13:32:23Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3911,
-    "updatedAt": "2026-07-11T16:09:37Z",
+    "stargazerCount": 3913,
+    "updatedAt": "2026-07-12T11:26:48Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3716,
-    "updatedAt": "2026-07-11T00:48:48Z",
+    "stargazerCount": 3719,
+    "updatedAt": "2026-07-12T13:27:56Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3269,
-    "updatedAt": "2026-07-11T22:46:02Z",
+    "stargazerCount": 3273,
+    "updatedAt": "2026-07-12T12:41:26Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -165,7 +165,7 @@
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
     "stargazerCount": 2427,
-    "updatedAt": "2026-07-12T07:04:21Z",
+    "updatedAt": "2026-07-12T12:41:47Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -275,7 +275,7 @@
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
     "stargazerCount": 1465,
-    "updatedAt": "2026-07-12T08:16:14Z",
+    "updatedAt": "2026-07-12T08:50:07Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1433,
-    "updatedAt": "2026-07-12T07:56:58Z",
+    "stargazerCount": 1435,
+    "updatedAt": "2026-07-12T13:13:49Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.0",
@@ -330,6 +330,28 @@
     }
   },
   {
+    "moduleId": "Numbersf_Action-Build",
+    "moduleName": "Action-Build",
+    "authors": [
+      {
+        "name": "Numbersf",
+        "link": "https://github.com/Numbersf"
+      }
+    ],
+    "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
+    "metamodule": false,
+    "stargazerCount": 1274,
+    "updatedAt": "2026-07-12T13:07:02Z",
+    "createdAt": "2025-04-04T02:54:54Z",
+    "latestRelease": {
+      "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
+      "version": "40069",
+      "time": "2025-11-09T05:41:46Z",
+      "downloadUrl": "https://github.com/Numbersf/Action-Build/releases/download/40069/AnyKernel3_SukiSUUltra_40069_OnePlus10Pro_Android15.0.0.5.10.209._LSM_VFS.zip",
+      "versionCode": 209
+    }
+  },
+  {
     "moduleId": "twoone-3_AdGuardHomeForRoot",
     "moduleName": "AdGuardHomeForRoot",
     "authors": [
@@ -349,28 +371,6 @@
       "time": "2026-07-10T10:47:18Z",
       "downloadUrl": "https://github.com/twoone-3/AdGuardHomeForRoot/releases/download/20260710/AdGuardHomeForRoot_arm64.zip",
       "versionCode": 64
-    }
-  },
-  {
-    "moduleId": "Numbersf_Action-Build",
-    "moduleName": "Action-Build",
-    "authors": [
-      {
-        "name": "Numbersf",
-        "link": "https://github.com/Numbersf"
-      }
-    ],
-    "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
-    "metamodule": false,
-    "stargazerCount": 1273,
-    "updatedAt": "2026-07-12T04:23:37Z",
-    "createdAt": "2025-04-04T02:54:54Z",
-    "latestRelease": {
-      "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
-      "version": "40069",
-      "time": "2025-11-09T05:41:46Z",
-      "downloadUrl": "https://github.com/Numbersf/Action-Build/releases/download/40069/AnyKernel3_SukiSUUltra_40069_OnePlus10Pro_Android15.0.0.5.10.209._LSM_VFS.zip",
-      "versionCode": 209
     }
   },
   {
@@ -582,8 +582,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 438,
-    "updatedAt": "2026-07-12T01:28:02Z",
+    "stargazerCount": 439,
+    "updatedAt": "2026-07-12T09:22:08Z",
     "createdAt": "2025-12-30T05:59:35Z",
     "latestRelease": {
       "name": "Release v0.0.1",
@@ -670,8 +670,8 @@
     ],
     "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
     "metamodule": false,
-    "stargazerCount": 332,
-    "updatedAt": "2026-07-12T00:28:04Z",
+    "stargazerCount": 333,
+    "updatedAt": "2026-07-12T09:40:48Z",
     "createdAt": "2025-03-17T16:23:07Z",
     "latestRelease": {
       "name": "COPG v5.7.1",
@@ -868,8 +868,8 @@
     ],
     "summary": "Sultan Kernels built with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 178,
-    "updatedAt": "2026-07-02T07:39:23Z",
+    "stargazerCount": 177,
+    "updatedAt": "2026-07-12T10:20:20Z",
     "createdAt": "2025-01-19T03:05:13Z",
     "latestRelease": {
       "name": "Sultan Kernels With KernelSU Next & SUSFS v2.1.0",
@@ -1814,8 +1814,8 @@
     ],
     "summary": "ReVanced builder.",
     "metamodule": false,
-    "stargazerCount": 10,
-    "updatedAt": "2026-07-10T04:51:04Z",
+    "stargazerCount": 11,
+    "updatedAt": "2026-07-12T08:47:28Z",
     "createdAt": "2024-08-31T09:54:04Z",
     "latestRelease": {
       "name": "YouTube ReVanced Zygisk",
