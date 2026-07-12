@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17222,
-    "updatedAt": "2026-07-12T13:21:04Z",
+    "stargazerCount": 17225,
+    "updatedAt": "2026-07-12T19:09:22Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3913,
-    "updatedAt": "2026-07-12T11:26:48Z",
+    "stargazerCount": 3914,
+    "updatedAt": "2026-07-12T13:59:37Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3719,
-    "updatedAt": "2026-07-12T13:27:56Z",
+    "stargazerCount": 3721,
+    "updatedAt": "2026-07-12T16:06:12Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2416,
-    "updatedAt": "2026-07-12T06:32:45Z",
+    "stargazerCount": 2418,
+    "updatedAt": "2026-07-12T17:19:43Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V38",
@@ -264,28 +264,6 @@
     }
   },
   {
-    "moduleId": "WildKernels_GKI_KernelSU_SUSFS",
-    "moduleName": "GKI_KernelSU_SUSFS",
-    "authors": [
-      {
-        "name": "WildKernels",
-        "link": "https://github.com/WildKernels"
-      }
-    ],
-    "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
-    "metamodule": false,
-    "stargazerCount": 1465,
-    "updatedAt": "2026-07-12T08:50:07Z",
-    "createdAt": "2024-12-26T21:24:20Z",
-    "latestRelease": {
-      "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
-      "version": "r5",
-      "time": "2026-06-25T04:54:48Z",
-      "downloadUrl": "https://github.com/WildKernels/GKI_KernelSU_SUSFS/releases/download/r5/5.10.101-android12-2022-04-AnyKernel3.zip",
-      "versionCode": 3
-    }
-  },
-  {
     "moduleId": "ravindu644_Droidspaces-OSS",
     "moduleName": "Droidspaces-OSS",
     "authors": [
@@ -296,8 +274,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1435,
-    "updatedAt": "2026-07-12T13:13:49Z",
+    "stargazerCount": 1438,
+    "updatedAt": "2026-07-12T16:08:06Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.0",
@@ -384,8 +362,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1179,
-    "updatedAt": "2026-07-12T00:51:16Z",
+    "stargazerCount": 1182,
+    "updatedAt": "2026-07-12T14:58:20Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -428,8 +406,8 @@
     ],
     "summary": "Required module to use applications such as AdAway on KernelSU and APatch",
     "metamodule": false,
-    "stargazerCount": 627,
-    "updatedAt": "2026-07-06T11:42:33Z",
+    "stargazerCount": 628,
+    "updatedAt": "2026-07-12T17:53:53Z",
     "createdAt": "2023-06-30T10:31:40Z",
     "latestRelease": {
       "name": "v1.2.2",
@@ -516,8 +494,8 @@
     ],
     "summary": "Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way to use WireGuard and 2FA.",
     "metamodule": false,
-    "stargazerCount": 483,
-    "updatedAt": "2026-07-10T22:46:11Z",
+    "stargazerCount": 484,
+    "updatedAt": "2026-07-12T14:51:23Z",
     "createdAt": "2023-12-13T20:02:49Z",
     "latestRelease": {
       "name": "Magisk Tailscaled v2.0.0.1",
@@ -538,8 +516,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 480,
-    "updatedAt": "2026-07-12T04:48:16Z",
+    "stargazerCount": 481,
+    "updatedAt": "2026-07-12T15:55:24Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -560,8 +538,8 @@
     ],
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
-    "stargazerCount": 461,
-    "updatedAt": "2026-07-12T06:58:16Z",
+    "stargazerCount": 463,
+    "updatedAt": "2026-07-12T18:17:29Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v1.1.1",
@@ -824,8 +802,8 @@
     ],
     "summary": "A Magisk/KernelSU/APatch module to unlock high-end features on all Xiaomi devices.",
     "metamodule": false,
-    "stargazerCount": 204,
-    "updatedAt": "2026-07-10T03:15:52Z",
+    "stargazerCount": 205,
+    "updatedAt": "2026-07-12T13:53:01Z",
     "createdAt": "2025-02-17T06:51:18Z",
     "latestRelease": {
       "name": "Release v2.2.2",
@@ -913,7 +891,7 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 160,
-    "updatedAt": "2026-07-12T07:18:43Z",
+    "updatedAt": "2026-07-12T17:32:43Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
       "name": "Build No. 260037",
@@ -978,8 +956,8 @@
     ],
     "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
     "metamodule": false,
-    "stargazerCount": 127,
-    "updatedAt": "2026-07-12T08:21:07Z",
+    "stargazerCount": 128,
+    "updatedAt": "2026-07-12T18:10:49Z",
     "createdAt": "2026-06-27T00:51:25Z",
     "latestRelease": {
       "name": "v1.0.1",
@@ -1419,7 +1397,7 @@
     "summary": "Samsung Kernels with KernelSU & SUSFS",
     "metamodule": false,
     "stargazerCount": 33,
-    "updatedAt": "2026-07-10T20:24:08Z",
+    "updatedAt": "2026-07-12T19:04:32Z",
     "createdAt": "2025-08-09T06:08:05Z",
     "latestRelease": {
       "name": "Samsung GKI Kernels With KSUN v3.2.0 & SUSFS v2.2.0",
