@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17203,
-    "updatedAt": "2026-07-11T18:13:32Z",
+    "stargazerCount": 17211,
+    "updatedAt": "2026-07-12T03:23:46Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9913,
-    "updatedAt": "2026-07-11T15:20:59Z",
+    "stargazerCount": 9914,
+    "updatedAt": "2026-07-12T02:40:20Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3267,
-    "updatedAt": "2026-07-11T16:39:50Z",
+    "stargazerCount": 3269,
+    "updatedAt": "2026-07-11T22:46:02Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -164,8 +164,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2424,
-    "updatedAt": "2026-07-11T17:01:09Z",
+    "stargazerCount": 2425,
+    "updatedAt": "2026-07-11T23:07:36Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2416,
-    "updatedAt": "2026-07-11T18:20:51Z",
+    "stargazerCount": 2417,
+    "updatedAt": "2026-07-12T00:00:47Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V38",
@@ -252,8 +252,8 @@
     ],
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
-    "stargazerCount": 1865,
-    "updatedAt": "2026-07-11T06:47:58Z",
+    "stargazerCount": 1864,
+    "updatedAt": "2026-07-11T23:59:43Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1428,
-    "updatedAt": "2026-07-11T13:31:24Z",
+    "stargazerCount": 1430,
+    "updatedAt": "2026-07-12T01:21:21Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.0",
@@ -318,8 +318,8 @@
     ],
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
-    "stargazerCount": 1331,
-    "updatedAt": "2026-07-11T15:35:44Z",
+    "stargazerCount": 1332,
+    "updatedAt": "2026-07-11T23:07:48Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -327,28 +327,6 @@
       "time": "2026-06-25T03:14:03Z",
       "downloadUrl": "https://github.com/bindhosts/bindhosts/releases/download/v2.1.4/bindhosts.zip",
       "versionCode": 4
-    }
-  },
-  {
-    "moduleId": "Numbersf_Action-Build",
-    "moduleName": "Action-Build",
-    "authors": [
-      {
-        "name": "Numbersf",
-        "link": "https://github.com/Numbersf"
-      }
-    ],
-    "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
-    "metamodule": false,
-    "stargazerCount": 1273,
-    "updatedAt": "2026-07-11T10:55:21Z",
-    "createdAt": "2025-04-04T02:54:54Z",
-    "latestRelease": {
-      "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
-      "version": "40069",
-      "time": "2025-11-09T05:41:46Z",
-      "downloadUrl": "https://github.com/Numbersf/Action-Build/releases/download/40069/AnyKernel3_SukiSUUltra_40069_OnePlus10Pro_Android15.0.0.5.10.209._LSM_VFS.zip",
-      "versionCode": 209
     }
   },
   {
@@ -362,8 +340,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1271,
-    "updatedAt": "2026-07-11T15:24:47Z",
+    "stargazerCount": 1272,
+    "updatedAt": "2026-07-12T02:42:05Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260710",
@@ -371,6 +349,28 @@
       "time": "2026-07-10T10:47:18Z",
       "downloadUrl": "https://github.com/twoone-3/AdGuardHomeForRoot/releases/download/20260710/AdGuardHomeForRoot_arm64.zip",
       "versionCode": 64
+    }
+  },
+  {
+    "moduleId": "Numbersf_Action-Build",
+    "moduleName": "Action-Build",
+    "authors": [
+      {
+        "name": "Numbersf",
+        "link": "https://github.com/Numbersf"
+      }
+    ],
+    "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
+    "metamodule": false,
+    "stargazerCount": 1272,
+    "updatedAt": "2026-07-12T02:13:02Z",
+    "createdAt": "2025-04-04T02:54:54Z",
+    "latestRelease": {
+      "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
+      "version": "40069",
+      "time": "2025-11-09T05:41:46Z",
+      "downloadUrl": "https://github.com/Numbersf/Action-Build/releases/download/40069/AnyKernel3_SukiSUUltra_40069_OnePlus10Pro_Android15.0.0.5.10.209._LSM_VFS.zip",
+      "versionCode": 209
     }
   },
   {
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1178,
-    "updatedAt": "2026-07-11T15:24:44Z",
+    "stargazerCount": 1179,
+    "updatedAt": "2026-07-12T00:51:16Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -450,8 +450,8 @@
     ],
     "summary": "OnePlus Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 623,
-    "updatedAt": "2026-07-11T16:59:42Z",
+    "stargazerCount": 624,
+    "updatedAt": "2026-07-12T02:09:43Z",
     "createdAt": "2024-12-07T23:27:22Z",
     "latestRelease": {
       "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
@@ -538,8 +538,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 478,
-    "updatedAt": "2026-07-10T10:50:38Z",
+    "stargazerCount": 479,
+    "updatedAt": "2026-07-12T00:07:10Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -560,8 +560,8 @@
     ],
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
-    "stargazerCount": 459,
-    "updatedAt": "2026-07-11T13:26:12Z",
+    "stargazerCount": 460,
+    "updatedAt": "2026-07-11T20:11:36Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v1.1.1",
@@ -582,8 +582,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 436,
-    "updatedAt": "2026-07-10T21:01:22Z",
+    "stargazerCount": 438,
+    "updatedAt": "2026-07-12T01:28:02Z",
     "createdAt": "2025-12-30T05:59:35Z",
     "latestRelease": {
       "name": "Release v0.0.1",
@@ -670,8 +670,8 @@
     ],
     "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
     "metamodule": false,
-    "stargazerCount": 331,
-    "updatedAt": "2026-07-11T18:42:39Z",
+    "stargazerCount": 332,
+    "updatedAt": "2026-07-12T00:28:04Z",
     "createdAt": "2025-03-17T16:23:07Z",
     "latestRelease": {
       "name": "COPG v5.7.1",
@@ -846,8 +846,8 @@
     ],
     "summary": "A Magisk/KernelSU module trying to add native eSIM management support for Xiaomi devices with MIUI and Xiaomi HyperOS.",
     "metamodule": false,
-    "stargazerCount": 189,
-    "updatedAt": "2026-07-07T09:50:17Z",
+    "stargazerCount": 190,
+    "updatedAt": "2026-07-12T02:52:48Z",
     "createdAt": "2024-08-07T01:46:04Z",
     "latestRelease": {
       "name": "v4",
@@ -978,8 +978,8 @@
     ],
     "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
     "metamodule": false,
-    "stargazerCount": 120,
-    "updatedAt": "2026-07-11T17:08:06Z",
+    "stargazerCount": 122,
+    "updatedAt": "2026-07-12T00:10:15Z",
     "createdAt": "2026-06-27T00:51:25Z",
     "latestRelease": {
       "name": "v1.0.1",
@@ -1396,8 +1396,8 @@
     ],
     "summary": "⚡ Magisk Module to boost charging speed with smart tweaks.",
     "metamodule": false,
-    "stargazerCount": 34,
-    "updatedAt": "2026-07-09T01:34:33Z",
+    "stargazerCount": 35,
+    "updatedAt": "2026-07-11T19:24:53Z",
     "createdAt": "2025-08-16T09:57:50Z",
     "latestRelease": {
       "name": "Fastcharge-Next – Version 2.0.2",
@@ -1595,14 +1595,14 @@
     "summary": "GKI Kernel for Poco F7 / Redmi Turbo 4 Pro (Onyx), Poco F7 Pro, and Poco F7 Ultra",
     "metamodule": false,
     "stargazerCount": 17,
-    "updatedAt": "2026-07-10T07:19:46Z",
+    "updatedAt": "2026-07-12T01:43:48Z",
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
       "name": "Build 321dd3d52f41096d9974c9cdeb1ecc9139fae04f",
-      "version": "build-192-321dd3d52f41096d9974c9cdeb1ecc9139fae04f",
-      "time": "2026-07-10T20:50:14Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-192-321dd3d52f41096d9974c9cdeb1ecc9139fae04f/Kono-Ha-1.1-stock-balance-20260710-190651.zip",
-      "versionCode": 190651
+      "version": "build-193-321dd3d52f41096d9974c9cdeb1ecc9139fae04f",
+      "time": "2026-07-11T20:19:08Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-193-321dd3d52f41096d9974c9cdeb1ecc9139fae04f/Kono-Ha-1.1-stock-balance-20260711-185144.zip",
+      "versionCode": 185144
     }
   },
   {
@@ -1969,7 +1969,7 @@
     "summary": "Android DPI-bypass module for Magisk and KernelSU powered by nfqws2, nztg, iptables, CLI and WebUI.",
     "metamodule": false,
     "stargazerCount": 8,
-    "updatedAt": "2026-07-11T18:14:48Z",
+    "updatedAt": "2026-07-11T19:44:04Z",
     "createdAt": "2026-03-22T10:31:07Z",
     "latestRelease": {
       "name": "nzapret v3.1.0",
@@ -2021,6 +2021,28 @@
       "time": "2025-12-18T15:47:35Z",
       "downloadUrl": "https://github.com/barsikus007/ksu-webui-module-template/releases/download/v1.0.0/ksu-webui-module-template_v1.0.0.zip",
       "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "KernelSU-Modules-Repo_bindhosts",
+    "moduleName": "bindhosts",
+    "authors": [
+      {
+        "name": "KernelSU-Modules-Repo",
+        "link": "https://github.com/KernelSU-Modules-Repo"
+      }
+    ],
+    "summary": "bindhosts",
+    "metamodule": false,
+    "stargazerCount": 5,
+    "updatedAt": "2026-07-12T00:49:06Z",
+    "createdAt": "2025-11-30T13:02:18Z",
+    "latestRelease": {
+      "name": "v2.1.4",
+      "version": "v2.1.4",
+      "time": "2026-06-25T03:14:31Z",
+      "downloadUrl": "https://github.com/KernelSU-Modules-Repo/bindhosts/releases/download/v2.1.4/bindhosts-214-v2.1.4.zip",
+      "versionCode": 4
     }
   },
   {
