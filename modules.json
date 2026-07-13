@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17225,
-    "updatedAt": "2026-07-12T19:09:22Z",
+    "stargazerCount": 17229,
+    "updatedAt": "2026-07-13T03:34:04Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9920,
-    "updatedAt": "2026-07-12T13:32:23Z",
+    "stargazerCount": 9923,
+    "updatedAt": "2026-07-13T03:32:01Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3914,
-    "updatedAt": "2026-07-12T13:59:37Z",
+    "stargazerCount": 3916,
+    "updatedAt": "2026-07-13T03:11:49Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -77,7 +77,7 @@
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
     "stargazerCount": 3721,
-    "updatedAt": "2026-07-12T16:06:12Z",
+    "updatedAt": "2026-07-12T21:47:04Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3273,
-    "updatedAt": "2026-07-12T12:41:26Z",
+    "stargazerCount": 3274,
+    "updatedAt": "2026-07-13T01:31:33Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -120,8 +120,8 @@
     ],
     "summary": "A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.",
     "metamodule": false,
-    "stargazerCount": 2522,
-    "updatedAt": "2026-07-10T17:12:47Z",
+    "stargazerCount": 2520,
+    "updatedAt": "2026-07-12T21:46:48Z",
     "createdAt": "2024-03-03T18:20:02Z",
     "latestRelease": {
       "name": "v2.1.4",
@@ -142,8 +142,8 @@
     ],
     "summary": "A Magisk/KernelSU module that automatically adds user certificates to the system root CA store",
     "metamodule": false,
-    "stargazerCount": 2510,
-    "updatedAt": "2026-07-11T10:28:21Z",
+    "stargazerCount": 2509,
+    "updatedAt": "2026-07-12T21:41:50Z",
     "createdAt": "2017-12-15T15:22:28Z",
     "latestRelease": {
       "name": "v1.3",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2418,
-    "updatedAt": "2026-07-12T17:19:43Z",
+    "stargazerCount": 2419,
+    "updatedAt": "2026-07-12T21:13:32Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V38",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2081,
-    "updatedAt": "2026-07-11T16:31:17Z",
+    "stargazerCount": 2082,
+    "updatedAt": "2026-07-12T23:25:58Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -230,8 +230,8 @@
     ],
     "summary": "支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/kernelsu/APatch",
     "metamodule": false,
-    "stargazerCount": 1908,
-    "updatedAt": "2026-07-12T08:19:54Z",
+    "stargazerCount": 1907,
+    "updatedAt": "2026-07-12T21:45:04Z",
     "createdAt": "2022-10-09T18:07:36Z",
     "latestRelease": {
       "name": "v1.5.8",
@@ -274,8 +274,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1438,
-    "updatedAt": "2026-07-12T16:08:06Z",
+    "stargazerCount": 1439,
+    "updatedAt": "2026-07-13T01:35:00Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.0",
@@ -296,8 +296,8 @@
     ],
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
-    "stargazerCount": 1333,
-    "updatedAt": "2026-07-12T06:59:53Z",
+    "stargazerCount": 1332,
+    "updatedAt": "2026-07-12T21:46:44Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -362,8 +362,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1182,
-    "updatedAt": "2026-07-12T14:58:20Z",
+    "stargazerCount": 1183,
+    "updatedAt": "2026-07-13T01:39:45Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -472,8 +472,8 @@
     ],
     "summary": "A Magisk/KernelSU/Apatch module to fix VBMeta detections on Android",
     "metamodule": false,
-    "stargazerCount": 518,
-    "updatedAt": "2026-07-08T01:32:17Z",
+    "stargazerCount": 517,
+    "updatedAt": "2026-07-12T21:47:22Z",
     "createdAt": "2024-10-29T14:33:58Z",
     "latestRelease": {
       "name": "Release v1.2.0",
@@ -494,8 +494,8 @@
     ],
     "summary": "Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way to use WireGuard and 2FA.",
     "metamodule": false,
-    "stargazerCount": 484,
-    "updatedAt": "2026-07-12T14:51:23Z",
+    "stargazerCount": 485,
+    "updatedAt": "2026-07-13T03:13:45Z",
     "createdAt": "2023-12-13T20:02:49Z",
     "latestRelease": {
       "name": "Magisk Tailscaled v2.0.0.1",
@@ -626,8 +626,8 @@
     ],
     "summary": "A Magisk/KernelSU/APatch module to modify framework.jar directly on the phone, to build a valid system-level certificate chain.",
     "metamodule": false,
-    "stargazerCount": 371,
-    "updatedAt": "2026-07-08T14:50:37Z",
+    "stargazerCount": 370,
+    "updatedAt": "2026-07-12T21:47:01Z",
     "createdAt": "2024-05-30T06:21:07Z",
     "latestRelease": {
       "name": "v1.2.2",
@@ -648,8 +648,8 @@
     ],
     "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
     "metamodule": false,
-    "stargazerCount": 333,
-    "updatedAt": "2026-07-12T09:40:48Z",
+    "stargazerCount": 332,
+    "updatedAt": "2026-07-12T21:47:38Z",
     "createdAt": "2025-03-17T16:23:07Z",
     "latestRelease": {
       "name": "COPG v5.7.1",
@@ -670,8 +670,8 @@
     ],
     "summary": "Device Performance Optimizer — Aims To Provide An Optimal Experience At Every Usage Scenario",
     "metamodule": false,
-    "stargazerCount": 309,
-    "updatedAt": "2026-06-25T17:24:41Z",
+    "stargazerCount": 310,
+    "updatedAt": "2026-07-13T02:50:31Z",
     "createdAt": "2019-08-18T12:50:20Z",
     "latestRelease": {
       "name": "MAGNETAR+ 19.6.0 (YANKEE)",
@@ -692,8 +692,8 @@
     ],
     "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
     "metamodule": false,
-    "stargazerCount": 292,
-    "updatedAt": "2026-07-10T00:21:27Z",
+    "stargazerCount": 293,
+    "updatedAt": "2026-07-13T03:10:31Z",
     "createdAt": "2025-12-20T02:37:31Z",
     "latestRelease": {
       "name": "BRENE v0.0.54",
@@ -748,28 +748,6 @@
     }
   },
   {
-    "moduleId": "chisewaguri_systemapp_nuker",
-    "moduleName": "systemapp_nuker",
-    "authors": [
-      {
-        "name": "chisewaguri",
-        "link": "https://github.com/chisewaguri"
-      }
-    ],
-    "summary": "A KernelSU module to debloat system apps with WebUI Interface",
-    "metamodule": false,
-    "stargazerCount": 240,
-    "updatedAt": "2026-07-10T14:11:29Z",
-    "createdAt": "2025-03-07T08:51:25Z",
-    "latestRelease": {
-      "name": "v2.0.0",
-      "version": "v2.0.0",
-      "time": "2026-07-07T14:14:57Z",
-      "downloadUrl": "https://github.com/chisewaguri/systemapp_nuker/releases/download/v2.0.0/SAN_v2.0.0.zip",
-      "versionCode": 0
-    }
-  },
-  {
     "moduleId": "peternmuller_revanced-morphe-builder",
     "moduleName": "revanced-morphe-builder",
     "authors": [
@@ -780,8 +758,8 @@
     ],
     "summary": "An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.",
     "metamodule": false,
-    "stargazerCount": 240,
-    "updatedAt": "2026-07-10T12:57:42Z",
+    "stargazerCount": 241,
+    "updatedAt": "2026-07-12T22:30:15Z",
     "createdAt": "2024-07-16T23:47:19Z",
     "latestRelease": {
       "name": "Release",
@@ -789,6 +767,28 @@
       "time": "2026-07-10T08:21:33Z",
       "downloadUrl": "https://github.com/peternmuller/revanced-morphe-builder/releases/download/150/youtube-morphe-module-v20.51.39-all.zip",
       "versionCode": 39
+    }
+  },
+  {
+    "moduleId": "chisewaguri_systemapp_nuker",
+    "moduleName": "systemapp_nuker",
+    "authors": [
+      {
+        "name": "chisewaguri",
+        "link": "https://github.com/chisewaguri"
+      }
+    ],
+    "summary": "A KernelSU module to debloat system apps with WebUI Interface",
+    "metamodule": false,
+    "stargazerCount": 239,
+    "updatedAt": "2026-07-12T21:47:37Z",
+    "createdAt": "2025-03-07T08:51:25Z",
+    "latestRelease": {
+      "name": "v2.0.0",
+      "version": "v2.0.0",
+      "time": "2026-07-07T14:14:57Z",
+      "downloadUrl": "https://github.com/chisewaguri/systemapp_nuker/releases/download/v2.0.0/SAN_v2.0.0.zip",
+      "versionCode": 0
     }
   },
   {
@@ -824,8 +824,8 @@
     ],
     "summary": "A Magisk/KernelSU module trying to add native eSIM management support for Xiaomi devices with MIUI and Xiaomi HyperOS.",
     "metamodule": false,
-    "stargazerCount": 190,
-    "updatedAt": "2026-07-12T02:52:48Z",
+    "stargazerCount": 191,
+    "updatedAt": "2026-07-12T23:26:45Z",
     "createdAt": "2024-08-07T01:46:04Z",
     "latestRelease": {
       "name": "v4",
@@ -891,14 +891,14 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 160,
-    "updatedAt": "2026-07-12T17:32:43Z",
+    "updatedAt": "2026-07-12T22:47:46Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260037",
-      "version": "260037",
-      "time": "2026-07-12T07:18:40Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260037/plutotv-morphe-androidtv-v5.66.0-leanback-all.apk",
-      "versionCode": 5000
+      "name": "Build No. 260040",
+      "version": "260040",
+      "time": "2026-07-12T22:48:23Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260040/adguard-morphe-nightly-module-v4.14.68-arm-v7a.zip",
+      "versionCode": 7
     }
   },
   {
@@ -956,8 +956,8 @@
     ],
     "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
     "metamodule": false,
-    "stargazerCount": 128,
-    "updatedAt": "2026-07-12T18:10:49Z",
+    "stargazerCount": 130,
+    "updatedAt": "2026-07-13T03:30:26Z",
     "createdAt": "2026-06-27T00:51:25Z",
     "latestRelease": {
       "name": "v1.0.1",
@@ -978,8 +978,8 @@
     ],
     "summary": "RMM Python+rust 混合 项目。Magisk/Apatch/Kernelsu模块开发，构建，测试，发布全流程 。CLI 程序",
     "metamodule": false,
-    "stargazerCount": 117,
-    "updatedAt": "2026-06-03T12:22:34Z",
+    "stargazerCount": 116,
+    "updatedAt": "2026-07-12T21:18:40Z",
     "createdAt": "2024-08-18T09:26:36Z",
     "latestRelease": {
       "name": "v3",
@@ -1374,8 +1374,8 @@
     ],
     "summary": "⚡ Magisk Module to boost charging speed with smart tweaks.",
     "metamodule": false,
-    "stargazerCount": 35,
-    "updatedAt": "2026-07-12T07:17:42Z",
+    "stargazerCount": 36,
+    "updatedAt": "2026-07-12T22:49:08Z",
     "createdAt": "2025-08-16T09:57:50Z",
     "latestRelease": {
       "name": "Fastcharge-Next – Version 2.0.2",
@@ -1396,8 +1396,8 @@
     ],
     "summary": "Samsung Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 33,
-    "updatedAt": "2026-07-12T19:04:32Z",
+    "stargazerCount": 34,
+    "updatedAt": "2026-07-13T01:03:16Z",
     "createdAt": "2025-08-09T06:08:05Z",
     "latestRelease": {
       "name": "Samsung GKI Kernels With KSUN v3.2.0 & SUSFS v2.2.0",
@@ -1577,10 +1577,10 @@
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
       "name": "Build 8c3257c27e05140a70d2041e4949d200fb864788",
-      "version": "build-194-8c3257c27e05140a70d2041e4949d200fb864788",
-      "time": "2026-07-12T04:27:11Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-194-8c3257c27e05140a70d2041e4949d200fb864788/Kono-Ha-1.1-stock-balance-20260712-033932.zip",
-      "versionCode": 33932
+      "version": "build-195-8c3257c27e05140a70d2041e4949d200fb864788",
+      "time": "2026-07-12T20:24:27Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-195-8c3257c27e05140a70d2041e4949d200fb864788/Kono-Ha-1.1-stock-balance-20260712-190155.zip",
+      "versionCode": 190155
     }
   },
   {
@@ -1771,7 +1771,7 @@
     "summary": "ReVanced Extended (anddea) YouTube and YouTube Music builder. Suitable for both root and non-root users",
     "metamodule": false,
     "stargazerCount": 11,
-    "updatedAt": "2026-07-01T20:51:40Z",
+    "updatedAt": "2026-07-13T01:20:36Z",
     "createdAt": "2025-12-11T02:41:30Z",
     "latestRelease": {
       "name": "Build No. 32",
