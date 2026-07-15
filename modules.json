@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17273,
-    "updatedAt": "2026-07-15T13:36:48Z",
+    "stargazerCount": 17277,
+    "updatedAt": "2026-07-15T15:40:48Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9946,
-    "updatedAt": "2026-07-15T11:03:01Z",
+    "stargazerCount": 9947,
+    "updatedAt": "2026-07-15T15:08:54Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.2",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3936,
-    "updatedAt": "2026-07-15T13:05:37Z",
+    "stargazerCount": 3938,
+    "updatedAt": "2026-07-15T18:11:23Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3725,
-    "updatedAt": "2026-07-15T06:26:48Z",
+    "stargazerCount": 3727,
+    "updatedAt": "2026-07-15T16:48:17Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -142,8 +142,8 @@
     ],
     "summary": "A Magisk/KernelSU module that automatically adds user certificates to the system root CA store",
     "metamodule": false,
-    "stargazerCount": 2511,
-    "updatedAt": "2026-07-14T15:26:04Z",
+    "stargazerCount": 2512,
+    "updatedAt": "2026-07-15T16:37:26Z",
     "createdAt": "2017-12-15T15:22:28Z",
     "latestRelease": {
       "name": "v1.3",
@@ -187,7 +187,7 @@
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
     "stargazerCount": 2432,
-    "updatedAt": "2026-07-15T06:45:48Z",
+    "updatedAt": "2026-07-15T18:04:24Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V38",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2083,
-    "updatedAt": "2026-07-15T08:36:32Z",
+    "stargazerCount": 2084,
+    "updatedAt": "2026-07-15T18:16:44Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -274,8 +274,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1466,
-    "updatedAt": "2026-07-15T11:40:19Z",
+    "stargazerCount": 1468,
+    "updatedAt": "2026-07-15T18:03:29Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1451,
-    "updatedAt": "2026-07-15T12:56:27Z",
+    "stargazerCount": 1452,
+    "updatedAt": "2026-07-15T16:55:32Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.0",
@@ -330,6 +330,28 @@
     }
   },
   {
+    "moduleId": "Numbersf_Action-Build",
+    "moduleName": "Action-Build",
+    "authors": [
+      {
+        "name": "Numbersf",
+        "link": "https://github.com/Numbersf"
+      }
+    ],
+    "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
+    "metamodule": false,
+    "stargazerCount": 1278,
+    "updatedAt": "2026-07-15T16:37:19Z",
+    "createdAt": "2025-04-04T02:54:54Z",
+    "latestRelease": {
+      "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
+      "version": "40069",
+      "time": "2025-11-09T05:41:46Z",
+      "downloadUrl": "https://github.com/Numbersf/Action-Build/releases/download/40069/AnyKernel3_SukiSUUltra_40069_OnePlus10Pro_Android15.0.0.5.10.209._LSM_VFS.zip",
+      "versionCode": 209
+    }
+  },
+  {
     "moduleId": "twoone-3_AdGuardHomeForRoot",
     "moduleName": "AdGuardHomeForRoot",
     "authors": [
@@ -341,7 +363,7 @@
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
     "stargazerCount": 1277,
-    "updatedAt": "2026-07-15T13:04:15Z",
+    "updatedAt": "2026-07-15T15:28:00Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260710",
@@ -349,28 +371,6 @@
       "time": "2026-07-10T10:47:18Z",
       "downloadUrl": "https://github.com/twoone-3/AdGuardHomeForRoot/releases/download/20260710/AdGuardHomeForRoot_arm64.zip",
       "versionCode": 64
-    }
-  },
-  {
-    "moduleId": "Numbersf_Action-Build",
-    "moduleName": "Action-Build",
-    "authors": [
-      {
-        "name": "Numbersf",
-        "link": "https://github.com/Numbersf"
-      }
-    ],
-    "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
-    "metamodule": false,
-    "stargazerCount": 1277,
-    "updatedAt": "2026-07-15T08:51:35Z",
-    "createdAt": "2025-04-04T02:54:54Z",
-    "latestRelease": {
-      "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
-      "version": "40069",
-      "time": "2025-11-09T05:41:46Z",
-      "downloadUrl": "https://github.com/Numbersf/Action-Build/releases/download/40069/AnyKernel3_SukiSUUltra_40069_OnePlus10Pro_Android15.0.0.5.10.209._LSM_VFS.zip",
-      "versionCode": 209
     }
   },
   {
@@ -450,8 +450,8 @@
     ],
     "summary": "OnePlus Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 625,
-    "updatedAt": "2026-07-14T13:01:11Z",
+    "stargazerCount": 627,
+    "updatedAt": "2026-07-15T15:41:02Z",
     "createdAt": "2024-12-07T23:27:22Z",
     "latestRelease": {
       "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
@@ -913,13 +913,13 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 162,
-    "updatedAt": "2026-07-15T10:25:11Z",
+    "updatedAt": "2026-07-15T18:39:08Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260050",
-      "version": "260050",
-      "time": "2026-07-15T10:25:51Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260050/google-photos-morphe-module-v7.84.0.947289513-arm-v7a.zip",
+      "name": "Build No. 260053",
+      "version": "260053",
+      "time": "2026-07-15T18:40:11Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260053/adguard-morphe-module-v4.12.81-arm-v7a.zip",
       "versionCode": 7
     }
   },
@@ -934,8 +934,8 @@
     ],
     "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
     "metamodule": false,
-    "stargazerCount": 143,
-    "updatedAt": "2026-07-15T11:02:09Z",
+    "stargazerCount": 145,
+    "updatedAt": "2026-07-15T15:00:46Z",
     "createdAt": "2026-06-27T00:51:25Z",
     "latestRelease": {
       "name": "v1.0.2",
@@ -956,8 +956,8 @@
     ],
     "summary": "A Magisk/KernelSU module to change tcp congestion algorithm based on current active internet type and some network enhancements.",
     "metamodule": false,
-    "stargazerCount": 136,
-    "updatedAt": "2026-07-09T19:47:28Z",
+    "stargazerCount": 137,
+    "updatedAt": "2026-07-15T18:50:15Z",
     "createdAt": "2025-05-09T17:07:07Z",
     "latestRelease": {
       "name": "2.5",
@@ -1374,8 +1374,8 @@
     ],
     "summary": "GKID feature-rich GKI kernel (6.1-android14) for Poco X6 Pro (duchamp) & other compatible Android devices - KernelSU/KernelSU Next/SukiSU Ultra/Wild KSU variants, SUSFS hiding, Baseband Guard (BBG), 3",
     "metamodule": false,
-    "stargazerCount": 46,
-    "updatedAt": "2026-07-08T21:16:59Z",
+    "stargazerCount": 47,
+    "updatedAt": "2026-07-15T16:19:56Z",
     "createdAt": "2026-02-23T20:20:57Z",
     "latestRelease": {
       "name": "GKID v26.07.15-r424",
@@ -1933,6 +1933,28 @@
       "time": "2025-05-30T14:21:33Z",
       "downloadUrl": "https://github.com/Edhic1/kernel_KSu_Next_Lancelot/releases/download/build-202505301404/AnyKernel3-KernelSU_10357-lancelot-202505301404.zip",
       "versionCode": 202505301404
+    }
+  },
+  {
+    "moduleId": "mgiganto_msg-GrapheneOS",
+    "moduleName": "msg-GrapheneOS",
+    "authors": [
+      {
+        "name": "mgiganto",
+        "link": "https://github.com/mgiganto"
+      }
+    ],
+    "summary": "Grapheneos variants with otas by custota. Clean, customized and rooted variants. You can switch version without wipe. Custom version includes changes like a WIP apps isolation. Rooted version includes",
+    "metamodule": false,
+    "stargazerCount": 8,
+    "updatedAt": "2026-07-13T13:45:39Z",
+    "createdAt": "2026-04-04T13:35:41Z",
+    "latestRelease": {
+      "name": "GrapheneOS 2026071100",
+      "version": "2026071100",
+      "time": "2026-07-12T17:51:30Z",
+      "downloadUrl": "https://github.com/mgiganto/msg-GrapheneOS/releases/download/2026071100/akita-factory-2026071100-user-clean.zip",
+      "versionCode": 2026071100
     }
   },
   {
