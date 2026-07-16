@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17284,
-    "updatedAt": "2026-07-16T06:04:19Z",
+    "stargazerCount": 17285,
+    "updatedAt": "2026-07-16T13:51:36Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,15 +32,15 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9953,
-    "updatedAt": "2026-07-16T06:59:42Z",
+    "stargazerCount": 9954,
+    "updatedAt": "2026-07-16T13:51:41Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
-      "name": "1.4.2",
-      "version": "v1.4.2",
-      "time": "2026-06-22T13:19:32Z",
-      "downloadUrl": "https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.2/Zygisk-Next-1.4.2-789-119aaa0-release.zip",
-      "versionCode": 2
+      "name": "1.4.3",
+      "version": "v1.4.3",
+      "time": "2026-07-16T11:51:19Z",
+      "downloadUrl": "https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.4.3/Zygisk-Next-1.4.3-817-e815170-release.zip",
+      "versionCode": 815170
     }
   },
   {
@@ -55,7 +55,7 @@
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
     "stargazerCount": 3940,
-    "updatedAt": "2026-07-16T01:16:01Z",
+    "updatedAt": "2026-07-16T13:49:23Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -165,7 +165,7 @@
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
     "stargazerCount": 2434,
-    "updatedAt": "2026-07-15T08:13:08Z",
+    "updatedAt": "2026-07-16T12:58:13Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -186,8 +186,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2432,
-    "updatedAt": "2026-07-15T18:04:24Z",
+    "stargazerCount": 2434,
+    "updatedAt": "2026-07-16T12:24:51Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V38",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2086,
-    "updatedAt": "2026-07-16T06:53:40Z",
+    "stargazerCount": 2087,
+    "updatedAt": "2026-07-16T13:34:31Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -274,8 +274,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1469,
-    "updatedAt": "2026-07-16T03:44:11Z",
+    "stargazerCount": 1471,
+    "updatedAt": "2026-07-16T10:45:56Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1460,
-    "updatedAt": "2026-07-16T08:16:26Z",
+    "stargazerCount": 1461,
+    "updatedAt": "2026-07-16T09:16:32Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.0",
@@ -330,6 +330,28 @@
     }
   },
   {
+    "moduleId": "twoone-3_AdGuardHomeForRoot",
+    "moduleName": "AdGuardHomeForRoot",
+    "authors": [
+      {
+        "name": "twoone-3",
+        "link": "https://github.com/twoone-3"
+      }
+    ],
+    "summary": "A module to easily execute AdGuardHome on Android",
+    "metamodule": false,
+    "stargazerCount": 1280,
+    "updatedAt": "2026-07-16T12:36:48Z",
+    "createdAt": "2023-11-22T14:48:00Z",
+    "latestRelease": {
+      "name": "20260710",
+      "version": "20260710",
+      "time": "2026-07-10T10:47:18Z",
+      "downloadUrl": "https://github.com/twoone-3/AdGuardHomeForRoot/releases/download/20260710/AdGuardHomeForRoot_arm64.zip",
+      "versionCode": 64
+    }
+  },
+  {
     "moduleId": "Numbersf_Action-Build",
     "moduleName": "Action-Build",
     "authors": [
@@ -352,28 +374,6 @@
     }
   },
   {
-    "moduleId": "twoone-3_AdGuardHomeForRoot",
-    "moduleName": "AdGuardHomeForRoot",
-    "authors": [
-      {
-        "name": "twoone-3",
-        "link": "https://github.com/twoone-3"
-      }
-    ],
-    "summary": "A module to easily execute AdGuardHome on Android",
-    "metamodule": false,
-    "stargazerCount": 1278,
-    "updatedAt": "2026-07-15T23:51:36Z",
-    "createdAt": "2023-11-22T14:48:00Z",
-    "latestRelease": {
-      "name": "20260710",
-      "version": "20260710",
-      "time": "2026-07-10T10:47:18Z",
-      "downloadUrl": "https://github.com/twoone-3/AdGuardHomeForRoot/releases/download/20260710/AdGuardHomeForRoot_arm64.zip",
-      "versionCode": 64
-    }
-  },
-  {
     "moduleId": "backslashxx_mountify",
     "moduleName": "mountify",
     "authors": [
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1188,
-    "updatedAt": "2026-07-16T02:32:41Z",
+    "stargazerCount": 1190,
+    "updatedAt": "2026-07-16T12:54:07Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -494,8 +494,8 @@
     ],
     "summary": "A Magisk/KernelSU/Apatch module to fix VBMeta detections on Android",
     "metamodule": false,
-    "stargazerCount": 518,
-    "updatedAt": "2026-07-16T03:49:17Z",
+    "stargazerCount": 517,
+    "updatedAt": "2026-07-16T11:12:18Z",
     "createdAt": "2024-10-29T14:33:58Z",
     "latestRelease": {
       "name": "Release v1.2.0",
@@ -538,8 +538,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 483,
-    "updatedAt": "2026-07-14T12:05:21Z",
+    "stargazerCount": 484,
+    "updatedAt": "2026-07-16T08:33:32Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -780,15 +780,15 @@
     ],
     "summary": "An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.",
     "metamodule": false,
-    "stargazerCount": 244,
-    "updatedAt": "2026-07-16T05:57:34Z",
+    "stargazerCount": 247,
+    "updatedAt": "2026-07-16T10:58:24Z",
     "createdAt": "2024-07-16T23:47:19Z",
     "latestRelease": {
       "name": "Release",
-      "version": "150",
-      "time": "2026-07-10T08:21:33Z",
-      "downloadUrl": "https://github.com/peternmuller/revanced-morphe-builder/releases/download/150/youtube-morphe-module-v20.51.39-all.zip",
-      "versionCode": 39
+      "version": "151",
+      "time": "2026-07-16T11:03:58Z",
+      "downloadUrl": "https://github.com/peternmuller/revanced-morphe-builder/releases/download/151/youtube-morphe-module-v21.04.223-all.zip",
+      "versionCode": 223
     }
   },
   {
@@ -913,13 +913,13 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 164,
-    "updatedAt": "2026-07-16T06:37:24Z",
+    "updatedAt": "2026-07-16T11:48:32Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260053",
-      "version": "260053",
-      "time": "2026-07-15T18:40:11Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260053/adguard-morphe-module-v4.12.81-arm-v7a.zip",
+      "name": "Build No. 260054",
+      "version": "260054",
+      "time": "2026-07-16T11:49:28Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260054/adguard-morphe-nightly-module-v4.14.68-arm-v7a.zip",
       "versionCode": 7
     }
   },
@@ -934,8 +934,8 @@
     ],
     "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
     "metamodule": false,
-    "stargazerCount": 151,
-    "updatedAt": "2026-07-16T07:29:27Z",
+    "stargazerCount": 152,
+    "updatedAt": "2026-07-16T09:16:12Z",
     "createdAt": "2026-06-27T00:51:25Z",
     "latestRelease": {
       "name": "v1.0.2",
@@ -1704,8 +1704,8 @@
     ],
     "summary": "构建小米10/Pro KernelSU Next SUSFS 内核",
     "metamodule": false,
-    "stargazerCount": 13,
-    "updatedAt": "2026-05-16T12:19:35Z",
+    "stargazerCount": 14,
+    "updatedAt": "2026-07-16T09:03:56Z",
     "createdAt": "2025-02-21T23:35:57Z",
     "latestRelease": {
       "name": "v4.0.1",
@@ -1815,13 +1815,13 @@
     "summary": "ReVanced builder.",
     "metamodule": false,
     "stargazerCount": 11,
-    "updatedAt": "2026-07-12T08:47:28Z",
+    "updatedAt": "2026-07-16T13:00:27Z",
     "createdAt": "2024-08-31T09:54:04Z",
     "latestRelease": {
       "name": "YouTube ReVanced Zygisk",
-      "version": "34",
-      "time": "2026-07-10T11:56:27Z",
-      "downloadUrl": "https://github.com/hxreborn/revanced-magisk-module/releases/download/34/youtube-revanced-zygisk-module-v20.51.39-arm64-v8a.zip",
+      "version": "35",
+      "time": "2026-07-16T13:02:33Z",
+      "downloadUrl": "https://github.com/hxreborn/revanced-magisk-module/releases/download/35/youtube-revanced-zygisk-module-v21.04.223-arm64-v8a.zip",
       "versionCode": 8
     }
   },
@@ -1972,10 +1972,10 @@
     "updatedAt": "2026-07-13T13:45:39Z",
     "createdAt": "2026-04-04T13:35:41Z",
     "latestRelease": {
-      "name": "GrapheneOS 2026071100",
-      "version": "2026071100",
-      "time": "2026-07-12T17:51:30Z",
-      "downloadUrl": "https://github.com/mgiganto/msg-GrapheneOS/releases/download/2026071100/akita-factory-2026071100-user-clean.zip",
+      "name": "AppsScopes MOD 2026071100",
+      "version": "2026071101",
+      "time": "2026-07-16T11:34:17Z",
+      "downloadUrl": "https://github.com/mgiganto/msg-GrapheneOS/releases/download/2026071101/AppsScopes_mod-mustang-2026071100.zip",
       "versionCode": 2026071100
     }
   },
