@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17290,
-    "updatedAt": "2026-07-17T01:18:37Z",
+    "stargazerCount": 17294,
+    "updatedAt": "2026-07-17T08:18:42Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9962,
-    "updatedAt": "2026-07-17T01:35:45Z",
+    "stargazerCount": 9966,
+    "updatedAt": "2026-07-17T07:08:18Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.3",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3940,
-    "updatedAt": "2026-07-16T23:05:49Z",
+    "stargazerCount": 3941,
+    "updatedAt": "2026-07-17T08:15:49Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3288,
-    "updatedAt": "2026-07-16T05:40:05Z",
+    "stargazerCount": 3289,
+    "updatedAt": "2026-07-17T04:30:15Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -120,8 +120,8 @@
     ],
     "summary": "A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.",
     "metamodule": false,
-    "stargazerCount": 2521,
-    "updatedAt": "2026-07-16T02:24:41Z",
+    "stargazerCount": 2520,
+    "updatedAt": "2026-07-17T04:21:09Z",
     "createdAt": "2024-03-03T18:20:02Z",
     "latestRelease": {
       "name": "v2.1.4",
@@ -142,8 +142,8 @@
     ],
     "summary": "A Magisk/KernelSU module that automatically adds user certificates to the system root CA store",
     "metamodule": false,
-    "stargazerCount": 2513,
-    "updatedAt": "2026-07-16T01:51:54Z",
+    "stargazerCount": 2514,
+    "updatedAt": "2026-07-17T08:09:03Z",
     "createdAt": "2017-12-15T15:22:28Z",
     "latestRelease": {
       "name": "v1.3",
@@ -165,7 +165,7 @@
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
     "stargazerCount": 2438,
-    "updatedAt": "2026-07-17T00:10:28Z",
+    "updatedAt": "2026-07-17T05:53:33Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -186,14 +186,14 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2435,
-    "updatedAt": "2026-07-17T03:14:03Z",
+    "stargazerCount": 2437,
+    "updatedAt": "2026-07-17T06:57:53Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
-      "name": "V38",
-      "version": "v38",
-      "time": "2026-07-07T17:42:15Z",
-      "downloadUrl": "https://github.com/MeowDump/Integrity-Box/releases/download/v38/v38-Integrity-Box-07-07-2026.zip",
+      "name": "V39",
+      "version": "v39",
+      "time": "2026-07-17T05:20:14Z",
+      "downloadUrl": "https://github.com/MeowDump/Integrity-Box/releases/download/v39/v39-Integrity-Box-17-07-2026.zip",
       "versionCode": 2026
     }
   },
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2088,
-    "updatedAt": "2026-07-16T15:59:46Z",
+    "stargazerCount": 2089,
+    "updatedAt": "2026-07-17T03:45:45Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -252,8 +252,8 @@
     ],
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
-    "stargazerCount": 1865,
-    "updatedAt": "2026-07-15T21:57:41Z",
+    "stargazerCount": 1866,
+    "updatedAt": "2026-07-17T06:06:39Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -296,15 +296,15 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1463,
-    "updatedAt": "2026-07-17T02:10:40Z",
+    "stargazerCount": 1465,
+    "updatedAt": "2026-07-17T06:46:27Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
-      "name": "Droidspaces v6.4.0",
-      "version": "v6.4.0",
-      "time": "2026-07-04T13:38:45Z",
-      "downloadUrl": "https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.4.0/Droidspaces-universal-v6.4.0-7612af0.apk",
-      "versionCode": 64
+      "name": "Droidspaces v6.4.5",
+      "version": "v6.4.5",
+      "time": "2026-07-17T06:26:17Z",
+      "downloadUrl": "https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.4.5/Droidspaces-universal-v6.4.5-1890424.apk",
+      "versionCode": 1890424
     }
   },
   {
@@ -318,8 +318,8 @@
     ],
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
-    "stargazerCount": 1334,
-    "updatedAt": "2026-07-16T04:43:54Z",
+    "stargazerCount": 1335,
+    "updatedAt": "2026-07-17T06:41:04Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -340,8 +340,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1281,
-    "updatedAt": "2026-07-16T15:45:07Z",
+    "stargazerCount": 1282,
+    "updatedAt": "2026-07-17T07:44:16Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260710",
@@ -363,7 +363,7 @@
     "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
     "metamodule": false,
     "stargazerCount": 1280,
-    "updatedAt": "2026-07-16T18:35:13Z",
+    "updatedAt": "2026-07-17T03:51:31Z",
     "createdAt": "2025-04-04T02:54:54Z",
     "latestRelease": {
       "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1190,
-    "updatedAt": "2026-07-16T12:54:07Z",
+    "stargazerCount": 1191,
+    "updatedAt": "2026-07-17T05:46:10Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -406,8 +406,8 @@
     ],
     "summary": "A modules manager for Magisk, KernelSU and APatch",
     "metamodule": false,
-    "stargazerCount": 1119,
-    "updatedAt": "2026-07-05T13:29:11Z",
+    "stargazerCount": 1118,
+    "updatedAt": "2026-07-17T04:30:26Z",
     "createdAt": "2022-10-14T10:39:04Z",
     "latestRelease": {
       "name": "v2.5.0",
@@ -538,8 +538,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 484,
-    "updatedAt": "2026-07-16T08:33:32Z",
+    "stargazerCount": 485,
+    "updatedAt": "2026-07-17T07:13:30Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -670,8 +670,8 @@
     ],
     "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
     "metamodule": false,
-    "stargazerCount": 334,
-    "updatedAt": "2026-07-17T01:48:57Z",
+    "stargazerCount": 335,
+    "updatedAt": "2026-07-17T07:43:08Z",
     "createdAt": "2025-03-17T16:23:07Z",
     "latestRelease": {
       "name": "COPG v5.8.0",
@@ -692,8 +692,8 @@
     ],
     "summary": "Device Performance Optimizer — Aims To Provide An Optimal Experience At Every Usage Scenario",
     "metamodule": false,
-    "stargazerCount": 310,
-    "updatedAt": "2026-07-13T02:50:31Z",
+    "stargazerCount": 309,
+    "updatedAt": "2026-07-17T04:29:22Z",
     "createdAt": "2019-08-18T12:50:20Z",
     "latestRelease": {
       "name": "MAGNETAR+ 19.6.0 (YANKEE)",
@@ -758,8 +758,8 @@
     ],
     "summary": "Build the (Re)SukiSU kernel for OnePlus/Realme",
     "metamodule": false,
-    "stargazerCount": 281,
-    "updatedAt": "2026-07-14T13:32:08Z",
+    "stargazerCount": 280,
+    "updatedAt": "2026-07-17T07:48:49Z",
     "createdAt": "2025-05-24T13:43:26Z",
     "latestRelease": {
       "name": "SM8750 oneplus_ace5_pro Kernel Build - 2026-06-13 17:48:35",
@@ -802,8 +802,8 @@
     ],
     "summary": "A KernelSU module to debloat system apps with WebUI Interface",
     "metamodule": false,
-    "stargazerCount": 239,
-    "updatedAt": "2026-07-17T01:47:03Z",
+    "stargazerCount": 240,
+    "updatedAt": "2026-07-17T05:56:17Z",
     "createdAt": "2025-03-07T08:51:25Z",
     "latestRelease": {
       "name": "v2.0.0",
@@ -913,14 +913,14 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 164,
-    "updatedAt": "2026-07-16T21:29:16Z",
+    "updatedAt": "2026-07-17T03:53:12Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260055",
-      "version": "260055",
-      "time": "2026-07-16T14:32:07Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260055/hbomax-morphe-androidtv-v7.5.1.2-all.apk",
-      "versionCode": 2
+      "name": "Build No. 260057",
+      "version": "260057",
+      "time": "2026-07-17T03:53:44Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260057/google-photos-morphe-module-v7.84.0.948508402-arm-v7a.zip",
+      "versionCode": 7
     }
   },
   {
@@ -934,14 +934,36 @@
     ],
     "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
     "metamodule": false,
-    "stargazerCount": 154,
-    "updatedAt": "2026-07-16T22:19:19Z",
+    "stargazerCount": 155,
+    "updatedAt": "2026-07-17T06:25:29Z",
     "createdAt": "2026-06-27T00:51:25Z",
     "latestRelease": {
       "name": "v1.0.2",
       "version": "v1.0.2",
       "time": "2026-07-14T10:42:53Z",
       "downloadUrl": "https://github.com/evoker0/AlwaysStrong/releases/download/v1.0.2/AlwaysStrong-v1.0.2.zip",
+      "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "KernelSU-Next_KPatch-Next",
+    "moduleName": "KPatch-Next",
+    "authors": [
+      {
+        "name": "KernelSU-Next",
+        "link": "https://github.com/KernelSU-Next"
+      }
+    ],
+    "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
+    "metamodule": false,
+    "stargazerCount": 137,
+    "updatedAt": "2026-07-17T07:25:39Z",
+    "createdAt": "2025-12-29T23:02:41Z",
+    "latestRelease": {
+      "name": "0.13.5-2",
+      "version": "0.13.5-2",
+      "time": "2026-01-20T16:00:31Z",
+      "downloadUrl": "https://github.com/KernelSU-Next/KPatch-Next/releases/download/0.13.5-2/kpuser.zip",
       "versionCode": 2
     }
   },
@@ -965,28 +987,6 @@
       "time": "2026-07-01T06:22:38Z",
       "downloadUrl": "https://github.com/fatalcoder524/TCP_Optimiser_Module/releases/download/v2.5/TCP_Optimiser-2.5-17.zip",
       "versionCode": 17
-    }
-  },
-  {
-    "moduleId": "KernelSU-Next_KPatch-Next",
-    "moduleName": "KPatch-Next",
-    "authors": [
-      {
-        "name": "KernelSU-Next",
-        "link": "https://github.com/KernelSU-Next"
-      }
-    ],
-    "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
-    "metamodule": false,
-    "stargazerCount": 135,
-    "updatedAt": "2026-07-15T10:34:53Z",
-    "createdAt": "2025-12-29T23:02:41Z",
-    "latestRelease": {
-      "name": "0.13.5-2",
-      "version": "0.13.5-2",
-      "time": "2026-01-20T16:00:31Z",
-      "downloadUrl": "https://github.com/KernelSU-Next/KPatch-Next/releases/download/0.13.5-2/kpuser.zip",
-      "versionCode": 2
     }
   },
   {
@@ -1528,8 +1528,8 @@
     ],
     "summary": "GKI Kernel for Poco F7 / Redmi Turbo 4 Pro (Onyx), Poco F7 Pro, and Poco F7 Ultra",
     "metamodule": false,
-    "stargazerCount": 20,
-    "updatedAt": "2026-07-17T03:12:47Z",
+    "stargazerCount": 21,
+    "updatedAt": "2026-07-17T06:48:58Z",
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
       "name": "Build 8c3257c27e05140a70d2041e4949d200fb864788",
@@ -1848,6 +1848,28 @@
     }
   },
   {
+    "moduleId": "741afb7_KPatch-Next-Module-EXP",
+    "moduleName": "KPatch-Next-Module-EXP",
+    "authors": [
+      {
+        "name": "741afb7",
+        "link": "https://github.com/741afb7"
+      }
+    ],
+    "summary": "An experimental unofficial fork of KPatch-Next-Module, Standalone implementation of KPM support for Magisk/KernelSU",
+    "metamodule": false,
+    "stargazerCount": 9,
+    "updatedAt": "2026-07-17T08:09:58Z",
+    "createdAt": "2026-06-04T14:21:52Z",
+    "latestRelease": {
+      "name": "v0.0.4",
+      "version": "v0.0.4",
+      "time": "2026-07-17T02:22:51Z",
+      "downloadUrl": "https://github.com/741afb7/KPatch-Next-Module-EXP/releases/download/v0.0.4/KPatch-Next-Module-EXP-v0.0.4.zip",
+      "versionCode": 4
+    }
+  },
+  {
     "moduleId": "arvinjangid_LSPosed-Detector",
     "moduleName": "LSPosed-Detector",
     "authors": [
@@ -1977,28 +1999,6 @@
       "time": "2026-07-16T11:34:17Z",
       "downloadUrl": "https://github.com/mgiganto/msg-GrapheneOS/releases/download/2026071101/AppsScopes_mod-mustang-2026071100.zip",
       "versionCode": 2026071100
-    }
-  },
-  {
-    "moduleId": "741afb7_KPatch-Next-Module-EXP",
-    "moduleName": "KPatch-Next-Module-EXP",
-    "authors": [
-      {
-        "name": "741afb7",
-        "link": "https://github.com/741afb7"
-      }
-    ],
-    "summary": "An experimental unofficial fork of KPatch-Next-Module, Standalone implementation of KPM support for Magisk/KernelSU",
-    "metamodule": false,
-    "stargazerCount": 8,
-    "updatedAt": "2026-07-17T00:49:41Z",
-    "createdAt": "2026-06-04T14:21:52Z",
-    "latestRelease": {
-      "name": "v0.0.4",
-      "version": "v0.0.4",
-      "time": "2026-07-17T02:22:51Z",
-      "downloadUrl": "https://github.com/741afb7/KPatch-Next-Module-EXP/releases/download/v0.0.4/KPatch-Next-Module-EXP-v0.0.4.zip",
-      "versionCode": 4
     }
   },
   {
