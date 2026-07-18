@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17305,
-    "updatedAt": "2026-07-18T07:45:32Z",
+    "stargazerCount": 17310,
+    "updatedAt": "2026-07-18T13:10:52Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9975,
-    "updatedAt": "2026-07-18T06:59:46Z",
+    "stargazerCount": 9979,
+    "updatedAt": "2026-07-18T13:21:53Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.3",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3944,
-    "updatedAt": "2026-07-18T08:03:00Z",
+    "stargazerCount": 3946,
+    "updatedAt": "2026-07-18T13:08:43Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3730,
-    "updatedAt": "2026-07-18T03:28:01Z",
+    "stargazerCount": 3732,
+    "updatedAt": "2026-07-18T11:35:40Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -154,6 +154,28 @@
     }
   },
   {
+    "moduleId": "sidex15_susfs4ksu-module",
+    "moduleName": "susfs4ksu-module",
+    "authors": [
+      {
+        "name": "sidex15",
+        "link": "https://github.com/sidex15"
+      }
+    ],
+    "summary": "An addon root hiding service for KernelSU",
+    "metamodule": false,
+    "stargazerCount": 2444,
+    "updatedAt": "2026-07-18T11:12:26Z",
+    "createdAt": "2024-10-19T03:13:26Z",
+    "latestRelease": {
+      "name": "v1.5.2+ Revision 27",
+      "version": "v1.5.2+_R27",
+      "time": "2026-03-27T14:23:40Z",
+      "downloadUrl": "https://github.com/sidex15/susfs4ksu-module/releases/download/v1.5.2%2B_R27/ksu_module_susfs_1.5.2%2B.zip",
+      "versionCode": 2
+    }
+  },
+  {
     "moduleId": "MeowDump_Integrity-Box",
     "moduleName": "Integrity-Box",
     "authors": [
@@ -165,7 +187,7 @@
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
     "stargazerCount": 2443,
-    "updatedAt": "2026-07-18T07:13:29Z",
+    "updatedAt": "2026-07-18T13:25:59Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V39",
@@ -173,28 +195,6 @@
       "time": "2026-07-17T05:20:14Z",
       "downloadUrl": "https://github.com/MeowDump/Integrity-Box/releases/download/v39/v39-Integrity-Box-17-07-2026.zip",
       "versionCode": 2026
-    }
-  },
-  {
-    "moduleId": "sidex15_susfs4ksu-module",
-    "moduleName": "susfs4ksu-module",
-    "authors": [
-      {
-        "name": "sidex15",
-        "link": "https://github.com/sidex15"
-      }
-    ],
-    "summary": "An addon root hiding service for KernelSU",
-    "metamodule": false,
-    "stargazerCount": 2442,
-    "updatedAt": "2026-07-18T05:54:49Z",
-    "createdAt": "2024-10-19T03:13:26Z",
-    "latestRelease": {
-      "name": "v1.5.2+ Revision 27",
-      "version": "v1.5.2+_R27",
-      "time": "2026-03-27T14:23:40Z",
-      "downloadUrl": "https://github.com/sidex15/susfs4ksu-module/releases/download/v1.5.2%2B_R27/ksu_module_susfs_1.5.2%2B.zip",
-      "versionCode": 2
     }
   },
   {
@@ -340,8 +340,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1281,
-    "updatedAt": "2026-07-18T07:00:18Z",
+    "stargazerCount": 1282,
+    "updatedAt": "2026-07-18T11:17:19Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260710",
@@ -362,8 +362,8 @@
     ],
     "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
     "metamodule": false,
-    "stargazerCount": 1281,
-    "updatedAt": "2026-07-17T14:43:42Z",
+    "stargazerCount": 1282,
+    "updatedAt": "2026-07-18T12:53:27Z",
     "createdAt": "2025-04-04T02:54:54Z",
     "latestRelease": {
       "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1196,
-    "updatedAt": "2026-07-17T23:24:58Z",
+    "stargazerCount": 1198,
+    "updatedAt": "2026-07-18T12:33:36Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -472,8 +472,8 @@
     ],
     "summary": "WebUI X from MMRL but portable!",
     "metamodule": false,
-    "stargazerCount": 600,
-    "updatedAt": "2026-07-18T05:52:01Z",
+    "stargazerCount": 601,
+    "updatedAt": "2026-07-18T09:38:30Z",
     "createdAt": "2025-04-20T22:16:38Z",
     "latestRelease": {
       "name": "v438",
@@ -582,8 +582,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 442,
-    "updatedAt": "2026-07-18T04:08:25Z",
+    "stargazerCount": 444,
+    "updatedAt": "2026-07-18T13:08:49Z",
     "createdAt": "2025-12-30T05:59:35Z",
     "latestRelease": {
       "name": "Release v0.0.1",
@@ -626,8 +626,8 @@
     ],
     "summary": "OverlayFS MetaModule",
     "metamodule": false,
-    "stargazerCount": 418,
-    "updatedAt": "2026-07-15T00:44:05Z",
+    "stargazerCount": 419,
+    "updatedAt": "2026-07-18T11:12:00Z",
     "createdAt": "2025-11-21T04:35:16Z",
     "latestRelease": {
       "name": "v1.3.1",
@@ -912,14 +912,14 @@
     ],
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
-    "stargazerCount": 164,
-    "updatedAt": "2026-07-18T06:34:37Z",
+    "stargazerCount": 165,
+    "updatedAt": "2026-07-18T13:20:28Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260059",
-      "version": "260059",
-      "time": "2026-07-18T06:35:11Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260059/google-photos-morphe-module-v7.84.0.949657053-arm-v7a.zip",
+      "name": "Build No. 260061",
+      "version": "260061",
+      "time": "2026-07-18T10:09:35Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260061/truecaller-morphe-alt-module-v26.10.6-arm-v7a.zip",
       "versionCode": 7
     }
   },
@@ -934,8 +934,8 @@
     ],
     "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
     "metamodule": false,
-    "stargazerCount": 155,
-    "updatedAt": "2026-07-18T07:04:31Z",
+    "stargazerCount": 156,
+    "updatedAt": "2026-07-18T10:00:20Z",
     "createdAt": "2026-06-27T00:51:25Z",
     "latestRelease": {
       "name": "v1.0.2",
@@ -956,8 +956,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 138,
-    "updatedAt": "2026-07-18T02:10:11Z",
+    "stargazerCount": 139,
+    "updatedAt": "2026-07-18T13:08:58Z",
     "createdAt": "2025-12-29T23:02:41Z",
     "latestRelease": {
       "name": "0.13.5-2",
@@ -1375,7 +1375,7 @@
     "summary": "GKID feature-rich GKI kernel (6.1-android14) for Poco X6 Pro (duchamp) & other compatible Android devices - KernelSU/KernelSU Next/SukiSU Ultra/Wild KSU variants, SUSFS hiding, Baseband Guard (BBG), 3",
     "metamodule": false,
     "stargazerCount": 48,
-    "updatedAt": "2026-07-17T08:46:16Z",
+    "updatedAt": "2026-07-18T12:08:24Z",
     "createdAt": "2026-02-23T20:20:57Z",
     "latestRelease": {
       "name": "GKID v26.07.15-r424",
@@ -1997,7 +1997,7 @@
       "name": "GrapheneOS 2026071500",
       "version": "2026071500",
       "time": "2026-07-17T12:09:31Z",
-      "downloadUrl": "https://github.com/mgiganto/msg-GrapheneOS/releases/download/2026071500/akita-factory-2026071500-user-rooted.zip",
+      "downloadUrl": "https://github.com/mgiganto/msg-GrapheneOS/releases/download/2026071500/akita-factory-2026071500-user-custom.zip",
       "versionCode": 2026071500
     }
   },
