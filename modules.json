@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17310,
-    "updatedAt": "2026-07-18T13:10:52Z",
+    "stargazerCount": 17315,
+    "updatedAt": "2026-07-18T17:00:09Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9979,
-    "updatedAt": "2026-07-18T13:21:53Z",
+    "stargazerCount": 9981,
+    "updatedAt": "2026-07-18T15:17:29Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.3",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3946,
-    "updatedAt": "2026-07-18T13:08:43Z",
+    "stargazerCount": 3949,
+    "updatedAt": "2026-07-18T19:01:28Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3732,
-    "updatedAt": "2026-07-18T11:35:40Z",
+    "stargazerCount": 3733,
+    "updatedAt": "2026-07-18T18:17:59Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -154,28 +154,6 @@
     }
   },
   {
-    "moduleId": "sidex15_susfs4ksu-module",
-    "moduleName": "susfs4ksu-module",
-    "authors": [
-      {
-        "name": "sidex15",
-        "link": "https://github.com/sidex15"
-      }
-    ],
-    "summary": "An addon root hiding service for KernelSU",
-    "metamodule": false,
-    "stargazerCount": 2444,
-    "updatedAt": "2026-07-18T11:12:26Z",
-    "createdAt": "2024-10-19T03:13:26Z",
-    "latestRelease": {
-      "name": "v1.5.2+ Revision 27",
-      "version": "v1.5.2+_R27",
-      "time": "2026-03-27T14:23:40Z",
-      "downloadUrl": "https://github.com/sidex15/susfs4ksu-module/releases/download/v1.5.2%2B_R27/ksu_module_susfs_1.5.2%2B.zip",
-      "versionCode": 2
-    }
-  },
-  {
     "moduleId": "MeowDump_Integrity-Box",
     "moduleName": "Integrity-Box",
     "authors": [
@@ -186,8 +164,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2443,
-    "updatedAt": "2026-07-18T13:25:59Z",
+    "stargazerCount": 2444,
+    "updatedAt": "2026-07-18T15:14:01Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V39",
@@ -195,6 +173,28 @@
       "time": "2026-07-17T05:20:14Z",
       "downloadUrl": "https://github.com/MeowDump/Integrity-Box/releases/download/v39/v39-Integrity-Box-17-07-2026.zip",
       "versionCode": 2026
+    }
+  },
+  {
+    "moduleId": "sidex15_susfs4ksu-module",
+    "moduleName": "susfs4ksu-module",
+    "authors": [
+      {
+        "name": "sidex15",
+        "link": "https://github.com/sidex15"
+      }
+    ],
+    "summary": "An addon root hiding service for KernelSU",
+    "metamodule": false,
+    "stargazerCount": 2443,
+    "updatedAt": "2026-07-18T16:04:39Z",
+    "createdAt": "2024-10-19T03:13:26Z",
+    "latestRelease": {
+      "name": "v1.5.2+ Revision 27",
+      "version": "v1.5.2+_R27",
+      "time": "2026-03-27T14:23:40Z",
+      "downloadUrl": "https://github.com/sidex15/susfs4ksu-module/releases/download/v1.5.2%2B_R27/ksu_module_susfs_1.5.2%2B.zip",
+      "versionCode": 2
     }
   },
   {
@@ -252,8 +252,8 @@
     ],
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
-    "stargazerCount": 1866,
-    "updatedAt": "2026-07-17T06:06:39Z",
+    "stargazerCount": 1867,
+    "updatedAt": "2026-07-18T14:00:12Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -274,8 +274,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1476,
-    "updatedAt": "2026-07-18T05:20:48Z",
+    "stargazerCount": 1477,
+    "updatedAt": "2026-07-18T16:12:03Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1471,
-    "updatedAt": "2026-07-18T06:29:46Z",
+    "stargazerCount": 1473,
+    "updatedAt": "2026-07-18T16:17:12Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.5",
@@ -319,7 +319,7 @@
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
     "stargazerCount": 1335,
-    "updatedAt": "2026-07-18T06:54:30Z",
+    "updatedAt": "2026-07-18T17:50:27Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -340,8 +340,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1282,
-    "updatedAt": "2026-07-18T11:17:19Z",
+    "stargazerCount": 1283,
+    "updatedAt": "2026-07-18T16:22:01Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260710",
@@ -362,8 +362,8 @@
     ],
     "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
     "metamodule": false,
-    "stargazerCount": 1282,
-    "updatedAt": "2026-07-18T12:53:27Z",
+    "stargazerCount": 1283,
+    "updatedAt": "2026-07-18T18:01:36Z",
     "createdAt": "2025-04-04T02:54:54Z",
     "latestRelease": {
       "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
@@ -626,8 +626,8 @@
     ],
     "summary": "OverlayFS MetaModule",
     "metamodule": false,
-    "stargazerCount": 419,
-    "updatedAt": "2026-07-18T11:12:00Z",
+    "stargazerCount": 420,
+    "updatedAt": "2026-07-18T16:46:57Z",
     "createdAt": "2025-11-21T04:35:16Z",
     "latestRelease": {
       "name": "v1.3.1",
@@ -714,8 +714,8 @@
     ],
     "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
     "metamodule": false,
-    "stargazerCount": 300,
-    "updatedAt": "2026-07-17T18:21:24Z",
+    "stargazerCount": 301,
+    "updatedAt": "2026-07-18T14:56:57Z",
     "createdAt": "2025-12-20T02:37:31Z",
     "latestRelease": {
       "name": "BRENE v0.0.55",
@@ -780,8 +780,8 @@
     ],
     "summary": "An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.",
     "metamodule": false,
-    "stargazerCount": 248,
-    "updatedAt": "2026-07-16T18:18:22Z",
+    "stargazerCount": 249,
+    "updatedAt": "2026-07-18T13:50:56Z",
     "createdAt": "2024-07-16T23:47:19Z",
     "latestRelease": {
       "name": "Release",
@@ -912,15 +912,15 @@
     ],
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
-    "stargazerCount": 165,
-    "updatedAt": "2026-07-18T13:20:28Z",
+    "stargazerCount": 166,
+    "updatedAt": "2026-07-18T17:32:49Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260061",
-      "version": "260061",
-      "time": "2026-07-18T10:09:35Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260061/truecaller-morphe-alt-module-v26.10.6-arm-v7a.zip",
-      "versionCode": 7
+      "name": "Build No. 260063",
+      "version": "260063",
+      "time": "2026-07-18T17:33:11Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260063/hbomax-morphe-androidtv-v7.7.0.78-all.apk",
+      "versionCode": 78
     }
   },
   {
@@ -934,8 +934,8 @@
     ],
     "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
     "metamodule": false,
-    "stargazerCount": 156,
-    "updatedAt": "2026-07-18T10:00:20Z",
+    "stargazerCount": 157,
+    "updatedAt": "2026-07-18T17:31:15Z",
     "createdAt": "2026-06-27T00:51:25Z",
     "latestRelease": {
       "name": "v1.0.2",
@@ -1616,8 +1616,8 @@
     ],
     "summary": "⚡ High-Performance FRP Reverse Proxy Client (KernelSU / Magisk Edition). Built-in WebUI for status monitoring, hot reload, and docs. | 高性能内网穿透客户端模块，内置独立可视化 Web 面板。",
     "metamodule": false,
-    "stargazerCount": 17,
-    "updatedAt": "2026-07-08T05:18:22Z",
+    "stargazerCount": 18,
+    "updatedAt": "2026-07-18T15:54:08Z",
     "createdAt": "2026-06-13T04:50:00Z",
     "latestRelease": {
       "name": "CHERWIN FRPC v1.2.2",
