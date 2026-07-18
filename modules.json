@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17297,
-    "updatedAt": "2026-07-17T19:10:53Z",
+    "stargazerCount": 17301,
+    "updatedAt": "2026-07-18T02:02:17Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9972,
-    "updatedAt": "2026-07-17T18:30:48Z",
+    "stargazerCount": 9974,
+    "updatedAt": "2026-07-18T02:36:07Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.3",
@@ -154,6 +154,28 @@
     }
   },
   {
+    "moduleId": "MeowDump_Integrity-Box",
+    "moduleName": "Integrity-Box",
+    "authors": [
+      {
+        "name": "MeowDump",
+        "link": "https://github.com/MeowDump"
+      }
+    ],
+    "summary": "A toolkit for managing Play Integrity & System Environment",
+    "metamodule": false,
+    "stargazerCount": 2441,
+    "updatedAt": "2026-07-17T20:13:02Z",
+    "createdAt": "2025-02-27T01:50:55Z",
+    "latestRelease": {
+      "name": "V39",
+      "version": "v39",
+      "time": "2026-07-17T05:20:14Z",
+      "downloadUrl": "https://github.com/MeowDump/Integrity-Box/releases/download/v39/v39-Integrity-Box-17-07-2026.zip",
+      "versionCode": 2026
+    }
+  },
+  {
     "moduleId": "sidex15_susfs4ksu-module",
     "moduleName": "susfs4ksu-module",
     "authors": [
@@ -173,28 +195,6 @@
       "time": "2026-03-27T14:23:40Z",
       "downloadUrl": "https://github.com/sidex15/susfs4ksu-module/releases/download/v1.5.2%2B_R27/ksu_module_susfs_1.5.2%2B.zip",
       "versionCode": 2
-    }
-  },
-  {
-    "moduleId": "MeowDump_Integrity-Box",
-    "moduleName": "Integrity-Box",
-    "authors": [
-      {
-        "name": "MeowDump",
-        "link": "https://github.com/MeowDump"
-      }
-    ],
-    "summary": "A toolkit for managing Play Integrity & System Environment",
-    "metamodule": false,
-    "stargazerCount": 2440,
-    "updatedAt": "2026-07-17T16:33:45Z",
-    "createdAt": "2025-02-27T01:50:55Z",
-    "latestRelease": {
-      "name": "V39",
-      "version": "v39",
-      "time": "2026-07-17T05:20:14Z",
-      "downloadUrl": "https://github.com/MeowDump/Integrity-Box/releases/download/v39/v39-Integrity-Box-17-07-2026.zip",
-      "versionCode": 2026
     }
   },
   {
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1468,
-    "updatedAt": "2026-07-17T16:51:52Z",
+    "stargazerCount": 1469,
+    "updatedAt": "2026-07-18T02:34:31Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.5",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1195,
-    "updatedAt": "2026-07-17T17:08:51Z",
+    "stargazerCount": 1196,
+    "updatedAt": "2026-07-17T23:24:58Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -560,8 +560,8 @@
     ],
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
-    "stargazerCount": 473,
-    "updatedAt": "2026-07-17T17:39:12Z",
+    "stargazerCount": 474,
+    "updatedAt": "2026-07-17T21:55:07Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v1.1.1",
@@ -890,8 +890,8 @@
     ],
     "summary": "Sultan Kernels built with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 177,
-    "updatedAt": "2026-07-12T10:20:20Z",
+    "stargazerCount": 178,
+    "updatedAt": "2026-07-17T20:17:47Z",
     "createdAt": "2025-01-19T03:05:13Z",
     "latestRelease": {
       "name": "Sultan Kernels With KernelSU Next & SUSFS v2.1.0",
@@ -913,7 +913,7 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 164,
-    "updatedAt": "2026-07-17T10:14:08Z",
+    "updatedAt": "2026-07-17T21:12:09Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
       "name": "Build No. 260057",
@@ -946,6 +946,28 @@
     }
   },
   {
+    "moduleId": "KernelSU-Next_KPatch-Next",
+    "moduleName": "KPatch-Next",
+    "authors": [
+      {
+        "name": "KernelSU-Next",
+        "link": "https://github.com/KernelSU-Next"
+      }
+    ],
+    "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
+    "metamodule": false,
+    "stargazerCount": 138,
+    "updatedAt": "2026-07-18T02:10:11Z",
+    "createdAt": "2025-12-29T23:02:41Z",
+    "latestRelease": {
+      "name": "0.13.5-2",
+      "version": "0.13.5-2",
+      "time": "2026-01-20T16:00:31Z",
+      "downloadUrl": "https://github.com/KernelSU-Next/KPatch-Next/releases/download/0.13.5-2/kpuser.zip",
+      "versionCode": 2
+    }
+  },
+  {
     "moduleId": "fatalcoder524_TCP_Optimiser_Module",
     "moduleName": "TCP_Optimiser_Module",
     "authors": [
@@ -965,28 +987,6 @@
       "time": "2026-07-01T06:22:38Z",
       "downloadUrl": "https://github.com/fatalcoder524/TCP_Optimiser_Module/releases/download/v2.5/TCP_Optimiser-2.5-17.zip",
       "versionCode": 17
-    }
-  },
-  {
-    "moduleId": "KernelSU-Next_KPatch-Next",
-    "moduleName": "KPatch-Next",
-    "authors": [
-      {
-        "name": "KernelSU-Next",
-        "link": "https://github.com/KernelSU-Next"
-      }
-    ],
-    "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
-    "metamodule": false,
-    "stargazerCount": 137,
-    "updatedAt": "2026-07-17T07:25:39Z",
-    "createdAt": "2025-12-29T23:02:41Z",
-    "latestRelease": {
-      "name": "0.13.5-2",
-      "version": "0.13.5-2",
-      "time": "2026-01-20T16:00:31Z",
-      "downloadUrl": "https://github.com/KernelSU-Next/KPatch-Next/releases/download/0.13.5-2/kpuser.zip",
-      "versionCode": 2
     }
   },
   {
@@ -1188,6 +1188,28 @@
     }
   },
   {
+    "moduleId": "Magisk-Modules-Alt-Repo_StevenBlock",
+    "moduleName": "StevenBlock",
+    "authors": [
+      {
+        "name": "Magisk-Modules-Alt-Repo",
+        "link": "https://github.com/Magisk-Modules-Alt-Repo"
+      }
+    ],
+    "summary": "🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒",
+    "metamodule": false,
+    "stargazerCount": 75,
+    "updatedAt": "2026-07-17T19:27:40Z",
+    "createdAt": "2024-06-04T06:56:49Z",
+    "latestRelease": {
+      "name": "V4.0 🎉",
+      "version": "V4.0",
+      "time": "2026-03-02T15:23:51Z",
+      "downloadUrl": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/releases/download/V4.0/StevenBlock.zip",
+      "versionCode": 0
+    }
+  },
+  {
     "moduleId": "RabehX_YT-ReVanced-Module",
     "moduleName": "YT-ReVanced-Module",
     "authors": [
@@ -1207,28 +1229,6 @@
       "time": "2023-11-25T11:02:48Z",
       "downloadUrl": "https://github.com/RabehX/YT-ReVanced-Module/releases/download/v18.46.40/YT-ReVanced-Module.zip",
       "versionCode": 40
-    }
-  },
-  {
-    "moduleId": "Magisk-Modules-Alt-Repo_StevenBlock",
-    "moduleName": "StevenBlock",
-    "authors": [
-      {
-        "name": "Magisk-Modules-Alt-Repo",
-        "link": "https://github.com/Magisk-Modules-Alt-Repo"
-      }
-    ],
-    "summary": "🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒",
-    "metamodule": false,
-    "stargazerCount": 74,
-    "updatedAt": "2026-06-27T23:09:46Z",
-    "createdAt": "2024-06-04T06:56:49Z",
-    "latestRelease": {
-      "name": "V4.0 🎉",
-      "version": "V4.0",
-      "time": "2026-03-02T15:23:51Z",
-      "downloadUrl": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/releases/download/V4.0/StevenBlock.zip",
-      "versionCode": 0
     }
   },
   {
@@ -1533,10 +1533,10 @@
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
       "name": "Build 8c3257c27e05140a70d2041e4949d200fb864788",
-      "version": "build-199-8c3257c27e05140a70d2041e4949d200fb864788",
-      "time": "2026-07-16T20:26:21Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-199-8c3257c27e05140a70d2041e4949d200fb864788/Kono-Ha-1.1-stock-balance-20260716-182711.zip",
-      "versionCode": 182711
+      "version": "build-200-8c3257c27e05140a70d2041e4949d200fb864788",
+      "time": "2026-07-17T20:28:44Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-200-8c3257c27e05140a70d2041e4949d200fb864788/Kono-Ha-1.1-stock-balance-20260717-182830.zip",
+      "versionCode": 182830
     }
   },
   {
@@ -1628,6 +1628,28 @@
     }
   },
   {
+    "moduleId": "ling9ling7_RedMagic-FanExtreme",
+    "moduleName": "RedMagic-FanExtreme",
+    "authors": [
+      {
+        "name": "ling9ling7",
+        "link": "https://github.com/ling9ling7"
+      }
+    ],
+    "summary": "红魔手机 KernelSU 模块 | WebUI · 风扇极速 · 充电分离 · 云控屏蔽 · 温控移除 · 振动增强 · 触控优化 · 充电加速 · 在线更新",
+    "metamodule": false,
+    "stargazerCount": 16,
+    "updatedAt": "2026-07-18T02:24:50Z",
+    "createdAt": "2026-06-03T07:43:01Z",
+    "latestRelease": {
+      "name": "更好的红魔 v2.2.0 更新",
+      "version": "v2.2.0",
+      "time": "2026-06-13T12:32:14Z",
+      "downloadUrl": "https://github.com/ling9ling7/RedMagic-FanExtreme/releases/download/v2.2.0/FanExtreme-v2.2.0.zip",
+      "versionCode": 0
+    }
+  },
+  {
     "moduleId": "dat-hoangnguyentuandat_GlibClaw",
     "moduleName": "GlibClaw",
     "authors": [
@@ -1647,28 +1669,6 @@
       "time": "2026-05-04T09:59:36Z",
       "downloadUrl": "https://github.com/dat-hoangnguyentuandat/GlibClaw/releases/download/v1.0.2/GlibClaw-v1.0.2.zip",
       "versionCode": 2
-    }
-  },
-  {
-    "moduleId": "ling9ling7_RedMagic-FanExtreme",
-    "moduleName": "RedMagic-FanExtreme",
-    "authors": [
-      {
-        "name": "ling9ling7",
-        "link": "https://github.com/ling9ling7"
-      }
-    ],
-    "summary": "红魔手机 KernelSU 模块 | WebUI · 风扇极速 · 充电分离 · 云控屏蔽 · 温控移除 · 振动增强 · 触控优化 · 充电加速 · 在线更新",
-    "metamodule": false,
-    "stargazerCount": 15,
-    "updatedAt": "2026-07-01T03:52:31Z",
-    "createdAt": "2026-06-03T07:43:01Z",
-    "latestRelease": {
-      "name": "更好的红魔 v2.2.0 更新",
-      "version": "v2.2.0",
-      "time": "2026-06-13T12:32:14Z",
-      "downloadUrl": "https://github.com/ling9ling7/RedMagic-FanExtreme/releases/download/v2.2.0/FanExtreme-v2.2.0.zip",
-      "versionCode": 0
     }
   },
   {
@@ -1997,8 +1997,8 @@
       "name": "GrapheneOS 2026071500",
       "version": "2026071500",
       "time": "2026-07-17T12:09:31Z",
-      "downloadUrl": "https://github.com/mgiganto/msg-GrapheneOS/releases/download/2026071500/mustang-factory-2026071500-user-rooted.SPLIT.zip",
-      "versionCode": 256
+      "downloadUrl": "https://github.com/mgiganto/msg-GrapheneOS/releases/download/2026071500/tegu-ota_update-2026071500-user-rooted.zip",
+      "versionCode": 2026071500
     }
   },
   {
