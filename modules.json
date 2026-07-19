@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17315,
-    "updatedAt": "2026-07-18T17:00:09Z",
+    "stargazerCount": 17318,
+    "updatedAt": "2026-07-19T03:16:23Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 9981,
-    "updatedAt": "2026-07-18T15:17:29Z",
+    "stargazerCount": 9985,
+    "updatedAt": "2026-07-19T01:58:00Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.3",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3949,
-    "updatedAt": "2026-07-18T19:01:28Z",
+    "stargazerCount": 3950,
+    "updatedAt": "2026-07-19T02:35:16Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3733,
-    "updatedAt": "2026-07-18T18:17:59Z",
+    "stargazerCount": 3736,
+    "updatedAt": "2026-07-19T03:16:37Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3291,
-    "updatedAt": "2026-07-18T04:57:06Z",
+    "stargazerCount": 3293,
+    "updatedAt": "2026-07-19T01:46:52Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -164,8 +164,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2444,
-    "updatedAt": "2026-07-18T15:14:01Z",
+    "stargazerCount": 2445,
+    "updatedAt": "2026-07-18T23:11:56Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V39",
@@ -230,8 +230,8 @@
     ],
     "summary": "支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/kernelsu/APatch",
     "metamodule": false,
-    "stargazerCount": 1914,
-    "updatedAt": "2026-07-17T14:57:44Z",
+    "stargazerCount": 1915,
+    "updatedAt": "2026-07-18T21:47:16Z",
     "createdAt": "2022-10-09T18:07:36Z",
     "latestRelease": {
       "name": "v1.5.8",
@@ -274,8 +274,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1477,
-    "updatedAt": "2026-07-18T16:12:03Z",
+    "stargazerCount": 1479,
+    "updatedAt": "2026-07-19T02:55:35Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -296,8 +296,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1473,
-    "updatedAt": "2026-07-18T16:17:12Z",
+    "stargazerCount": 1474,
+    "updatedAt": "2026-07-19T01:04:15Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.5",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1198,
-    "updatedAt": "2026-07-18T12:33:36Z",
+    "stargazerCount": 1199,
+    "updatedAt": "2026-07-18T22:19:31Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -450,8 +450,8 @@
     ],
     "summary": "OnePlus Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 629,
-    "updatedAt": "2026-07-18T03:54:21Z",
+    "stargazerCount": 630,
+    "updatedAt": "2026-07-18T20:23:35Z",
     "createdAt": "2024-12-07T23:27:22Z",
     "latestRelease": {
       "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
@@ -472,8 +472,8 @@
     ],
     "summary": "WebUI X from MMRL but portable!",
     "metamodule": false,
-    "stargazerCount": 601,
-    "updatedAt": "2026-07-18T09:38:30Z",
+    "stargazerCount": 604,
+    "updatedAt": "2026-07-19T00:47:20Z",
     "createdAt": "2025-04-20T22:16:38Z",
     "latestRelease": {
       "name": "v438",
@@ -516,8 +516,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 490,
-    "updatedAt": "2026-07-18T04:17:43Z",
+    "stargazerCount": 491,
+    "updatedAt": "2026-07-19T02:37:10Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -627,7 +627,7 @@
     "summary": "OverlayFS MetaModule",
     "metamodule": false,
     "stargazerCount": 420,
-    "updatedAt": "2026-07-18T16:46:57Z",
+    "updatedAt": "2026-07-19T02:18:06Z",
     "createdAt": "2025-11-21T04:35:16Z",
     "latestRelease": {
       "name": "v1.3.1",
@@ -780,8 +780,8 @@
     ],
     "summary": "An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.",
     "metamodule": false,
-    "stargazerCount": 249,
-    "updatedAt": "2026-07-18T13:50:56Z",
+    "stargazerCount": 250,
+    "updatedAt": "2026-07-19T00:51:52Z",
     "createdAt": "2024-07-16T23:47:19Z",
     "latestRelease": {
       "name": "Release",
@@ -912,15 +912,15 @@
     ],
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
-    "stargazerCount": 166,
-    "updatedAt": "2026-07-18T17:32:49Z",
+    "stargazerCount": 167,
+    "updatedAt": "2026-07-18T21:14:15Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260063",
-      "version": "260063",
-      "time": "2026-07-18T17:33:11Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260063/hbomax-morphe-androidtv-v7.7.0.78-all.apk",
-      "versionCode": 78
+      "name": "Build No. 260064",
+      "version": "260064",
+      "time": "2026-07-18T21:14:44Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260064/truecaller-morphe-alt-module-v26.10.6-arm-v7a.zip",
+      "versionCode": 7
     }
   },
   {
@@ -1496,6 +1496,28 @@
     }
   },
   {
+    "moduleId": "onyx-oss_konoha-kernel-gki",
+    "moduleName": "konoha-kernel-gki",
+    "authors": [
+      {
+        "name": "onyx-oss",
+        "link": "https://github.com/onyx-oss"
+      }
+    ],
+    "summary": "GKI Kernel for Poco F7 / Redmi Turbo 4 Pro (Onyx), Poco F7 Pro, and Poco F7 Ultra",
+    "metamodule": false,
+    "stargazerCount": 22,
+    "updatedAt": "2026-07-19T03:09:19Z",
+    "createdAt": "2026-04-06T10:57:25Z",
+    "latestRelease": {
+      "name": "Build 8c3257c27e05140a70d2041e4949d200fb864788",
+      "version": "build-201-8c3257c27e05140a70d2041e4949d200fb864788",
+      "time": "2026-07-18T20:25:03Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-201-8c3257c27e05140a70d2041e4949d200fb864788/Kono-Ha-1.1-stock-balance-20260718-181830.zip",
+      "versionCode": 181830
+    }
+  },
+  {
     "moduleId": "MiguVT_NP2_Kernel",
     "moduleName": "NP2_Kernel",
     "authors": [
@@ -1515,28 +1537,6 @@
       "time": "2026-05-21T20:51:39Z",
       "downloadUrl": "https://github.com/MiguVT/NP2_Kernel/releases/download/v3.0.4/kernel-LineageOS-NP2-ReSukiSU.zip",
       "versionCode": 2
-    }
-  },
-  {
-    "moduleId": "onyx-oss_konoha-kernel-gki",
-    "moduleName": "konoha-kernel-gki",
-    "authors": [
-      {
-        "name": "onyx-oss",
-        "link": "https://github.com/onyx-oss"
-      }
-    ],
-    "summary": "GKI Kernel for Poco F7 / Redmi Turbo 4 Pro (Onyx), Poco F7 Pro, and Poco F7 Ultra",
-    "metamodule": false,
-    "stargazerCount": 21,
-    "updatedAt": "2026-07-17T06:48:58Z",
-    "createdAt": "2026-04-06T10:57:25Z",
-    "latestRelease": {
-      "name": "Build 8c3257c27e05140a70d2041e4949d200fb864788",
-      "version": "build-200-8c3257c27e05140a70d2041e4949d200fb864788",
-      "time": "2026-07-17T20:28:44Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-200-8c3257c27e05140a70d2041e4949d200fb864788/Kono-Ha-1.1-stock-balance-20260717-182830.zip",
-      "versionCode": 182830
     }
   },
   {
@@ -1639,7 +1639,7 @@
     "summary": "红魔手机 KernelSU 模块 | WebUI · 风扇极速 · 充电分离 · 云控屏蔽 · 温控移除 · 振动增强 · 触控优化 · 充电加速 · 在线更新",
     "metamodule": false,
     "stargazerCount": 16,
-    "updatedAt": "2026-07-18T02:24:50Z",
+    "updatedAt": "2026-07-19T02:39:43Z",
     "createdAt": "2026-06-03T07:43:01Z",
     "latestRelease": {
       "name": "更好的红魔 v2.2.0 更新",
