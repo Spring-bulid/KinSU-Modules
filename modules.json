@@ -11,7 +11,7 @@
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
     "stargazerCount": 17346,
-    "updatedAt": "2026-07-20T14:15:02Z",
+    "updatedAt": "2026-07-20T17:52:46Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 10009,
-    "updatedAt": "2026-07-20T13:57:53Z",
+    "stargazerCount": 10013,
+    "updatedAt": "2026-07-20T19:37:32Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.3",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3969,
-    "updatedAt": "2026-07-20T14:13:41Z",
+    "stargazerCount": 3970,
+    "updatedAt": "2026-07-20T16:53:27Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3299,
-    "updatedAt": "2026-07-20T12:31:54Z",
+    "stargazerCount": 3298,
+    "updatedAt": "2026-07-20T19:18:17Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -164,8 +164,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2451,
-    "updatedAt": "2026-07-20T07:31:16Z",
+    "stargazerCount": 2452,
+    "updatedAt": "2026-07-20T14:45:58Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V39",
@@ -186,8 +186,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2448,
-    "updatedAt": "2026-07-20T09:58:43Z",
+    "stargazerCount": 2447,
+    "updatedAt": "2026-07-20T15:29:49Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -264,6 +264,28 @@
     }
   },
   {
+    "moduleId": "ravindu644_Droidspaces-OSS",
+    "moduleName": "Droidspaces-OSS",
+    "authors": [
+      {
+        "name": "ravindu644",
+        "link": "https://github.com/ravindu644"
+      }
+    ],
+    "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
+    "metamodule": false,
+    "stargazerCount": 1482,
+    "updatedAt": "2026-07-20T17:40:21Z",
+    "createdAt": "2026-02-18T13:42:14Z",
+    "latestRelease": {
+      "name": "Droidspaces v6.4.5",
+      "version": "v6.4.5",
+      "time": "2026-07-17T06:26:17Z",
+      "downloadUrl": "https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.4.5/Droidspaces-universal-v6.4.5-1890424.apk",
+      "versionCode": 1890424
+    }
+  },
+  {
     "moduleId": "WildKernels_GKI_KernelSU_SUSFS",
     "moduleName": "GKI_KernelSU_SUSFS",
     "authors": [
@@ -286,28 +308,6 @@
     }
   },
   {
-    "moduleId": "ravindu644_Droidspaces-OSS",
-    "moduleName": "Droidspaces-OSS",
-    "authors": [
-      {
-        "name": "ravindu644",
-        "link": "https://github.com/ravindu644"
-      }
-    ],
-    "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
-    "metamodule": false,
-    "stargazerCount": 1480,
-    "updatedAt": "2026-07-20T12:38:11Z",
-    "createdAt": "2026-02-18T13:42:14Z",
-    "latestRelease": {
-      "name": "Droidspaces v6.4.5",
-      "version": "v6.4.5",
-      "time": "2026-07-17T06:26:17Z",
-      "downloadUrl": "https://github.com/ravindu644/Droidspaces-OSS/releases/download/v6.4.5/Droidspaces-universal-v6.4.5-1890424.apk",
-      "versionCode": 1890424
-    }
-  },
-  {
     "moduleId": "bindhosts_bindhosts",
     "moduleName": "bindhosts",
     "authors": [
@@ -318,8 +318,8 @@
     ],
     "summary": "Systemless hosts for APatch / KernelSU / Magisk",
     "metamodule": false,
-    "stargazerCount": 1338,
-    "updatedAt": "2026-07-20T04:34:06Z",
+    "stargazerCount": 1337,
+    "updatedAt": "2026-07-20T15:30:15Z",
     "createdAt": "2024-02-02T15:49:45Z",
     "latestRelease": {
       "name": "Release v2.1.4",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1206,
-    "updatedAt": "2026-07-20T12:41:39Z",
+    "stargazerCount": 1207,
+    "updatedAt": "2026-07-20T17:22:51Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -415,6 +415,28 @@
       "time": "2024-07-02T10:21:08Z",
       "downloadUrl": "https://github.com/MRepoApp/MRepo/releases/download/v2.5.0/MRepo-2.5.0.a27eaf7-921-release.apk",
       "versionCode": 921
+    }
+  },
+  {
+    "moduleId": "WildKernels_OnePlus_KernelSU_SUSFS",
+    "moduleName": "OnePlus_KernelSU_SUSFS",
+    "authors": [
+      {
+        "name": "WildKernels",
+        "link": "https://github.com/WildKernels"
+      }
+    ],
+    "summary": "OnePlus Kernels with KernelSU & SUSFS",
+    "metamodule": false,
+    "stargazerCount": 635,
+    "updatedAt": "2026-07-20T19:42:21Z",
+    "createdAt": "2024-12-07T23:27:22Z",
+    "latestRelease": {
+      "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
+      "version": "v2.2.0-r2",
+      "time": "2026-06-30T16:13:52Z",
+      "downloadUrl": "https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/releases/download/v2.2.0-r2/AK3_OP-ACE-2-PRO_A15_android13-5.15.149_KSUN_33207_SuSFS_v2.2.0.zip",
+      "versionCode": 2
     }
   },
   {
@@ -450,8 +472,8 @@
     ],
     "summary": "WebUI X from MMRL but portable!",
     "metamodule": false,
-    "stargazerCount": 604,
-    "updatedAt": "2026-07-20T09:01:00Z",
+    "stargazerCount": 606,
+    "updatedAt": "2026-07-20T18:17:26Z",
     "createdAt": "2025-04-20T22:16:38Z",
     "latestRelease": {
       "name": "v438",
@@ -582,8 +604,8 @@
     ],
     "summary": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
     "metamodule": false,
-    "stargazerCount": 429,
-    "updatedAt": "2026-07-18T06:44:15Z",
+    "stargazerCount": 430,
+    "updatedAt": "2026-07-20T19:30:35Z",
     "createdAt": "2023-05-08T16:17:59Z",
     "latestRelease": {
       "name": "v5.0.0",
@@ -802,8 +824,8 @@
     ],
     "summary": "A Magisk/KernelSU/APatch module to unlock high-end features on all Xiaomi devices.",
     "metamodule": false,
-    "stargazerCount": 208,
-    "updatedAt": "2026-07-20T01:28:23Z",
+    "stargazerCount": 209,
+    "updatedAt": "2026-07-20T19:37:58Z",
     "createdAt": "2025-02-17T06:51:18Z",
     "latestRelease": {
       "name": "Release v2.2.2",
@@ -891,14 +913,14 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 171,
-    "updatedAt": "2026-07-20T11:32:17Z",
+    "updatedAt": "2026-07-20T14:47:25Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260068",
-      "version": "260068",
-      "time": "2026-07-19T21:50:36Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260068/adguard-morphe-nightly-module-v4.14.68-arm-v7a.zip",
-      "versionCode": 7
+      "name": "Build No. 260070",
+      "version": "260070",
+      "time": "2026-07-20T14:45:45Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260070/hbomax-morphe-androidtv-v7.7.0.78-all.apk",
+      "versionCode": 78
     }
   },
   {
@@ -1529,7 +1551,7 @@
     "summary": "KernelSU / Magisk module to force WiFi country code on Android. Unlock restricted 5GHz, 6GHz (WiFi 6E/7), and DFS channels. WebUI with 140 country codes from Linux wireless-regdb.",
     "metamodule": false,
     "stargazerCount": 21,
-    "updatedAt": "2026-07-20T13:45:26Z",
+    "updatedAt": "2026-07-20T15:06:51Z",
     "createdAt": "2026-04-10T13:16:36Z",
     "latestRelease": {
       "name": "v3.0 — Full Regulatory Database",
