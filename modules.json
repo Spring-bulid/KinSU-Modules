@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17363,
-    "updatedAt": "2026-07-21T13:49:17Z",
+    "stargazerCount": 17367,
+    "updatedAt": "2026-07-21T18:26:39Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 10021,
-    "updatedAt": "2026-07-21T13:44:06Z",
+    "stargazerCount": 10025,
+    "updatedAt": "2026-07-21T17:32:42Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.3",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3749,
-    "updatedAt": "2026-07-21T06:46:07Z",
+    "stargazerCount": 3750,
+    "updatedAt": "2026-07-21T18:35:03Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3298,
-    "updatedAt": "2026-07-21T04:52:48Z",
+    "stargazerCount": 3299,
+    "updatedAt": "2026-07-21T18:42:31Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -164,8 +164,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2457,
-    "updatedAt": "2026-07-21T13:03:40Z",
+    "stargazerCount": 2460,
+    "updatedAt": "2026-07-21T16:57:24Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V39",
@@ -274,8 +274,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1486,
-    "updatedAt": "2026-07-21T11:11:03Z",
+    "stargazerCount": 1487,
+    "updatedAt": "2026-07-21T16:31:05Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.5",
@@ -340,8 +340,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1292,
-    "updatedAt": "2026-07-21T12:42:20Z",
+    "stargazerCount": 1294,
+    "updatedAt": "2026-07-21T18:49:50Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260710",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1208,
-    "updatedAt": "2026-07-21T09:30:28Z",
+    "stargazerCount": 1209,
+    "updatedAt": "2026-07-21T16:16:17Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -450,8 +450,8 @@
     ],
     "summary": "Required module to use applications such as AdAway on KernelSU and APatch",
     "metamodule": false,
-    "stargazerCount": 629,
-    "updatedAt": "2026-07-21T04:52:37Z",
+    "stargazerCount": 628,
+    "updatedAt": "2026-07-21T15:06:43Z",
     "createdAt": "2023-06-30T10:31:40Z",
     "latestRelease": {
       "name": "v1.2.2",
@@ -516,8 +516,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 493,
-    "updatedAt": "2026-07-21T08:56:26Z",
+    "stargazerCount": 494,
+    "updatedAt": "2026-07-21T18:19:44Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -538,8 +538,8 @@
     ],
     "summary": "Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way to use WireGuard and 2FA.",
     "metamodule": false,
-    "stargazerCount": 490,
-    "updatedAt": "2026-07-21T10:20:18Z",
+    "stargazerCount": 491,
+    "updatedAt": "2026-07-21T16:26:05Z",
     "createdAt": "2023-12-13T20:02:49Z",
     "latestRelease": {
       "name": "Magisk Tailscaled v2.0.0.1",
@@ -604,8 +604,8 @@
     ],
     "summary": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
     "metamodule": false,
-    "stargazerCount": 429,
-    "updatedAt": "2026-07-21T09:18:00Z",
+    "stargazerCount": 430,
+    "updatedAt": "2026-07-21T14:42:05Z",
     "createdAt": "2023-05-08T16:17:59Z",
     "latestRelease": {
       "name": "v5.0.0",
@@ -626,8 +626,8 @@
     ],
     "summary": "OverlayFS MetaModule",
     "metamodule": false,
-    "stargazerCount": 424,
-    "updatedAt": "2026-07-21T00:13:46Z",
+    "stargazerCount": 425,
+    "updatedAt": "2026-07-21T14:42:22Z",
     "createdAt": "2025-11-21T04:35:16Z",
     "latestRelease": {
       "name": "v1.3.1",
@@ -670,8 +670,8 @@
     ],
     "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
     "metamodule": false,
-    "stargazerCount": 339,
-    "updatedAt": "2026-07-21T05:09:06Z",
+    "stargazerCount": 340,
+    "updatedAt": "2026-07-21T16:26:51Z",
     "createdAt": "2025-03-17T16:23:07Z",
     "latestRelease": {
       "name": "COPG v5.9.0",
@@ -714,8 +714,8 @@
     ],
     "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
     "metamodule": false,
-    "stargazerCount": 303,
-    "updatedAt": "2026-07-21T08:59:03Z",
+    "stargazerCount": 304,
+    "updatedAt": "2026-07-21T16:15:59Z",
     "createdAt": "2025-12-20T02:37:31Z",
     "latestRelease": {
       "name": "BRENE v0.0.55",
@@ -824,8 +824,8 @@
     ],
     "summary": "A Magisk/KernelSU/APatch module to unlock high-end features on all Xiaomi devices.",
     "metamodule": false,
-    "stargazerCount": 210,
-    "updatedAt": "2026-07-21T05:53:48Z",
+    "stargazerCount": 211,
+    "updatedAt": "2026-07-21T16:42:05Z",
     "createdAt": "2025-02-17T06:51:18Z",
     "latestRelease": {
       "name": "Release v2.2.2",
@@ -913,7 +913,7 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 171,
-    "updatedAt": "2026-07-21T11:51:18Z",
+    "updatedAt": "2026-07-21T19:01:40Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
       "name": "Build No. 260072",
@@ -1132,8 +1132,8 @@
     ],
     "summary": "⚡Simple Flag Secure Magisk Module ⚡ to Disable Secure Flag and allow taking screenshots/screen recording in apps supports KSU/APatch",
     "metamodule": false,
-    "stargazerCount": 101,
-    "updatedAt": "2026-07-04T21:17:46Z",
+    "stargazerCount": 102,
+    "updatedAt": "2026-07-21T18:45:10Z",
     "createdAt": "2024-06-09T14:58:51Z",
     "latestRelease": {
       "name": "🆕 v5 - Changelogs",
@@ -1419,7 +1419,7 @@
     "summary": "Samsung Kernels with KernelSU & SUSFS",
     "metamodule": false,
     "stargazerCount": 34,
-    "updatedAt": "2026-07-21T12:57:02Z",
+    "updatedAt": "2026-07-21T17:52:21Z",
     "createdAt": "2025-08-09T06:08:05Z",
     "latestRelease": {
       "name": "Samsung GKI Kernels With KSUN v3.3.0 & SUSFS v2.2.0",
@@ -1845,6 +1845,28 @@
       "time": "2026-07-14T19:39:44Z",
       "downloadUrl": "https://github.com/nikitos4683/nzapret/releases/download/v3.2.0/nzapret-v3.2.0.zip",
       "versionCode": 0
+    }
+  },
+  {
+    "moduleId": "LingLuo17_AK3",
+    "moduleName": "AK3",
+    "authors": [
+      {
+        "name": "LingLuo17",
+        "link": "https://github.com/LingLuo17"
+      }
+    ],
+    "summary": "Xiaomi  Kernels with KernelSU & SUSFS",
+    "metamodule": false,
+    "stargazerCount": 10,
+    "updatedAt": "2026-07-21T14:44:33Z",
+    "createdAt": "2026-06-20T20:46:10Z",
+    "latestRelease": {
+      "name": "ReSukiSU-35018",
+      "version": "ReSukiSU-35018",
+      "time": "2026-07-20T19:39:58Z",
+      "downloadUrl": "https://github.com/LingLuo17/AK3/releases/download/ReSukiSU-35018/ReSukiSU_kernel-android12-5.10-66-AnyKernel3.zip",
+      "versionCode": 3
     }
   },
   {
