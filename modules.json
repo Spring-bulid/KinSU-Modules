@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17346,
-    "updatedAt": "2026-07-20T17:52:46Z",
+    "stargazerCount": 17351,
+    "updatedAt": "2026-07-21T02:50:43Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 10013,
-    "updatedAt": "2026-07-20T19:37:32Z",
+    "stargazerCount": 10016,
+    "updatedAt": "2026-07-21T03:19:56Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.3",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3970,
-    "updatedAt": "2026-07-20T16:53:27Z",
+    "stargazerCount": 3972,
+    "updatedAt": "2026-07-21T01:54:01Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3745,
-    "updatedAt": "2026-07-20T08:00:49Z",
+    "stargazerCount": 3748,
+    "updatedAt": "2026-07-21T02:12:17Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -164,8 +164,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2452,
-    "updatedAt": "2026-07-20T14:45:58Z",
+    "stargazerCount": 2453,
+    "updatedAt": "2026-07-21T02:59:00Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V39",
@@ -186,8 +186,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2447,
-    "updatedAt": "2026-07-20T15:29:49Z",
+    "stargazerCount": 2448,
+    "updatedAt": "2026-07-21T02:54:12Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2091,
-    "updatedAt": "2026-07-19T10:10:07Z",
+    "stargazerCount": 2093,
+    "updatedAt": "2026-07-21T01:29:45Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -252,8 +252,8 @@
     ],
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
-    "stargazerCount": 1868,
-    "updatedAt": "2026-07-19T16:49:13Z",
+    "stargazerCount": 1869,
+    "updatedAt": "2026-07-21T02:50:02Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -472,8 +472,8 @@
     ],
     "summary": "WebUI X from MMRL but portable!",
     "metamodule": false,
-    "stargazerCount": 606,
-    "updatedAt": "2026-07-20T18:17:26Z",
+    "stargazerCount": 605,
+    "updatedAt": "2026-07-21T01:29:43Z",
     "createdAt": "2025-04-20T22:16:38Z",
     "latestRelease": {
       "name": "v438",
@@ -582,8 +582,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 444,
-    "updatedAt": "2026-07-18T13:08:49Z",
+    "stargazerCount": 445,
+    "updatedAt": "2026-07-21T01:22:31Z",
     "createdAt": "2025-12-30T05:59:35Z",
     "latestRelease": {
       "name": "Release v0.0.1",
@@ -626,8 +626,8 @@
     ],
     "summary": "OverlayFS MetaModule",
     "metamodule": false,
-    "stargazerCount": 423,
-    "updatedAt": "2026-07-20T10:24:47Z",
+    "stargazerCount": 424,
+    "updatedAt": "2026-07-21T00:13:46Z",
     "createdAt": "2025-11-21T04:35:16Z",
     "latestRelease": {
       "name": "v1.3.1",
@@ -670,14 +670,14 @@
     ],
     "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
     "metamodule": false,
-    "stargazerCount": 337,
-    "updatedAt": "2026-07-20T05:55:05Z",
+    "stargazerCount": 338,
+    "updatedAt": "2026-07-20T23:47:25Z",
     "createdAt": "2025-03-17T16:23:07Z",
     "latestRelease": {
-      "name": "COPG v5.8.0",
-      "version": "v5.8.0",
-      "time": "2026-07-14T06:23:01Z",
-      "downloadUrl": "https://github.com/AlirezaParsi/COPG/releases/download/v5.8.0/COPG-v5.8.0.zip",
+      "name": "COPG v5.9.0",
+      "version": "v5.9.0",
+      "time": "2026-07-20T21:11:20Z",
+      "downloadUrl": "https://github.com/AlirezaParsi/COPG/releases/download/v5.9.0/COPG-v5.9.0.zip",
       "versionCode": 0
     }
   },
@@ -714,8 +714,8 @@
     ],
     "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
     "metamodule": false,
-    "stargazerCount": 302,
-    "updatedAt": "2026-07-19T23:17:47Z",
+    "stargazerCount": 303,
+    "updatedAt": "2026-07-20T22:53:53Z",
     "createdAt": "2025-12-20T02:37:31Z",
     "latestRelease": {
       "name": "BRENE v0.0.55",
@@ -780,8 +780,8 @@
     ],
     "summary": "An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.",
     "metamodule": false,
-    "stargazerCount": 251,
-    "updatedAt": "2026-07-19T17:36:02Z",
+    "stargazerCount": 252,
+    "updatedAt": "2026-07-20T20:58:31Z",
     "createdAt": "2024-07-16T23:47:19Z",
     "latestRelease": {
       "name": "Release",
@@ -846,8 +846,8 @@
     ],
     "summary": "A Magisk/KernelSU module trying to add native eSIM management support for Xiaomi devices with MIUI and Xiaomi HyperOS.",
     "metamodule": false,
-    "stargazerCount": 192,
-    "updatedAt": "2026-07-20T14:20:43Z",
+    "stargazerCount": 193,
+    "updatedAt": "2026-07-21T02:18:01Z",
     "createdAt": "2024-08-07T01:46:04Z",
     "latestRelease": {
       "name": "v4",
@@ -956,8 +956,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 140,
-    "updatedAt": "2026-07-20T01:46:28Z",
+    "stargazerCount": 141,
+    "updatedAt": "2026-07-21T01:21:58Z",
     "createdAt": "2025-12-29T23:02:41Z",
     "latestRelease": {
       "name": "0.13.5-2",
@@ -1419,7 +1419,7 @@
     "summary": "Samsung Kernels with KernelSU & SUSFS",
     "metamodule": false,
     "stargazerCount": 34,
-    "updatedAt": "2026-07-13T01:03:16Z",
+    "updatedAt": "2026-07-21T03:11:01Z",
     "createdAt": "2025-08-09T06:08:05Z",
     "latestRelease": {
       "name": "Samsung GKI Kernels With KSUN v3.3.0 & SUSFS v2.2.0",
@@ -1511,10 +1511,10 @@
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
       "name": "Build 8c3257c27e05140a70d2041e4949d200fb864788",
-      "version": "build-202-8c3257c27e05140a70d2041e4949d200fb864788",
-      "time": "2026-07-19T20:23:32Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-202-8c3257c27e05140a70d2041e4949d200fb864788/Kono-Ha-1.1-stock-balance-20260719-185536.zip",
-      "versionCode": 185536
+      "version": "build-203-8c3257c27e05140a70d2041e4949d200fb864788",
+      "time": "2026-07-20T21:17:06Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-203-8c3257c27e05140a70d2041e4949d200fb864788/Kono-Ha-1.1-stock-balance-20260720-194039.zip",
+      "versionCode": 194039
     }
   },
   {
