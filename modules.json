@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17377,
-    "updatedAt": "2026-07-22T14:01:45Z",
+    "stargazerCount": 17378,
+    "updatedAt": "2026-07-22T18:43:52Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 10035,
-    "updatedAt": "2026-07-22T13:46:57Z",
+    "stargazerCount": 10036,
+    "updatedAt": "2026-07-22T18:49:14Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.3",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3974,
-    "updatedAt": "2026-07-22T07:56:40Z",
+    "stargazerCount": 3973,
+    "updatedAt": "2026-07-22T17:56:28Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3752,
-    "updatedAt": "2026-07-22T11:55:57Z",
+    "stargazerCount": 3754,
+    "updatedAt": "2026-07-22T19:28:20Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3300,
-    "updatedAt": "2026-07-22T05:36:03Z",
+    "stargazerCount": 3301,
+    "updatedAt": "2026-07-22T19:06:36Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -120,8 +120,8 @@
     ],
     "summary": "A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.",
     "metamodule": false,
-    "stargazerCount": 2524,
-    "updatedAt": "2026-07-21T04:52:45Z",
+    "stargazerCount": 2522,
+    "updatedAt": "2026-07-22T18:36:45Z",
     "createdAt": "2024-03-03T18:20:02Z",
     "latestRelease": {
       "name": "v2.1.4",
@@ -186,8 +186,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2450,
-    "updatedAt": "2026-07-22T13:25:46Z",
+    "stargazerCount": 2448,
+    "updatedAt": "2026-07-22T17:39:58Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2094,
-    "updatedAt": "2026-07-22T00:29:20Z",
+    "stargazerCount": 2093,
+    "updatedAt": "2026-07-22T18:30:51Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -230,8 +230,8 @@
     ],
     "summary": "支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/kernelsu/APatch",
     "metamodule": false,
-    "stargazerCount": 1919,
-    "updatedAt": "2026-07-21T20:13:48Z",
+    "stargazerCount": 1918,
+    "updatedAt": "2026-07-22T17:46:45Z",
     "createdAt": "2022-10-09T18:07:36Z",
     "latestRelease": {
       "name": "v1.5.8",
@@ -274,8 +274,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1491,
-    "updatedAt": "2026-07-22T11:56:33Z",
+    "stargazerCount": 1493,
+    "updatedAt": "2026-07-22T18:46:12Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.5",
@@ -296,8 +296,8 @@
     ],
     "summary": "GKI2 5.10+ Kernels with Wild KSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 1480,
-    "updatedAt": "2026-07-21T11:32:28Z",
+    "stargazerCount": 1481,
+    "updatedAt": "2026-07-22T15:29:48Z",
     "createdAt": "2024-12-26T21:24:20Z",
     "latestRelease": {
       "name": "Wild Kernels for GKI2 Devices 5.10+ Release 5",
@@ -362,8 +362,8 @@
     ],
     "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
     "metamodule": false,
-    "stargazerCount": 1287,
-    "updatedAt": "2026-07-22T10:44:05Z",
+    "stargazerCount": 1288,
+    "updatedAt": "2026-07-22T14:36:28Z",
     "createdAt": "2025-04-04T02:54:54Z",
     "latestRelease": {
       "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
@@ -516,8 +516,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 495,
-    "updatedAt": "2026-07-22T09:04:11Z",
+    "stargazerCount": 496,
+    "updatedAt": "2026-07-22T14:49:48Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -560,8 +560,8 @@
     ],
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
-    "stargazerCount": 480,
-    "updatedAt": "2026-07-22T10:28:20Z",
+    "stargazerCount": 481,
+    "updatedAt": "2026-07-22T16:39:57Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v1.1.1",
@@ -604,8 +604,8 @@
     ],
     "summary": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
     "metamodule": false,
-    "stargazerCount": 430,
-    "updatedAt": "2026-07-21T14:42:05Z",
+    "stargazerCount": 429,
+    "updatedAt": "2026-07-22T17:09:14Z",
     "createdAt": "2023-05-08T16:17:59Z",
     "latestRelease": {
       "name": "v5.0.0",
@@ -627,7 +627,7 @@
     "summary": "OverlayFS MetaModule",
     "metamodule": false,
     "stargazerCount": 426,
-    "updatedAt": "2026-07-21T22:08:03Z",
+    "updatedAt": "2026-07-22T16:28:34Z",
     "createdAt": "2025-11-21T04:35:16Z",
     "latestRelease": {
       "name": "v1.3.1",
@@ -670,8 +670,8 @@
     ],
     "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
     "metamodule": false,
-    "stargazerCount": 341,
-    "updatedAt": "2026-07-22T02:34:29Z",
+    "stargazerCount": 340,
+    "updatedAt": "2026-07-22T17:36:03Z",
     "createdAt": "2025-03-17T16:23:07Z",
     "latestRelease": {
       "name": "COPG v5.9.0",
@@ -714,8 +714,8 @@
     ],
     "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
     "metamodule": false,
-    "stargazerCount": 305,
-    "updatedAt": "2026-07-22T07:57:29Z",
+    "stargazerCount": 307,
+    "updatedAt": "2026-07-22T19:19:30Z",
     "createdAt": "2025-12-20T02:37:31Z",
     "latestRelease": {
       "name": "BRENE v0.0.55",
@@ -858,28 +858,6 @@
     }
   },
   {
-    "moduleId": "RipperHybrid_AshLooper",
-    "moduleName": "AshLooper",
-    "authors": [
-      {
-        "name": "RipperHybrid",
-        "link": "https://github.com/RipperHybrid"
-      }
-    ],
-    "summary": "A module designed to prevent boot loops caused by problematic modules installed via KernelSU or Magisk on Android devices.",
-    "metamodule": false,
-    "stargazerCount": 178,
-    "updatedAt": "2026-07-15T08:38:21Z",
-    "createdAt": "2024-02-06T16:43:12Z",
-    "latestRelease": {
-      "name": "AshLooper Version 9.8 Release",
-      "version": "v9.8",
-      "time": "2026-05-22T08:41:58Z",
-      "downloadUrl": "https://github.com/RipperHybrid/AshLooper/releases/download/v9.8/AshReXcue_Bootloop_Protector_9.8_198.zip",
-      "versionCode": 198
-    }
-  },
-  {
     "moduleId": "WildKernels_Sultan_KernelSU_SUSFS",
     "moduleName": "Sultan_KernelSU_SUSFS",
     "authors": [
@@ -902,6 +880,28 @@
     }
   },
   {
+    "moduleId": "RipperHybrid_AshLooper",
+    "moduleName": "AshLooper",
+    "authors": [
+      {
+        "name": "RipperHybrid",
+        "link": "https://github.com/RipperHybrid"
+      }
+    ],
+    "summary": "A module designed to prevent boot loops caused by problematic modules installed via KernelSU or Magisk on Android devices.",
+    "metamodule": false,
+    "stargazerCount": 177,
+    "updatedAt": "2026-07-22T17:40:04Z",
+    "createdAt": "2024-02-06T16:43:12Z",
+    "latestRelease": {
+      "name": "AshLooper Version 9.8 Release",
+      "version": "v9.8",
+      "time": "2026-05-22T08:41:58Z",
+      "downloadUrl": "https://github.com/RipperHybrid/AshLooper/releases/download/v9.8/AshReXcue_Bootloop_Protector_9.8_198.zip",
+      "versionCode": 198
+    }
+  },
+  {
     "moduleId": "nullcpy_rvb",
     "moduleName": "rvb",
     "authors": [
@@ -913,7 +913,7 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 173,
-    "updatedAt": "2026-07-22T11:47:36Z",
+    "updatedAt": "2026-07-22T17:12:52Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
       "name": "Build No. 260077",
@@ -934,8 +934,8 @@
     ],
     "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
     "metamodule": false,
-    "stargazerCount": 169,
-    "updatedAt": "2026-07-22T13:06:39Z",
+    "stargazerCount": 171,
+    "updatedAt": "2026-07-22T16:25:01Z",
     "createdAt": "2026-06-27T00:51:25Z",
     "latestRelease": {
       "name": "v1.0.2",
@@ -1012,6 +1012,28 @@
     }
   },
   {
+    "moduleId": "RuriOSS_asl",
+    "moduleName": "asl",
+    "authors": [
+      {
+        "name": "RuriOSS",
+        "link": "https://github.com/RuriOSS"
+      }
+    ],
+    "summary": "Android Subsystem for GNU/Linux (magisk/ksu/Apatch module)",
+    "metamodule": false,
+    "stargazerCount": 116,
+    "updatedAt": "2026-07-22T17:47:27Z",
+    "createdAt": "2024-12-01T06:40:10Z",
+    "latestRelease": {
+      "name": "asl v1.0 release",
+      "version": "v1.0",
+      "time": "2024-12-10T04:46:04Z",
+      "downloadUrl": "https://github.com/RuriOSS/asl/releases/download/v1.0/asl-alpine-edge.zip",
+      "versionCode": 9
+    }
+  },
+  {
     "moduleId": "symbuzzer_Volte-Wifi-Calling-Enabler",
     "moduleName": "Volte-Wifi-Calling-Enabler",
     "authors": [
@@ -1034,28 +1056,6 @@
     }
   },
   {
-    "moduleId": "RuriOSS_asl",
-    "moduleName": "asl",
-    "authors": [
-      {
-        "name": "RuriOSS",
-        "link": "https://github.com/RuriOSS"
-      }
-    ],
-    "summary": "Android Subsystem for GNU/Linux (magisk/ksu/Apatch module)",
-    "metamodule": false,
-    "stargazerCount": 115,
-    "updatedAt": "2026-07-21T04:52:49Z",
-    "createdAt": "2024-12-01T06:40:10Z",
-    "latestRelease": {
-      "name": "asl v1.0 release",
-      "version": "v1.0",
-      "time": "2024-12-10T04:46:04Z",
-      "downloadUrl": "https://github.com/RuriOSS/asl/releases/download/v1.0/asl-alpine-edge.zip",
-      "versionCode": 9
-    }
-  },
-  {
     "moduleId": "Enginex0_zeromount",
     "moduleName": "zeromount",
     "authors": [
@@ -1066,8 +1066,8 @@
     ],
     "summary": "Mountless module loading for rooted Android. Kernel-level VFS path redirection — zero mount table pollution. SUSFS integration, WebUI, bootloop guard, and strategy fallback.",
     "metamodule": false,
-    "stargazerCount": 110,
-    "updatedAt": "2026-07-22T06:05:06Z",
+    "stargazerCount": 111,
+    "updatedAt": "2026-07-22T17:45:30Z",
     "createdAt": "2026-01-28T18:39:42Z",
     "latestRelease": {
       "name": "v2.0.216-dev",
@@ -1378,10 +1378,10 @@
     "updatedAt": "2026-07-18T12:08:24Z",
     "createdAt": "2026-02-23T20:20:57Z",
     "latestRelease": {
-      "name": "GKID v26.07.21-r428",
-      "version": "v26.07.21-r428",
-      "time": "2026-07-21T11:50:03Z",
-      "downloadUrl": "https://github.com/ahmed-alnassif/GKI-Duchamp/releases/download/v26.07.21-r428/GKID-v26.07.21-r428-6.1.175-Compat%2BKernelSU%2BSuSFS%2BMultiple-Managers.zip",
+      "name": "GKID v26.07.22-r432",
+      "version": "v26.07.22-r432",
+      "time": "2026-07-22T17:58:23Z",
+      "downloadUrl": "https://github.com/ahmed-alnassif/GKI-Duchamp/releases/download/v26.07.22-r432/GKID-v26.07.22-r432-6.1.175-Compat%2BKernelSU%2BSuSFS%2BMultiple-Managers.zip",
       "versionCode": 5
     }
   },
@@ -1419,7 +1419,7 @@
     "summary": "Samsung Kernels with KernelSU & SUSFS",
     "metamodule": false,
     "stargazerCount": 34,
-    "updatedAt": "2026-07-22T14:00:12Z",
+    "updatedAt": "2026-07-22T19:05:37Z",
     "createdAt": "2025-08-09T06:08:05Z",
     "latestRelease": {
       "name": "Samsung GKI Kernels With KSUN v3.3.0 & SUSFS v2.2.0",
