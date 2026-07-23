@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17378,
-    "updatedAt": "2026-07-22T18:43:52Z",
+    "stargazerCount": 17380,
+    "updatedAt": "2026-07-23T01:47:45Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 10036,
-    "updatedAt": "2026-07-22T18:49:14Z",
+    "stargazerCount": 10039,
+    "updatedAt": "2026-07-23T03:23:13Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.3",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3973,
-    "updatedAt": "2026-07-22T17:56:28Z",
+    "stargazerCount": 3974,
+    "updatedAt": "2026-07-23T03:22:48Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3754,
-    "updatedAt": "2026-07-22T19:28:20Z",
+    "stargazerCount": 3756,
+    "updatedAt": "2026-07-23T03:14:52Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -99,7 +99,7 @@
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
     "stargazerCount": 3301,
-    "updatedAt": "2026-07-22T19:06:36Z",
+    "updatedAt": "2026-07-23T03:23:10Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -164,8 +164,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2465,
-    "updatedAt": "2026-07-22T13:45:12Z",
+    "stargazerCount": 2466,
+    "updatedAt": "2026-07-23T03:18:36Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V39",
@@ -186,8 +186,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2448,
-    "updatedAt": "2026-07-22T17:39:58Z",
+    "stargazerCount": 2447,
+    "updatedAt": "2026-07-22T21:00:51Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -252,8 +252,8 @@
     ],
     "summary": "Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.",
     "metamodule": false,
-    "stargazerCount": 1869,
-    "updatedAt": "2026-07-22T09:18:34Z",
+    "stargazerCount": 1870,
+    "updatedAt": "2026-07-23T03:27:31Z",
     "createdAt": "2022-11-01T04:28:02Z",
     "latestRelease": {
       "name": "v5.1",
@@ -274,8 +274,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1493,
-    "updatedAt": "2026-07-22T18:46:12Z",
+    "stargazerCount": 1494,
+    "updatedAt": "2026-07-22T23:58:50Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.5",
@@ -428,8 +428,8 @@
     ],
     "summary": "OnePlus Kernels with KernelSU & SUSFS",
     "metamodule": false,
-    "stargazerCount": 635,
-    "updatedAt": "2026-07-21T10:41:44Z",
+    "stargazerCount": 634,
+    "updatedAt": "2026-07-22T21:00:48Z",
     "createdAt": "2024-12-07T23:27:22Z",
     "latestRelease": {
       "name": "OnePlus Kernels With KernelSU Next & SUSFS v2.2.0",
@@ -516,8 +516,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 496,
-    "updatedAt": "2026-07-22T14:49:48Z",
+    "stargazerCount": 497,
+    "updatedAt": "2026-07-23T00:38:39Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -538,8 +538,8 @@
     ],
     "summary": "Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way to use WireGuard and 2FA.",
     "metamodule": false,
-    "stargazerCount": 491,
-    "updatedAt": "2026-07-21T16:26:05Z",
+    "stargazerCount": 492,
+    "updatedAt": "2026-07-23T01:31:12Z",
     "createdAt": "2023-12-13T20:02:49Z",
     "latestRelease": {
       "name": "Magisk Tailscaled v2.0.0.1",
@@ -715,7 +715,7 @@
     "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
     "metamodule": false,
     "stargazerCount": 307,
-    "updatedAt": "2026-07-22T19:19:30Z",
+    "updatedAt": "2026-07-23T01:10:36Z",
     "createdAt": "2025-12-20T02:37:31Z",
     "latestRelease": {
       "name": "BRENE v0.0.55",
@@ -913,13 +913,13 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 173,
-    "updatedAt": "2026-07-22T17:12:52Z",
+    "updatedAt": "2026-07-22T21:58:25Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260077",
-      "version": "260077",
-      "time": "2026-07-22T11:37:22Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260077/discord-xposed-v338.13-Stable-arm-v7a.apk",
+      "name": "Build No. 260079",
+      "version": "260079",
+      "time": "2026-07-22T21:58:46Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260079/adobe-acrobat-morphe-v26.5.0.45958-arm-v7a.apk",
       "versionCode": 7
     }
   },
@@ -934,8 +934,8 @@
     ],
     "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
     "metamodule": false,
-    "stargazerCount": 171,
-    "updatedAt": "2026-07-22T16:25:01Z",
+    "stargazerCount": 172,
+    "updatedAt": "2026-07-22T22:53:51Z",
     "createdAt": "2026-06-27T00:51:25Z",
     "latestRelease": {
       "name": "v1.0.2",
@@ -1419,7 +1419,7 @@
     "summary": "Samsung Kernels with KernelSU & SUSFS",
     "metamodule": false,
     "stargazerCount": 34,
-    "updatedAt": "2026-07-22T19:05:37Z",
+    "updatedAt": "2026-07-23T02:30:42Z",
     "createdAt": "2025-08-09T06:08:05Z",
     "latestRelease": {
       "name": "Samsung GKI Kernels With KSUN v3.3.0 & SUSFS v2.2.0",
@@ -1533,10 +1533,10 @@
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
       "name": "Build 8c3257c27e05140a70d2041e4949d200fb864788",
-      "version": "build-204-8c3257c27e05140a70d2041e4949d200fb864788",
-      "time": "2026-07-21T20:38:31Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-204-8c3257c27e05140a70d2041e4949d200fb864788/Kono-Ha-1.1-stock-balance-20260721-183735.zip",
-      "versionCode": 183735
+      "version": "build-205-8c3257c27e05140a70d2041e4949d200fb864788",
+      "time": "2026-07-22T20:28:28Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-205-8c3257c27e05140a70d2041e4949d200fb864788/Kono-Ha-1.1-stock-balance-20260722-193354.zip",
+      "versionCode": 193354
     }
   },
   {
