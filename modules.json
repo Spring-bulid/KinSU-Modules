@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17388,
-    "updatedAt": "2026-07-23T19:32:31Z",
+    "stargazerCount": 17394,
+    "updatedAt": "2026-07-24T03:06:57Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 10054,
-    "updatedAt": "2026-07-23T18:42:12Z",
+    "stargazerCount": 10059,
+    "updatedAt": "2026-07-24T01:11:20Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.3",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3977,
-    "updatedAt": "2026-07-23T09:22:04Z",
+    "stargazerCount": 3978,
+    "updatedAt": "2026-07-24T03:02:36Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -76,8 +76,8 @@
     ],
     "summary": "Transparent implementation of Zygisk.",
     "metamodule": false,
-    "stargazerCount": 3764,
-    "updatedAt": "2026-07-23T18:40:29Z",
+    "stargazerCount": 3763,
+    "updatedAt": "2026-07-24T01:27:10Z",
     "createdAt": "2024-06-15T14:56:39Z",
     "latestRelease": {
       "name": "v1.0.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3302,
-    "updatedAt": "2026-07-23T11:05:59Z",
+    "stargazerCount": 3303,
+    "updatedAt": "2026-07-24T01:09:33Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -120,8 +120,8 @@
     ],
     "summary": "A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.",
     "metamodule": false,
-    "stargazerCount": 2526,
-    "updatedAt": "2026-07-23T14:02:04Z",
+    "stargazerCount": 2528,
+    "updatedAt": "2026-07-24T01:58:40Z",
     "createdAt": "2024-03-03T18:20:02Z",
     "latestRelease": {
       "name": "v2.1.4",
@@ -165,7 +165,7 @@
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
     "stargazerCount": 2468,
-    "updatedAt": "2026-07-23T06:40:10Z",
+    "updatedAt": "2026-07-24T03:14:11Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V39",
@@ -186,8 +186,8 @@
     ],
     "summary": "An addon root hiding service for KernelSU",
     "metamodule": false,
-    "stargazerCount": 2448,
-    "updatedAt": "2026-07-23T11:00:02Z",
+    "stargazerCount": 2449,
+    "updatedAt": "2026-07-24T00:38:14Z",
     "createdAt": "2024-10-19T03:13:26Z",
     "latestRelease": {
       "name": "v1.5.2+ Revision 27",
@@ -230,8 +230,8 @@
     ],
     "summary": "支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/kernelsu/APatch",
     "metamodule": false,
-    "stargazerCount": 1919,
-    "updatedAt": "2026-07-23T15:03:25Z",
+    "stargazerCount": 1920,
+    "updatedAt": "2026-07-24T02:21:53Z",
     "createdAt": "2022-10-09T18:07:36Z",
     "latestRelease": {
       "name": "v1.5.8",
@@ -274,8 +274,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1498,
-    "updatedAt": "2026-07-23T15:26:04Z",
+    "stargazerCount": 1499,
+    "updatedAt": "2026-07-24T03:20:05Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.5",
@@ -340,8 +340,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1295,
-    "updatedAt": "2026-07-23T09:19:00Z",
+    "stargazerCount": 1297,
+    "updatedAt": "2026-07-24T03:25:45Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260710",
@@ -472,8 +472,8 @@
     ],
     "summary": "WebUI X from MMRL but portable!",
     "metamodule": false,
-    "stargazerCount": 605,
-    "updatedAt": "2026-07-21T01:29:43Z",
+    "stargazerCount": 606,
+    "updatedAt": "2026-07-23T20:22:21Z",
     "createdAt": "2025-04-20T22:16:38Z",
     "latestRelease": {
       "name": "v438",
@@ -516,8 +516,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 500,
-    "updatedAt": "2026-07-23T17:22:49Z",
+    "stargazerCount": 501,
+    "updatedAt": "2026-07-24T02:11:41Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -560,8 +560,8 @@
     ],
     "summary": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
     "metamodule": false,
-    "stargazerCount": 481,
-    "updatedAt": "2026-07-22T16:39:57Z",
+    "stargazerCount": 483,
+    "updatedAt": "2026-07-24T00:17:53Z",
     "createdAt": "2026-04-09T21:43:44Z",
     "latestRelease": {
       "name": "v1.1.1",
@@ -692,8 +692,8 @@
     ],
     "summary": "BRENE - A SuSFS/KernelSU module for SuSFS patched kernels",
     "metamodule": false,
-    "stargazerCount": 309,
-    "updatedAt": "2026-07-23T11:00:17Z",
+    "stargazerCount": 310,
+    "updatedAt": "2026-07-24T00:43:13Z",
     "createdAt": "2025-12-20T02:37:31Z",
     "latestRelease": {
       "name": "BRENE v0.0.55",
@@ -759,7 +759,7 @@
     "summary": "Build the (Re)SukiSU kernel for OnePlus/Realme",
     "metamodule": false,
     "stargazerCount": 280,
-    "updatedAt": "2026-07-17T07:48:49Z",
+    "updatedAt": "2026-07-23T21:15:09Z",
     "createdAt": "2025-05-24T13:43:26Z",
     "latestRelease": {
       "name": "SM8750 oneplus_ace5_pro Kernel Build - 2026-06-13 17:48:35",
@@ -781,13 +781,13 @@
     "summary": "An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.",
     "metamodule": false,
     "stargazerCount": 252,
-    "updatedAt": "2026-07-23T12:40:06Z",
+    "updatedAt": "2026-07-23T22:33:52Z",
     "createdAt": "2024-07-16T23:47:19Z",
     "latestRelease": {
       "name": "Release",
-      "version": "151",
-      "time": "2026-07-16T11:03:58Z",
-      "downloadUrl": "https://github.com/peternmuller/revanced-morphe-builder/releases/download/151/youtube-morphe-module-v21.04.223-all.zip",
+      "version": "152",
+      "time": "2026-07-23T21:57:30Z",
+      "downloadUrl": "https://github.com/peternmuller/revanced-morphe-builder/releases/download/152/youtube-morphe-module-v21.04.223-all.zip",
       "versionCode": 223
     }
   },
@@ -868,8 +868,8 @@
     ],
     "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
     "metamodule": false,
-    "stargazerCount": 179,
-    "updatedAt": "2026-07-23T16:52:01Z",
+    "stargazerCount": 181,
+    "updatedAt": "2026-07-24T03:21:43Z",
     "createdAt": "2026-06-27T00:51:25Z",
     "latestRelease": {
       "name": "v1.0.2",
@@ -877,6 +877,28 @@
       "time": "2026-07-14T10:42:53Z",
       "downloadUrl": "https://github.com/evoker0/AlwaysStrong/releases/download/v1.0.2/AlwaysStrong-v1.0.2.zip",
       "versionCode": 2
+    }
+  },
+  {
+    "moduleId": "RipperHybrid_AshLooper",
+    "moduleName": "AshLooper",
+    "authors": [
+      {
+        "name": "RipperHybrid",
+        "link": "https://github.com/RipperHybrid"
+      }
+    ],
+    "summary": "A module designed to prevent boot loops caused by problematic modules installed via KernelSU or Magisk on Android devices.",
+    "metamodule": false,
+    "stargazerCount": 178,
+    "updatedAt": "2026-07-23T23:59:58Z",
+    "createdAt": "2024-02-06T16:43:12Z",
+    "latestRelease": {
+      "name": "AshLooper Version 9.8 Release",
+      "version": "v9.8",
+      "time": "2026-05-22T08:41:58Z",
+      "downloadUrl": "https://github.com/RipperHybrid/AshLooper/releases/download/v9.8/AshReXcue_Bootloop_Protector_9.8_198.zip",
+      "versionCode": 198
     }
   },
   {
@@ -902,28 +924,6 @@
     }
   },
   {
-    "moduleId": "RipperHybrid_AshLooper",
-    "moduleName": "AshLooper",
-    "authors": [
-      {
-        "name": "RipperHybrid",
-        "link": "https://github.com/RipperHybrid"
-      }
-    ],
-    "summary": "A module designed to prevent boot loops caused by problematic modules installed via KernelSU or Magisk on Android devices.",
-    "metamodule": false,
-    "stargazerCount": 177,
-    "updatedAt": "2026-07-22T17:40:04Z",
-    "createdAt": "2024-02-06T16:43:12Z",
-    "latestRelease": {
-      "name": "AshLooper Version 9.8 Release",
-      "version": "v9.8",
-      "time": "2026-05-22T08:41:58Z",
-      "downloadUrl": "https://github.com/RipperHybrid/AshLooper/releases/download/v9.8/AshReXcue_Bootloop_Protector_9.8_198.zip",
-      "versionCode": 198
-    }
-  },
-  {
     "moduleId": "nullcpy_rvb",
     "moduleName": "rvb",
     "authors": [
@@ -935,13 +935,13 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 174,
-    "updatedAt": "2026-07-23T17:53:04Z",
+    "updatedAt": "2026-07-23T22:11:15Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260084",
-      "version": "260084",
-      "time": "2026-07-23T17:53:13Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260084/trakt-morphe-v3.13.0-arm-v7a.apk",
+      "name": "Build No. 260085",
+      "version": "260085",
+      "time": "2026-07-23T22:11:02Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260085/adguard-morphe-nightly-module-v4.14.68-arm-v7a.zip",
       "versionCode": 7
     }
   },
@@ -978,8 +978,8 @@
     ],
     "summary": "A Magisk/KernelSU module to change tcp congestion algorithm based on current active internet type and some network enhancements.",
     "metamodule": false,
-    "stargazerCount": 139,
-    "updatedAt": "2026-07-19T17:15:24Z",
+    "stargazerCount": 140,
+    "updatedAt": "2026-07-23T23:03:50Z",
     "createdAt": "2025-05-09T17:07:07Z",
     "latestRelease": {
       "name": "2.5",
@@ -1375,7 +1375,7 @@
     "summary": "GKID feature-rich GKI kernel (6.1-android14) for Poco X6 Pro (duchamp) & other compatible Android devices - KernelSU/KernelSU Next/SukiSU Ultra/Wild KSU variants, SUSFS hiding, Baseband Guard (BBG), 3",
     "metamodule": false,
     "stargazerCount": 49,
-    "updatedAt": "2026-07-23T16:20:59Z",
+    "updatedAt": "2026-07-23T23:31:33Z",
     "createdAt": "2026-02-23T20:20:57Z",
     "latestRelease": {
       "name": "GKID v26.07.22-r432",
@@ -1419,7 +1419,7 @@
     "summary": "Samsung Kernels with KernelSU & SUSFS",
     "metamodule": false,
     "stargazerCount": 34,
-    "updatedAt": "2026-07-23T18:34:59Z",
+    "updatedAt": "2026-07-23T23:03:51Z",
     "createdAt": "2025-08-09T06:08:05Z",
     "latestRelease": {
       "name": "Samsung GKI Kernels With KSUN v3.3.0 & SUSFS v2.2.0",
@@ -1533,10 +1533,10 @@
     "createdAt": "2026-04-06T10:57:25Z",
     "latestRelease": {
       "name": "Build 8c3257c27e05140a70d2041e4949d200fb864788",
-      "version": "build-205-8c3257c27e05140a70d2041e4949d200fb864788",
-      "time": "2026-07-22T20:28:28Z",
-      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-205-8c3257c27e05140a70d2041e4949d200fb864788/Kono-Ha-1.1-stock-balance-20260722-193354.zip",
-      "versionCode": 193354
+      "version": "build-206-8c3257c27e05140a70d2041e4949d200fb864788",
+      "time": "2026-07-24T00:11:47Z",
+      "downloadUrl": "https://github.com/onyx-oss/konoha-kernel-gki/releases/download/build-206-8c3257c27e05140a70d2041e4949d200fb864788/Kono-Ha-1.1-stock-balance-20260723-191524.zip",
+      "versionCode": 191524
     }
   },
   {
@@ -1639,14 +1639,14 @@
     "summary": "红魔手机 KernelSU 模块 | WebUI · 风扇极速 · 充电分离 · 云控屏蔽 · 温控移除 · 振动增强 · 触控优化 · 充电加速 · 在线更新",
     "metamodule": false,
     "stargazerCount": 16,
-    "updatedAt": "2026-07-23T18:38:01Z",
+    "updatedAt": "2026-07-23T22:32:56Z",
     "createdAt": "2026-06-03T07:43:01Z",
     "latestRelease": {
-      "name": "v2.1.1",
-      "version": "v2.1.1",
-      "time": "2026-07-23T19:26:45Z",
-      "downloadUrl": "https://github.com/ling9ling7/RedMagic-FanExtreme/releases/download/v2.1.1/FanExtreme-v2.1.1.zip",
-      "versionCode": 1
+      "name": "更好的红魔v2.2.0",
+      "version": "v2.2.0",
+      "time": "2026-07-23T19:44:00Z",
+      "downloadUrl": "https://github.com/ling9ling7/RedMagic-FanExtreme/releases/download/v2.2.0/FanExtreme-v2.2.0.zip",
+      "versionCode": 0
     }
   },
   {
