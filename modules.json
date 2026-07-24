@@ -10,8 +10,8 @@
     ],
     "summary": "A Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 17408,
-    "updatedAt": "2026-07-24T12:23:13Z",
+    "stargazerCount": 17411,
+    "updatedAt": "2026-07-24T18:05:12Z",
     "createdAt": "2022-12-09T14:03:54Z",
     "latestRelease": {
       "name": "v3.2.5",
@@ -32,8 +32,8 @@
     ],
     "summary": "Standalone implementation of Zygisk",
     "metamodule": false,
-    "stargazerCount": 10065,
-    "updatedAt": "2026-07-24T12:58:00Z",
+    "stargazerCount": 10068,
+    "updatedAt": "2026-07-24T18:07:05Z",
     "createdAt": "2023-01-28T07:45:16Z",
     "latestRelease": {
       "name": "1.4.3",
@@ -54,8 +54,8 @@
     ],
     "summary": "An advanced Kernel based root solution for Android",
     "metamodule": false,
-    "stargazerCount": 3978,
-    "updatedAt": "2026-07-24T11:18:07Z",
+    "stargazerCount": 3979,
+    "updatedAt": "2026-07-24T14:09:51Z",
     "createdAt": "2025-01-11T08:30:02Z",
     "latestRelease": {
       "name": "v3.3.0",
@@ -98,8 +98,8 @@
     ],
     "summary": "A KSU WebUI to configure Tricky Store target.txt",
     "metamodule": false,
-    "stargazerCount": 3305,
-    "updatedAt": "2026-07-24T13:12:40Z",
+    "stargazerCount": 3307,
+    "updatedAt": "2026-07-24T16:39:35Z",
     "createdAt": "2024-10-15T19:59:35Z",
     "latestRelease": {
       "name": "v4.4",
@@ -164,8 +164,8 @@
     ],
     "summary": "A toolkit for managing Play Integrity & System Environment",
     "metamodule": false,
-    "stargazerCount": 2471,
-    "updatedAt": "2026-07-24T06:52:15Z",
+    "stargazerCount": 2472,
+    "updatedAt": "2026-07-24T15:20:50Z",
     "createdAt": "2025-02-27T01:50:55Z",
     "latestRelease": {
       "name": "V39",
@@ -208,8 +208,8 @@
     ],
     "summary": "A app for managing, sharing, and exploring Magisk modules across repositories",
     "metamodule": false,
-    "stargazerCount": 2094,
-    "updatedAt": "2026-07-24T10:06:51Z",
+    "stargazerCount": 2095,
+    "updatedAt": "2026-07-24T15:58:52Z",
     "createdAt": "2022-04-25T15:25:29Z",
     "latestRelease": {
       "name": "v34296",
@@ -274,8 +274,8 @@
     ],
     "summary": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
     "metamodule": false,
-    "stargazerCount": 1500,
-    "updatedAt": "2026-07-24T03:32:12Z",
+    "stargazerCount": 1502,
+    "updatedAt": "2026-07-24T18:56:07Z",
     "createdAt": "2026-02-18T13:42:14Z",
     "latestRelease": {
       "name": "Droidspaces v6.4.5",
@@ -340,8 +340,8 @@
     ],
     "summary": "A module to easily execute AdGuardHome on Android",
     "metamodule": false,
-    "stargazerCount": 1299,
-    "updatedAt": "2026-07-24T06:49:05Z",
+    "stargazerCount": 1300,
+    "updatedAt": "2026-07-24T18:26:35Z",
     "createdAt": "2023-11-22T14:48:00Z",
     "latestRelease": {
       "name": "20260710",
@@ -362,8 +362,8 @@
     ],
     "summary": "Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM and more feats.",
     "metamodule": false,
-    "stargazerCount": 1290,
-    "updatedAt": "2026-07-24T09:21:29Z",
+    "stargazerCount": 1291,
+    "updatedAt": "2026-07-24T17:18:42Z",
     "createdAt": "2025-04-04T02:54:54Z",
     "latestRelease": {
       "name": "OnePlus SukiSU Ultra Kernel — Build 40069(70)",
@@ -384,8 +384,8 @@
     ],
     "summary": "Globally mounted modules via OverlayFS.",
     "metamodule": false,
-    "stargazerCount": 1213,
-    "updatedAt": "2026-07-24T04:49:53Z",
+    "stargazerCount": 1214,
+    "updatedAt": "2026-07-24T19:20:22Z",
     "createdAt": "2025-01-10T12:35:03Z",
     "latestRelease": {
       "name": "203",
@@ -472,8 +472,8 @@
     ],
     "summary": "WebUI X from MMRL but portable!",
     "metamodule": false,
-    "stargazerCount": 606,
-    "updatedAt": "2026-07-23T20:22:21Z",
+    "stargazerCount": 607,
+    "updatedAt": "2026-07-24T15:58:54Z",
     "createdAt": "2025-04-20T22:16:38Z",
     "latestRelease": {
       "name": "v438",
@@ -516,8 +516,8 @@
     ],
     "summary": "安卓虚拟定位，基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
     "metamodule": false,
-    "stargazerCount": 502,
-    "updatedAt": "2026-07-24T05:18:33Z",
+    "stargazerCount": 503,
+    "updatedAt": "2026-07-24T14:21:33Z",
     "createdAt": "2026-01-15T16:59:56Z",
     "latestRelease": {
       "name": "v2.1.8",
@@ -582,8 +582,8 @@
     ],
     "summary": "Standalone implementation of KPM support for Magisk/KernelSU",
     "metamodule": false,
-    "stargazerCount": 447,
-    "updatedAt": "2026-07-21T08:40:34Z",
+    "stargazerCount": 448,
+    "updatedAt": "2026-07-24T17:23:50Z",
     "createdAt": "2025-12-30T05:59:35Z",
     "latestRelease": {
       "name": "Release v0.0.1",
@@ -626,8 +626,8 @@
     ],
     "summary": "OverlayFS MetaModule",
     "metamodule": false,
-    "stargazerCount": 426,
-    "updatedAt": "2026-07-24T06:37:46Z",
+    "stargazerCount": 425,
+    "updatedAt": "2026-07-24T19:20:08Z",
     "createdAt": "2025-11-21T04:35:16Z",
     "latestRelease": {
       "name": "v1.3.1",
@@ -671,13 +671,13 @@
     "summary": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop & Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Mag",
     "metamodule": false,
     "stargazerCount": 342,
-    "updatedAt": "2026-07-24T13:24:56Z",
+    "updatedAt": "2026-07-24T17:58:47Z",
     "createdAt": "2025-03-17T16:23:07Z",
     "latestRelease": {
-      "name": "COPG v5.9.0",
-      "version": "v5.9.0",
-      "time": "2026-07-20T21:11:20Z",
-      "downloadUrl": "https://github.com/AlirezaParsi/COPG/releases/download/v5.9.0/COPG-v5.9.0.zip",
+      "name": "COPG v6.0.0",
+      "version": "v6.0.0",
+      "time": "2026-07-24T17:58:27Z",
+      "downloadUrl": "https://github.com/AlirezaParsi/COPG/releases/download/v6.0.0/COPG-v6.0.0.zip",
       "versionCode": 0
     }
   },
@@ -846,8 +846,8 @@
     ],
     "summary": "A Magisk/KernelSU module trying to add native eSIM management support for Xiaomi devices with MIUI and Xiaomi HyperOS.",
     "metamodule": false,
-    "stargazerCount": 193,
-    "updatedAt": "2026-07-21T02:18:01Z",
+    "stargazerCount": 194,
+    "updatedAt": "2026-07-24T14:32:28Z",
     "createdAt": "2024-08-07T01:46:04Z",
     "latestRelease": {
       "name": "v4",
@@ -868,8 +868,8 @@
     ],
     "summary": "Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundled.",
     "metamodule": false,
-    "stargazerCount": 183,
-    "updatedAt": "2026-07-24T04:51:55Z",
+    "stargazerCount": 185,
+    "updatedAt": "2026-07-24T16:37:54Z",
     "createdAt": "2026-06-27T00:51:25Z",
     "latestRelease": {
       "name": "v1.0.2",
@@ -935,14 +935,14 @@
     "summary": "Automatically builds APKs and Magisk/KernelSU Modules with ReVanced, Revanced Extended, MorpheApp, RVX Morphed and Revanced Advanced patches whenever new patches are released. Updating 24/7...",
     "metamodule": false,
     "stargazerCount": 175,
-    "updatedAt": "2026-07-24T10:08:17Z",
+    "updatedAt": "2026-07-24T18:09:52Z",
     "createdAt": "2025-05-28T06:53:46Z",
     "latestRelease": {
-      "name": "Build No. 260086",
-      "version": "260086",
-      "time": "2026-07-24T05:12:51Z",
-      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260086/ninja-vpn-morphe-v1.4.7-arm64-v8a.apk",
-      "versionCode": 8
+      "name": "Build No. 260088",
+      "version": "260088",
+      "time": "2026-07-24T18:10:15Z",
+      "downloadUrl": "https://github.com/nullcpy/rvb/releases/download/260088/twitter-morphe-materialu-module-v12.7.1-release.0-arm-v7a.zip",
+      "versionCode": 7
     }
   },
   {
@@ -1132,8 +1132,8 @@
     ],
     "summary": "⚡Simple Flag Secure Magisk Module ⚡ to Disable Secure Flag and allow taking screenshots/screen recording in apps supports KSU/APatch",
     "metamodule": false,
-    "stargazerCount": 102,
-    "updatedAt": "2026-07-21T18:45:10Z",
+    "stargazerCount": 103,
+    "updatedAt": "2026-07-24T14:57:25Z",
     "createdAt": "2024-06-09T14:58:51Z",
     "latestRelease": {
       "name": "🆕 v5 - Changelogs",
@@ -1154,8 +1154,8 @@
     ],
     "summary": "MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules",
     "metamodule": false,
-    "stargazerCount": 89,
-    "updatedAt": "2026-07-15T08:37:16Z",
+    "stargazerCount": 90,
+    "updatedAt": "2026-07-24T15:58:56Z",
     "createdAt": "2023-10-16T07:38:00Z",
     "latestRelease": {
       "name": "v0.3.11",
@@ -1738,6 +1738,28 @@
     }
   },
   {
+    "moduleId": "LingLuo17_AK3",
+    "moduleName": "AK3",
+    "authors": [
+      {
+        "name": "LingLuo17",
+        "link": "https://github.com/LingLuo17"
+      }
+    ],
+    "summary": "Xiaomi  Kernels with KernelSU & SUSFS",
+    "metamodule": false,
+    "stargazerCount": 13,
+    "updatedAt": "2026-07-24T17:11:20Z",
+    "createdAt": "2026-06-20T20:46:10Z",
+    "latestRelease": {
+      "name": "ReSukiSU-35030",
+      "version": "ReSukiSU-35030",
+      "time": "2026-07-24T16:59:28Z",
+      "downloadUrl": "https://github.com/LingLuo17/AK3/releases/download/ReSukiSU-35030/ReSukiSU-35030-AnyKernel3-Redmi.K30.Pro.zip",
+      "versionCode": 30
+    }
+  },
+  {
     "moduleId": "djkcyl_oneplus_ace3p_susfs_ksu",
     "moduleName": "oneplus_ace3p_susfs_ksu",
     "authors": [
@@ -1845,28 +1867,6 @@
       "time": "2026-07-24T09:18:38Z",
       "downloadUrl": "https://github.com/hxreborn/revanced-magisk-module/releases/download/36/youtube-revanced-zygisk-module-v21.04.223-arm64-v8a.zip",
       "versionCode": 8
-    }
-  },
-  {
-    "moduleId": "LingLuo17_AK3",
-    "moduleName": "AK3",
-    "authors": [
-      {
-        "name": "LingLuo17",
-        "link": "https://github.com/LingLuo17"
-      }
-    ],
-    "summary": "Xiaomi  Kernels with KernelSU & SUSFS",
-    "metamodule": false,
-    "stargazerCount": 11,
-    "updatedAt": "2026-07-24T06:28:55Z",
-    "createdAt": "2026-06-20T20:46:10Z",
-    "latestRelease": {
-      "name": "SukiSU-40838",
-      "version": "SukiSU-40838",
-      "time": "2026-07-24T05:48:44Z",
-      "downloadUrl": "https://github.com/LingLuo17/AK3/releases/download/SukiSU-40838/SukiSU_kernel-android12-5.10-101-AnyKernel3.zip",
-      "versionCode": 3
     }
   },
   {
